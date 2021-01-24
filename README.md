@@ -1,6 +1,7 @@
 # KTLOSLoot
 KTLOSLoot
 
-This repository is designed to hold data to track the Loot distribution for KTLOS raids
-
-Maintained by BenDriller
+Only the following people should ever merge a pull request:
+Dillmcpickle - Melee Loot
+Mazzo - Healer Loot
+Theprestige - Caster Loot
