@@ -1,4 +1,3 @@
-# KTLOSLoot
 KTLOSLoot
 
 Rules: Only the following people should approve pull requests pertaining to:
