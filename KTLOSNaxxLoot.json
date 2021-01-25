@@ -237,7 +237,7 @@
 			"wowID":"22816"
 		},
 		"Libram of Light":{
-			"prio":["Lianli(1)","Soldeia(2)","Healer EP/GP"],
+			"prio":["Lianli(1)","Healer EP/GP"],
 			"gp":"6",
 			"wowID":"23006"
 		},
@@ -291,7 +291,7 @@
 			"wowID":"22352"
 		},
 		"Band of Unnatural Forces":{
-			"prio":["Killstep(sunnyD)","Johnscar(sunnyD)","Rogues","LC","EP/GP"],
+			"prio":["Rogues","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"23038"
 		},
