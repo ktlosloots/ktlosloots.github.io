@@ -604,7 +604,7 @@
 			"wowID":"23049"
 		},
 		"Sapphiron's Right Eye":{
-			"prio":["Healers must have a main hand first!","Nisio(2)","Darkdwarf(2)","Peku(2)","Jowsus(1)","Mazzo(1)","Healer EP/GP"],
+			"prio":["Healers must have a main hand first!","Darkdwarf(2)","Peku(2)","Jowsus(1)","Mazzo(1)","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"23048" 
 		},
@@ -614,7 +614,7 @@
 			"wowID":"23045" 
 		},
 		"Slayer's Crest":{
-			"prio":["Melee without DFT + Kiss","Johnscar(sunnyD)","LC","Rogues","EP/GP"],
+			"prio":["Melee without DFT + Kiss","LC","Rogues","EP/GP"],
 			"gp":"10",
 			"wowID":"23041"
 		},
