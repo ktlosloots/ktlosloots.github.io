@@ -48,7 +48,7 @@
 	},
 	"Miscellaneous":{
 		"Dreadnaught 4 pc":{
-			"prio":["Chrixus","Bonzai"],
+			"prio":["Bonzai"],
 			"gp":"10",
 			"wowID":""
 		},
@@ -193,7 +193,7 @@
 			"wowID":"22801"
 		},
 		"The Castigator":{
-			"prio":["LC","Human Fury Warr","EP/GP"],
+			"prio":["Morphiend(2)","LC","Human Fury Warr","EP/GP"],
 			"gp":"16",
 			"wowID":"22808"
 		}
@@ -478,7 +478,7 @@
 			"wowID":"22935"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["Healslol(1)","Warrior DPS","LC","EP/GP"],
+			"prio":["Healslol(1)","Warrior DPS w/o Hive Defilers","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22936"
 		}
