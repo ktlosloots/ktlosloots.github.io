@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Splinter of Atiesh":{
-			"prio":["Coxxy(1)","Blacklisted(1)","Moxie(2)","EP/GP"],
+			"prio":["Blacklisted(1)","Moxie(2)","EP/GP"],
 			"gp":"1",
 			"wowID":"22726"
 		}
@@ -97,7 +97,7 @@
 			"wowID":"22818"
 		},
 		"Wand of Fates":{
-			"prio":["Coxxy(1)","Blondi(1)","Warlocks","EP/GP"],
+			"prio":["Blondi(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"22820"
 		}
@@ -345,7 +345,7 @@
 			"wowID":"23014"
 		},
 		"Idol of Longevity":{
-			"prio":["Celesdea(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"23004"
 		},
@@ -424,7 +424,7 @@
 			"wowID":"22809"
 		},
 		"Seal of the Damned":{
-			"prio":["Kuku(1)","Austeezy(1)","Blacklisted(1)","Warlocks","EP/GP"],
+			"prio":["Blacklisted(1)","Warlocks","EP/GP"],
 			"gp":"6",
 			"wowID":"23025"
 		}, 
@@ -478,7 +478,7 @@
 			"wowID":"22935"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["Dill(1)","Healslol(1)","Warrior DPS","LC","EP/GP"],
+			"prio":["Healslol(1)","Warrior DPS","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22936"
 		}
@@ -547,7 +547,7 @@
 			"wowID":"22947"
 		},
 		"Wraith blade":{
-			"prio":["Blacklisted(1)","Meow(1)","EP/GP"],
+			"prio":["Blacklisted(1)","EP/GP"],
 			"gp":"18",
 			"wowID":"22807"
 		}
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth", "Claris(1)","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["Meow(1)","Theprestige(1)","Raehn(1)","EP/GP"],
+			"prio":["Theprestige(1)","Raehn(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
@@ -666,7 +666,7 @@
 			"wowID":"23059"
 		},
 		"Ring of the Dreamwalker":{
-			"prio":["Kare(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"3",
 			"wowID":"23064"
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jaz(1)","Jowsus(1)","Mazzo(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
