@@ -188,7 +188,7 @@
 			"wowID":"23000"
 		},
 		"Spire of Twilight":{
-			"prio":["EP/GP"],
+			"prio":["Fruithunni(1)","Wildhealer(1)","EP/GP"],
 			"gp":"12",
 			"wowID":"22801"
 		},
@@ -254,7 +254,7 @@
 			"wowID":"23019"
 		},
 		"Icy Scale Coif":{
-			"prio":["Oph(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"0",
 			"wowID":"23033"
 		},
@@ -434,7 +434,7 @@
 			"wowID":"22811"
 		}, 
 		"Warmth of Forgiveness":{
-			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","Priest Druid Healers","EP/GP"],
+			"prio":["Healers without Rejuv gem + Eye of the dead","Wildhealer(1)","Mazzo(1)","Celesdea(1)","Kare(1)","Nisio(2)","Snibbler(2)","LC","Priest Druid Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"23027"
 		}
@@ -500,7 +500,7 @@
 			"wowID":"22941"
 		},
 		"The Widow's Embrace":{
-			"prio":["Claris(1)","Wildhealer(1)","Healers", "EP/GP"],
+			"prio":["Claris(1)","Wildhealer(1)","Blaz(1)","Disthania(1)","Fruithunni(1)","Healers", "EP/GP"],
 			"gp":"12",
 			"wowID":"22942"
 		},
@@ -584,7 +584,7 @@
 			"wowID":"23050"
 		},
 		"Eye of the Dead":{
-			"prio":["Healers without Rejuv gem + Warmth","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Healers EP/GP"],
+			"prio":["Healers without Rejuv gem + Warmth","Soldeia(2)","Darkdwarf(2)","Jaz(1)","Fruithunni(1)","(LC)","Healers EP/GP"],
 			"gp":"10", 
 			"wowID":"23047" 
 		},
@@ -686,7 +686,7 @@
 			"wowID":"23054"
 		},
 		"Hammer of the Twisting Nether":{
-			"prio":["Jowsus(1)","Mazzo(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
+			"prio":["Jowsus(1)","Mazzo(1)","Wildhealer(1 -if no WE)","Kare(1)","Peku(2)","Madline(2)","Thrane(2)","Healers to EP/GP"],
 			"gp":"18",
 			"wowID":"23056"
 		},
