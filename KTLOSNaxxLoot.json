@@ -656,7 +656,7 @@
 			"wowID":"23066"
 		},
 		"Ring of the Cryptstalker":{
-			"prio":["EP/GP"],
+			"prio":["Mavan","EP/GP"],
 			"gp":"6",
 			"wowID":"23067"
 		},
@@ -701,7 +701,7 @@
 			"wowID":"22798"
 		},
 		"Nerubian Slavemaker":{
-			"prio":["Hunter","LC","EP/GP"],
+			"prio":["Millzz(2)","Hunter","LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22812"
 		},
