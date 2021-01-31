@@ -296,7 +296,7 @@
 			"wowID":"23038"
 		},
 		"Brimstone Staff":{
-			"prio":["Kuku(1)","EP/GP"],
+			"prio":["Rahen","Blacklisted","EP/GP"],
 			"gp":"16",
 			"wowID":"22800"
 		},
@@ -599,7 +599,7 @@
 			"wowID":"23046"
 		},
 		"Sapphiron's Left Eye":{
-			"prio":["Blacklisted(1)","Prestige(1)","EP/GP"],
+			"prio":["Prestige(1)","EP/GP"],
 			"gp":"10",
 			"wowID":"23049"
 		},
@@ -636,7 +636,7 @@
 			"wowID":"23060"
 		},
 		"Frostfire Ring":{
-			"prio":["Theprestige(1)","Raehn(1)","EP/GP"],
+			"prio":["Theprestige(1)","Raehn(1)","Blondi","EP/GP"],
 			"gp":"6",
 			"wowID":"23062"
 		},
