@@ -328,7 +328,7 @@
 			"wowID":"22365"
 		},
 		"Desecrated Sabatons":{
-			"prio":["4h Tanks","Johnscar(sunnyD)","Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["4h Tanks","Killstep(sunnyD)","LC","EP/GP"],
 			"gp":"8",
 			"wowID":"22358"
 		}
@@ -429,7 +429,7 @@
 			"wowID":"23025"
 		}, 
 		"Soulstring":{
-			"prio":["Vesterx(1)","Bendriller(sunnyD)","LC","EP/GP"],
+			"prio":["Vesterx(1)","LC","EP/GP"],
 			"gp":"6",
 			"wowID":"22811"
 		}, 
