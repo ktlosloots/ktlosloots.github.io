@@ -626,7 +626,7 @@
 	},
 	"Kel'Thuzad":{
 		"The Phylactery of Kel'Thuzad":{
-			"prio":["Killstep(sunnyD)","LC","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"22520"
 		},
