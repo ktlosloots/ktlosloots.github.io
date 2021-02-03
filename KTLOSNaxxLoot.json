@@ -53,7 +53,7 @@
 			"wowID":""
 		},
 		"Splinter of Atiesh":{
-			"prio":["Blacklisted(1)","Moxie(2)","EP/GP"],
+			"prio":["Blacklisted(1)","Moxie(2)","Kruzctrl(2)","EP/GP"],
 			"gp":"1",
 			"wowID":"22726"
 		}
@@ -478,7 +478,7 @@
 			"wowID":"22935"
 		},
 		"Wristguards of Vengeance":{
-			"prio":["Healslol(1)","Warrior DPS w/o Hive Defilers","LC","EP/GP"],
+			"prio":["Warrior DPS w/o Hive Defilers","LC","EP/GP"],
 			"gp":"5",
 			"wowID":"22936"
 		}
@@ -505,7 +505,7 @@
 			"wowID":"22942"
 		},
 		"Widow's Remorse":{
-			"prio":["Brienne(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"22806"
 		}
@@ -594,7 +594,7 @@
 			"wowID":"23040"
 		},
 		"Restrained Essence of Sapphiron":{
-			"prio":["Blacklisted(1)","Meow(1)","prestige","EP/GP"],
+			"prio":["Meow(1)","prestige","EP/GP"],
 			"gp":"15",
 			"wowID":"23046"
 		},
@@ -619,7 +619,7 @@
 			"wowID":"23041"
 		},
 		"The Face of Death":{
-			"prio":["Brienne(1)","Aisli(1)","Frau(2)","Tanks","LC","EP/GP"],
+			"prio":["Frau(2)","Tanks","LC","EP/GP"],
 			"gp":"10",
 			"wowID":"23043"
 		}
@@ -696,7 +696,7 @@
 			"wowID":"22802"
 		},
 		"Might of Menethil":{
-			"prio":["Dillmcpickle(1)","LC","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"20",
 			"wowID":"22798"
 		},
@@ -711,7 +711,7 @@
 			"wowID":"22819"
 		},
 		"Soulseeker":{
-			"prio":["Alters(1)","Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
+			"prio":["Rhaen(1)","Mage Prio over warlocks EPGP","EP/GP"],
 			"gp":"18",
 			"wowID":"22799"
 		},
