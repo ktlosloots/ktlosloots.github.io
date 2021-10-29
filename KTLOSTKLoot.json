@@ -1,0 +1,317 @@
+{
+	"Patterns":{
+		"Pattern: Belt of Natural Power":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30301"
+		},
+		"Pattern: Boots of Blasting":{
+			"prio":["Warlocks","EP/GP"],
+			"gp":"6",
+			"wowID":"30282"
+		},
+		"Pattern: Boots of Natural Grace":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30305"
+		},
+		"Pattern: Boots of the Crimson Hawk":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30307"
+		},
+		"Pattern: Boots of the Long Road":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30283"
+		},
+		"Pattern: Hurricane Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30308"
+		},
+		"Plans: Boots of the Protector":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30323"
+		},
+		"Plans: Red Havoc Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30324"
+		}
+	},
+	"Al'ar":{
+		"Arcanite Steam-Pistol":{
+			"prio":["Hunters if instead of bow (12 GP)","Rogues","EP/GP"],
+			"gp":"6",
+			"wowID":"29949"
+		},
+		"Band of Al'ar":{
+			"prio":["Jow(1)", "Demondred(1)", "Spriest>Mage","EP/GP"],
+			"gp":"5",
+			"wowID":"29922"
+		},
+		"Claw of the Phoenix":{
+			"prio":["Enh/","Boondockz(1)","Chiron(1)","Headshot(2)","EP/GP"],
+			"gp":"8",
+			"wowID":"29948"
+		},
+		"Fire Crest Breastplate":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"29921"
+		},
+		"Gloves of the Searing Grip":{
+			"prio":["Aisli(2)","Ret","Warrior/Enh","Feral/Tank","EP/GP"],
+			"gp": "5",
+			"wowID": "29947"
+		},
+		"Mindstorm Wristbands":{
+			"prio":["Demondred(1)", "Pexel(1)", "Killmcpickle(1)", "Coxxy(1)", "Cannie(1)", "Rubski(2)", "Gumdropz(2)", "Licinia(2)", "Pekumen(2)", "Danchk(2)", "arcane mage", "cloth dps>caster dps","EP/GP"],
+			"gp":"6",
+			"wowID":"29918"
+		},
+		"Netherbane":{
+			"prio":["Goatpickle(2)", "Vael(2)", "Enh/Surv Hunter/Fury War", "EP/GP"],
+			"gp":"10",
+			"wowID":"29924"
+		},
+		"Phoenix-Ring of Rebirth":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"29920"
+		},
+		"Phoenix-Wing Cloak":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"5",
+			"wowID":"29925"
+		},
+		"Talisman of the Sun King":{
+			"prio":["Mommy","Kare","Mazzo","Healers","EP/GP"],
+			"gp":"8",
+			"wowID":"29923"
+		},
+		"Talon of Al'ar":{
+			"prio":["EP/GP"],
+			"gp":"4",
+			"wowID":"30448"
+		},
+		"Talon of the Phoenix":{
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
+			"gp":"14",
+			"wowID":"32944"
+		},
+		"Tome of Fiery Redemption":{
+			"prio":["EP/GP"],
+			"gp":"8",
+			"wowID":"30447"
+		}
+	},
+	"Void Reaver":{
+		"Pauldrons of the Vanquished Champion":{
+			"prio":["rogue>holy pally", "EP/GP"],
+			"gp":"7",
+			"wowID":"30248"
+		},
+		"Pauldrons of the Vanquished Defender":{
+			"prio":["Tank>DPS>Healer","EP/GP"],
+			"gp":"7",
+			"wowID":"30249"
+		},
+		"Pauldrons of the Vanquished Hero":{
+			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Warlock","EP/GP"],
+			"gp":"7",
+			"wowID":"30250"
+		},
+		"Cowl of the Grand Engineer":{
+			"prio":["Shadow Priests","EP/GP"],
+			"gp":"7",
+			"wowID":"29986"
+		},
+		"Fel Reaver's Piston":{
+			"prio":["EP/GP"],
+			"gp":"8",
+			"wowID":"30619"
+		},
+		"Fel-Steel Warhelm":{
+			"prio":["Warrior/Ret","EP/GP"],
+			"gp":"5",
+			"wowID":"29983"
+		},
+		"Girdle of Zaetar":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"29984"
+		},
+		"Void Reaver Greaves":{
+			"prio":["Hunters/Enh","EP/GP"],
+			"gp":"6",
+			"wowID":"29985"
+		},
+		"Warp-Spring Coil":{
+			"prio":["Rogues obvi","EP/GP"],
+			"gp":"12",
+			"wowID":"30450"
+		},
+		"Wristguards of Determination":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"6",
+			"wowID":"32515"
+		}
+	},
+	"High Astromancer Solarian":{
+		"Boots of the Resilient":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"6",
+			"wowID":"32267"
+		},
+		"Ethereum Life-Staff":{
+			"prio":["EP/GP"],
+			"gp":"12",
+			"wowID":"29981"
+		},
+		"Girdle of the Righteous Path":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"29965"
+		},
+		"Greaves of the Bloodwarder":{
+			"prio":["Warrior DPS/Ret","Warrior Tanks","EP/GP"],
+			"gp":"6",
+			"wowID":"29950"
+		},
+		"Heatrazor":{
+			"prio":["EP/GP"],
+			"gp":"10",
+			"wowID":"29962"
+		},
+		"Solarian's Sapphire":{
+			"prio":["EP/GP"],
+			"gp":"4",
+			"wowID":"30446"
+		},
+		"Star-Soul Breeches":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"29977"
+		},
+		"Star-Strider Boots":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"29951"
+		},
+		"Trousers of the Astromancer":{
+			"prio":["Jowsus(1)", "Spriests","EP/GP"],
+			"gp":"6",
+			"wowID":"29972"
+		},
+		"Vambraces of Ending":{
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
+			"gp":"6",
+			"wowID":"29966"
+		},
+		"Void Star Talisman":{
+			"prio":["Coxxy(1)", "Killmcpickle(1)", "Danchk(2)", "Black(2)", "Warlock PVPer","EP/GP"],
+			"gp":"6",
+			"wowID":"30449"
+		},
+		"Wand of the Forgotten Star":{
+			"prio":["Demondred(1)","Pexel(1)", "Killmcpickle(1)", "Coxxy(1)", "Jowsus(1)", "Prestige(1)", "Raehn(1)", "Micro(1)", "Blacklisted(2)", "Rubski(2)", "Danchk(2)", "Destro Warlock/Spriest/Fire Mage","EP/GP"],
+			"gp":"6",
+			"wowID":"29982"
+		},
+		"Worldstorm Gauntlets":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"29976"
+		}
+	},
+	"Kael'thas Sunstrider":{
+		"Ashes of Al'ar":{
+			"prio":["GBID"],
+			"gp":"",
+			"wowID":"32458"
+		},
+		"Verdant Sphere":{
+			"prio":["Shamander","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"gp":"7",
+			"wowID":"32405"
+		},
+		"Chestguard of the Vanquished Hero":{
+			"prio":["Raehn(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
+			"gp":"7",
+			"wowID":"30238"
+		},
+		"Chestguard of the Vanquished Champion":{
+			"prio":["Tank>DPS>Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30236"
+		},
+		"Chestguard of the Vanquished Defender":{
+			"prio":["Tank>DPS>Healer","EP/GP"],
+			"gp":"7",
+			"wowID":"30237"
+		},
+		"Band of the Ranger-General":{
+			"prio":["Dillmcpickle","Boondockz(1)","Mavan(2)","Headshot(2)","ENH/ROGUE/DPS war","EP/GP"],
+			"gp":"6",
+			"wowID":"29997"
+		},
+		"Crown of the Sun":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"29990"
+		},
+		"Gauntlets of the Sun King":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"29987"
+		},
+		"Leggings of Murderous Intent":{
+			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","DPS WAR","EP/GP"],
+			"gp":"7",
+			"wowID":"29995"
+		},
+		"Rod of the Sun King":{
+			"prio":["DardyBee","KimDriller","Wayllo","ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
+			"gp":"14",
+			"wowID":"29996"
+		},
+		"Royal Cloak of the Sunstriders":{
+			"prio":["Jowsus(1)", "Demondred(1)", "Gotosleep(2)", "Votelock(2)", "Spriest/Mage/Afflic Lock","EP/GP"],
+			"gp":"6",
+			"wowID":"29992"
+		},
+		"Royal Guantlets of Silvermoon":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"7",
+			"wowID":"29998"
+		},
+		"Sunhawk Leggings":{
+			"prio":["EP/GP"],
+			"gp":"7",
+			"wowID":"29991"
+		},
+		"Sunshower Light Cloak":{
+			"prio":["Kare","Sebela","TBD","Mommy","Mazzo","EP/GP"],
+			"gp":"6",
+			"wowID":"29989"
+		},
+		"Thalassian Wildercloak":{
+			"prio":["Hunter>Enh/Feral","EP/GP"],
+			"gp":"6",
+			"wowID":"29994"
+		},
+		"The Nexus Key":{
+			"prio":["TBD", "TBD", "Licinia(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
+			"gp":"14",
+			"wowID":"29988"
+		},
+		"Twinblade of the Phoenix":{
+			"prio":["Warrior>Ret (PVE>PVP)","EP/GP"],
+			"gp":"14",
+			"wowID":"29993"
+		}
+	}
+}
