@@ -53,7 +53,7 @@
 			"wowID":"29922"
 		},
 		"Claw of the Phoenix":{
-			"prio":["Enh/","Boondockz(1)","Chiron(1)","Headshot(2)","EP/GP"],
+			"prio":["Enh","Chiron(1)","EP/GP"],
 			"gp":"8",
 			"wowID":"29948"
 		},
@@ -63,17 +63,17 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Aisli(2)","Ret","Warrior/Enh","Feral/Tank","EP/GP"],
+			"prio":["Ret","Warrior/Enh","Feral/Tank","EP/GP"],
 			"gp": "5",
 			"wowID": "29947"
 		},
 		"Mindstorm Wristbands":{
-			"prio":["Demondred(1)", "Pexel(1)", "Killmcpickle(1)", "Coxxy(1)", "Cannie(1)", "Rubski(2)", "Gumdropz(2)", "Licinia(2)", "Pekumen(2)", "Danchk(2)", "arcane mage", "cloth dps>caster dps","EP/GP"],
+			"prio":["Demondred(1)", "Pexel(1)", "Killmcpickle(1)", "Coxxy(1)", "Cannie(1)", "Rubski(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"29918"
 		},
 		"Netherbane":{
-			"prio":["Goatpickle(2)", "Vael(2)", "Enh/Surv Hunter/Fury War", "EP/GP"],
+			"prio":["Enh/Surv Hunter/Fury War", "EP/GP"],
 			"gp":"10",
 			"wowID":"29924"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"29925"
 		},
 		"Talisman of the Sun King":{
-			"prio":["Mommy","Kare","Mazzo","Healers","EP/GP"],
+			"prio":["Mommy","Mazzo","Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"29923"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"30448"
 		},
 		"Talon of the Phoenix":{
-			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
+			"prio":["Chiron(1)","EP/GP"],
 			"gp":"14",
 			"wowID":"32944"
 		},
@@ -120,7 +120,7 @@
 			"wowID":"30249"
 		},
 		"Pauldrons of the Vanquished Hero":{
-			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Warlock","EP/GP"],
+			"prio":["Mages(2pc)>Surv Hunter>BM Hunters>Warlock","EP/GP"],
 			"gp":"7",
 			"wowID":"30250"
 		},
@@ -207,17 +207,17 @@
 			"wowID":"29972"
 		},
 		"Vambraces of Ending":{
-			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","EP/GP"],
+			"prio":["Chiron(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"29966"
 		},
 		"Void Star Talisman":{
-			"prio":["Coxxy(1)", "Killmcpickle(1)", "Danchk(2)", "Black(2)", "Warlock PVPer","EP/GP"],
+			"prio":["Coxxy(1)", "Killmcpickle(1)","Warlock PVPer","EP/GP"],
 			"gp":"6",
 			"wowID":"30449"
 		},
 		"Wand of the Forgotten Star":{
-			"prio":["Demondred(1)","Pexel(1)", "Killmcpickle(1)", "Coxxy(1)", "Jowsus(1)", "Prestige(1)", "Raehn(1)", "Micro(1)", "Blacklisted(2)", "Rubski(2)", "Danchk(2)", "Destro Warlock/Spriest/Fire Mage","EP/GP"],
+			"prio":["Demondred(1)","Killmcpickle(1)", "Jowsus(1)", "Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
 			"gp":"6",
 			"wowID":"29982"
 		},
@@ -234,12 +234,12 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Shamander","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
 		"Chestguard of the Vanquished Hero":{
-			"prio":["Raehn(1) until 2pc","Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
+			"prio":["Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
 			"gp":"7",
 			"wowID":"30238"
 		},
@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Dillmcpickle","Boondockz(1)","Mavan(2)","Headshot(2)","ENH/ROGUE/DPS war","EP/GP"],
+			"prio":["Dillmcpickle","ENH/ROGUE/DPS war","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -269,17 +269,17 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Boondockz(1)","Chiron(1)","Mavan(2)","Headshot(2)","DPS WAR","EP/GP"],
+			"prio":["Chiron(1)","DPS WAR","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
 		"Rod of the Sun King":{
-			"prio":["DardyBee","KimDriller","Wayllo","ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
+			"prio":["Wayllo","ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
 			"gp":"14",
 			"wowID":"29996"
 		},
 		"Royal Cloak of the Sunstriders":{
-			"prio":["Jowsus(1)", "Demondred(1)", "Gotosleep(2)", "Votelock(2)", "Spriest/Mage/Afflic Lock","EP/GP"],
+			"prio":["Jowsus(1)", "Demondred(1)","Spriest/Mage/Afflic Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"29992"
 		},
@@ -294,7 +294,7 @@
 			"wowID":"29991"
 		},
 		"Sunshower Light Cloak":{
-			"prio":["Kare","Sebela","TBD","Mommy","Mazzo","EP/GP"],
+			"prio":["Sebela","TBD","Mommy","Mazzo","EP/GP"],
 			"gp":"6",
 			"wowID":"29989"
 		},
@@ -304,7 +304,7 @@
 			"wowID":"29994"
 		},
 		"The Nexus Key":{
-			"prio":["TBD", "TBD", "Licinia(2)", "Arcane mage/Boomkin/Ele","EP/GP"],
+			"prio":["Arcane mage/Boomkin/Ele","EP/GP"],
 			"gp":"14",
 			"wowID":"29988"
 		},
