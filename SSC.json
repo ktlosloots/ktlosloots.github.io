@@ -1,0 +1,370 @@
+{
+	"Hydross the Unstable":{
+		"Band of Vile Aggression":{
+			"prio":["PVP/Tank","EP/GP"],
+			"gp":"5",
+			"wowID":"33055"
+		},
+		"Blackfathom Warbands":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"4",
+			"wowID":"30047"
+		},
+		"Boots of the Shifting Nightmare":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"4",
+			"wowID":"30050"
+		},
+		"Brighthelm of Justice":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"4",
+			"wowID":"30048"
+		},
+		"Fathomstone":{
+			"prio":["Pexel(1)", "Demondred(1)", "Coxxy(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Lock","EP/GP"],
+			"gp":"5",
+			"wowID":"30049"
+		},
+		"Living Root of the Wildheart":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"4",
+			"wowID":"30664"
+		},
+		"Pauldrons of the Wardancer":{
+			"prio":["Warrior/Ret","EP/GP"],
+			"gp":"6",
+			"wowID":"30053"
+		},
+		"Ranger-General's Chestguard":{
+			"prio":["headshots(2)","Hunter/Enh","EP/GP"],
+			"gp":"6",
+			"wowID":"30054"
+		},
+		"Ring of Lethality":{
+			"prio":["Rogue","Enh/Hunter","EP/GP"],
+			"gp":"5",
+			"wowID":"30052"
+		},
+		"Robe of Hateful Echoes":{
+			"prio":["Cannie", "Caster DPS","EP/GP"],
+			"gp":"6",
+			"wowID":"30056"
+		},
+		"Scarab of Displacement":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"4",
+			"wowID":"30629"
+		},
+		"Shoulderpads of the Stranger":{
+			"prio":["Enh","Ret","Warrior/rogue","EP/GP"],
+			"gp":"6",
+			"wowID":"30055"
+		},
+		"Wraps of Purification":{
+			"prio":["Healer","EP/GP"],
+			"gp":"6",
+			"wowID":"32516"
+		}
+	},
+	"The Lurker Below":{
+		"Ancestral Ring of Conquest":{
+			"prio":["Ret>Tanks","EP/GP"],
+			"gp":"5",
+			"wowID":"30061"
+		},
+		"Boots of Effortless Striking":{
+			"prio":["Hunter/Rogue/Enh","EP/GP"],
+			"gp":"5",
+			"wowID":"30060"
+		},
+		"Bracers of Eradication":{
+			"prio":["Warrior DPS","EP/GP"],
+			"gp":"6",
+			"wowID":"30057"
+		},
+		"Choker of Animalistic Fury":{
+			"prio":["Melee DPS","EP/GP"],
+			"gp":"5",
+			"wowID":"30059"
+		},
+		"Cord of Screaming Terrors":{
+			"prio":["whichever lock gets belt of blasting last", "warlock", "Caster DPS","EP/GP"],
+			"gp":"5",
+			"wowID":"30064"
+		},
+		"Earring of Soulful Meditation":{
+			"prio":["Priest lol","EP/GP"],
+			"gp":"4",
+			"wowID":"30665"
+		},
+		"Glowing Breastplate of Truth":{
+			"prio":["Hpal","EP/GP"],
+			"gp":"6",
+			"wowID":"30065"
+		},
+		"Grove-Bands of Remulos":{
+			"prio":["Restos","EP/GP"],
+			"gp":"6",
+			"wowID":"30062"
+		},
+		"Mallet of the Tides":{
+			"prio":["Warrior Tanks","EP/GP"],
+			"gp":"14",
+			"wowID":"30058"
+		},
+		"Tempest-Strider Boots":{
+			"prio":["Healers","EP/GP"],
+			"gp":"6",
+			"wowID":"30066"
+		},
+		"The Seal of Danzalar":{
+			"prio":["Coxxy(1)","Killmcpickle(1)", "Black(2)","PVP Prio","EP/GP"],
+			"gp":"5",
+			"wowID":"33054"
+		},
+		"Velvet Boots of the Guardian":{
+			"prio":["Mage/Ele/Boom?","EP/GP"],
+			"gp":"6",
+			"wowID":"30067"
+		}
+	},
+	"Leotheras the Blind":{
+		"Gloves of the Vanquished Hero":{
+			"prio":["Hunters", "Hunter>Lock>Mage","EP/GP"],
+			"gp":"6",
+			"wowID":"30241"
+		},
+		"Gloves of the Vanquished Champion":{
+			"prio":["Tank>DPS>Healer","EP/GP"],
+			"gp":"7",
+			"wowID":"30239"
+		},
+		"Gloves of the Vanquished Defender":{
+			"prio":["Tanks>DPS>Heals","EP/GP"],
+			"gp":"7",
+			"wowID":"30240"
+		},
+		"Coral-Barbed Shoulderpads":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"6",
+			"wowID":"30097"
+		},
+		"Fang of the Leviathan":{
+			"prio":["Pexel(1)", "Demondred(1)", "Coxxy/Dill(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Warlocks>Prot Pallys","EP/GP"],
+			"gp":"14",
+			"wowID":"30095"
+		},
+		"Girdle of the Invulnerable":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"6",
+			"wowID":"30096"
+		},
+		"Orca-Hide Boots":{
+			"prio":["Rasbeary","EP/GP"],
+			"gp":"6",
+			"wowID":"30092"
+		},
+		"True-Aim Stalker Bands":{
+			"prio":["Enh","Hunters waiting for Ending","EP/GP"],
+			"gp":"6",
+			"wowID":"30091"
+		},
+		"Tsunami Talisman":{
+			"prio":["Grim(1)","Warrior DPS/Enh","EP/GP"],
+			"gp":"8",
+			"wowID":"30627"
+		}
+	},
+	"Fathom-Lord Karathress":{
+		"Leggings of the Vanquished Hero":{
+			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc", "Mage(2pc)>Warlock>Hunter","EP/GP"],
+			"gp":"7",
+			"wowID":"30247"
+		},
+		"Leggings of the Vanquished Champion":{
+			"prio":["Tank>DPS>Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30245"
+		},
+		"Leggings of the Vanquished Defender":{
+			"prio":["Tanks>DPS>Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30246"
+		},
+		"Bloodsea Brigand's Vest":{
+			"prio":["Rogues","EP/GP"],
+			"gp":"7",
+			"wowID":"30101"
+		},
+		"Fathom-Brooch of the Tidewalker":{
+			"prio":["Shams","EP/GP"],
+			"gp":"5",
+			"wowID":"30663"
+		},
+		"Frayed Tether of the Drowned":{
+			"prio":["Warrior Tanks>Other Tanks","EP/GP"],
+			"gp":"6",
+			"wowID":"30099"
+		},
+		"Sextant of Unstable Currents":{
+			"prio":["Caster Memers","EP/GP"],
+			"gp":"5",
+			"wowID":"30626"
+		},
+		"Soul-Strider Boots":{
+			"prio":["Healers","EP/GP"],
+			"gp":"6",
+			"wowID":"30100"
+		},
+		"World Breaker":{
+			"prio":["PVE>PVP","EP/GP"],
+			"gp":"10",
+			"wowID":"30090"
+		}
+		
+	},
+	"Morogrim Tidewalker":{
+		"Band of the Vigilant":{
+			"prio":["PVP Healers","EP/GP"],
+			"gp":"5",
+			"wowID":"33058"
+		},
+		"Girdle of the Tidal Call":{
+			"prio":["Enh/Ret","EP/GP"],
+			"gp":"5",
+			"wowID":"30068"
+		},
+		"Gnarled Chestpiece of the Ancients":{
+			"prio":["Healers","EP/GP"],
+			"gp":"5",
+			"wowID":"30075"
+		},
+		"Illidari Shoulderpads":{
+			"prio":["Casters","EP/GP"],
+			"gp":"6",
+			"wowID":"30079"
+		},
+		"Luminescent Rod of the Naaru":{
+			"prio":["Priests","EP/GP"],
+			"gp":"6",
+			"wowID":"30080"
+		},
+		"Mantle of the Tireless Tracker":{
+			"prio":["Hunter/Enh","EP/GP"],
+			"gp":"4",
+			"wowID":"30085"
+		},
+		"Pauldrons of the Argent Sentinel":{
+			"prio":["Hpal","EP/GP"],
+			"gp":"4",
+			"wowID":"30084"
+		},
+		"Pendant of the Lost Ages":{
+			"prio":["PVP","EP/GP"],
+			"gp":"5",
+			"wowID":"30008"
+		},
+		"Razor-Scale Battlecloak":{
+			"prio":["Ret>","EP/GP"],
+			"gp":"",
+			"wowID":"30098"
+		},
+		"Ring of Sundered Souls":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"5",
+			"wowID":"30083"
+		},
+		"Serpent-Coil Braid":{
+			"prio":["Mage ofc","EP/GP"],
+			"gp":"8",
+			"wowID":"30720"
+		},
+		"Talon of Azshara":{
+			"prio":["Wayllo","Dillmcpickle","Rogue>Warrior","EP/GP"],
+			"gp":"14",
+			"wowID":"30082"
+		},
+		"Warboots of Obliteration":{
+			"prio":["Warr DPS/Ret","EP/GP"],
+			"gp":"6",
+			"wowID":"30081"
+		}
+	},
+	"Lady Vashj":{
+		"Helm of the Vanquished Hero":{
+			"prio":["Raehn(1) until 2pc", "Hunter with 3 pieces(1)", "Lock", "Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
+			"gp":"7",
+			"wowID":"30244"
+		},
+		"Helm of the Vanquished Champion":{
+			"prio":["Tank>DPS>Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30242"
+		},
+		"Helm of the Vanquished Defender":{
+			"prio":["Non-Engi Tanks","Non-Engi DPS","Non-Engi Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30243"
+		},
+		"Belt of One-Hundred Deaths":{
+			"prio":["Wayllo(1)","KimDriller(2)","Destain(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
+			"gp":"8",
+			"wowID":"30106"
+		},
+		"Cobra-Lash Boots":{
+			"prio":["Hunter","Boondockz(1)","Chiron(1)","Headshots(2)","Mavan(2)","EP/GP"],
+			"gp":"7",
+			"wowID":"30104"
+		},
+		"Coral Band of the Revived":{
+			"prio":["Seb","Kare","Fabi","Mazzo","Mommy","Healers","EP/GP"],
+			"gp":"6",
+			"wowID":"30110"
+		},
+		"Fang of Vashj":{
+			"prio":["Rogue/Warr Tank","EP/GP"],
+			"gp":"12",
+			"wowID":"30103"
+		},
+		"Glorious Gauntlets of Crestfall":{
+			"prio":["Hpal","EP/GP"],
+			"gp":"7",
+			"wowID":"30112"
+		},
+		"Krakken-Heart Breastplate":{
+			"prio":["Warr/Ret","EP/GP"],
+			"gp":"5",
+			"wowID":"30102"
+		},
+		"Lightfathom Scepter":{
+			"prio":["Mommy","Mazzo","Fabi","Seb","Kare","Healers","EP/GP"],
+			"gp":"14",
+			"wowID":"30108"
+		},
+		"Prism of Inner Calm":{
+			"prio":["IDK","EP/GP"],
+			"gp":"5",
+			"wowID":"30621"
+		},
+		"Ring of Endless Coils":{
+			"prio":["Jow(1)", "Gojira(1)", "Canni(1)", "Wayllo(2)", "Blacklisted(2)", "Rubski(2)", "Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
+			"gp":"6",
+			"wowID":"30109"
+		},
+		"Runetotem's Mantle":{
+			"prio":["Healers","EP/GP"],
+			"gp":"7",
+			"wowID":"30111"
+		},
+		"Serpent Spine Longbow":{
+			"prio":["Chiron(1)","Boon(1)","Headshots(2)","Mavan(2)","Hunter?","EP/GP"],
+			"gp":"14(Hunt) 6(Melee)",
+			"wowID":"30105"
+		},
+		"Vestments of the Sea-Witch":{
+			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)", "Pexel(1)", "Rubski(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
+			"gp":"14",
+			"wowID":"30107"
+		}
+	}
+}
