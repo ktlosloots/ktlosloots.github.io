@@ -21,7 +21,7 @@
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Pexel(1)", "Demondred(1)", "Coxxy(1)", "Rubski(2)", "Gumdropz(2)", "Canni(2)", "Lock","EP/GP"],
+			"prio":["Lock","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
@@ -150,7 +150,7 @@
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Pexel(1)", "Demondred(1)", "Coxxy/Dill(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Warlocks>Prot Pallys","EP/GP"],
+			"prio":["Coxxy/Dill(1)", "Rubski(2)", "Warlocks>Prot Pallys","EP/GP"],
 			"gp":"14",
 			"wowID":"30095"
 		},
@@ -182,7 +182,7 @@
 			"wowID":"30247"
 		},
 		"Leggings of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["DESTAIN PLZ","Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30245"
 		},
@@ -192,7 +192,7 @@
 			"wowID":"30246"
 		},
 		"Bloodsea Brigand's Vest":{
-			"prio":["Rogues","EP/GP"],
+			"prio":["Rogues>Warrior DPS","EP/GP"],
 			"gp":"7",
 			"wowID":"30101"
 		},
@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Hunter with 3 pieces(1)", "Lock(non-engi)", "Wayllo(2pc)","Mage(2pc)","EP/GP"],
+			"prio":["Hunter with 3 pieces(1)","Mage(2pc)","Lock","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -347,7 +347,7 @@
 			"wowID":"30621"
 		},
 		"Ring of Endless Coils":{
-			"prio":["Jow(1)", "Canni(1)", "Wayllo(2)", "Rubski(2)", "Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
+			"prio":["Boomkin/Lock/Shadow/Fire Mage/Ele","EP/GP"],
 			"gp":"6",
 			"wowID":"30109"
 		},
@@ -357,12 +357,12 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Chiron(1)","Hunter?","EP/GP"],
+			"prio":["Chiron(1)","Hunter","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)", "Pexel(1)", "Rubski(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
+			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)","Rubski(2)","Warlock","Mage","EP/GP"],
 			"gp":"14",
 			"wowID":"30107"
 		}
