@@ -6,27 +6,27 @@
 			"wowID":"33055"
 		},
 		"Blackfathom Warbands":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"30047"
 		},
 		"Boots of the Shifting Nightmare":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"30050"
 		},
 		"Brighthelm of Justice":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Pexel(1)", "Demondred(1)", "Coxxy(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Lock","EP/GP"],
+			"prio":["Lock","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
 		"Living Root of the Wildheart":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"4",
 			"wowID":"30664"
 		},
@@ -36,7 +36,7 @@
 			"wowID":"30053"
 		},
 		"Ranger-General's Chestguard":{
-			"prio":["headshots(2)","Hunter/Enh","EP/GP"],
+			"prio":["Hunter/Enh","EP/GP"],
 			"gp":"6",
 			"wowID":"30054"
 		},
@@ -118,7 +118,7 @@
 			"wowID":"30066"
 		},
 		"The Seal of Danzalar":{
-			"prio":["Coxxy(1)","Killmcpickle(1)", "Black(2)","PVP Prio","EP/GP"],
+			"prio":["PVP Prio","EP/GP"],
 			"gp":"5",
 			"wowID":"33054"
 		},
@@ -145,12 +145,12 @@
 			"wowID":"30240"
 		},
 		"Coral-Barbed Shoulderpads":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Pexel(1)", "Demondred(1)", "Coxxy/Dill(1)", "Rubski(2)", "Gumdropz(2)", "Votelock(2)", "Canni(2)", "Warlocks>Prot Pallys","EP/GP"],
+			"prio":["Coxxy/Dill(1)", "Rubski(2)", "Warlocks>Prot Pallys","EP/GP"],
 			"gp":"14",
 			"wowID":"30095"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Grim(1)","Warrior DPS/Enh","EP/GP"],
+			"prio":["Warrior DPS/Enh","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
@@ -182,7 +182,7 @@
 			"wowID":"30247"
 		},
 		"Leggings of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["DESTAIN PLZ","Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30245"
 		},
@@ -192,7 +192,7 @@
 			"wowID":"30246"
 		},
 		"Bloodsea Brigand's Vest":{
-			"prio":["Rogues","EP/GP"],
+			"prio":["Rogues>Warrior DPS","EP/GP"],
 			"gp":"7",
 			"wowID":"30101"
 		},
@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Raehn(1) until 2pc", "Hunter with 3 pieces(1)", "Lock", "Wayllo(2pc)","Mage(2pc)","Warlocks get the helm first unless a hunter needs it to finish the 4set.","Headshot 4 set(2)","Boondocks 4 set(2)","Non-Engi Warlocks","EP/GP"],
+			"prio":["Hunter with 3 pieces(1)","Mage(2pc)","Lock","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -307,12 +307,12 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Wayllo(1)","KimDriller(2)","Destain(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Wayllo(1)","Destain(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
 		"Cobra-Lash Boots":{
-			"prio":["Hunter","Boondockz(1)","Chiron(1)","Headshots(2)","Mavan(2)","EP/GP"],
+			"prio":["Hunter","Chiron(1)","EP/GP"],
 			"gp":"7",
 			"wowID":"30104"
 		},
@@ -347,7 +347,7 @@
 			"wowID":"30621"
 		},
 		"Ring of Endless Coils":{
-			"prio":["Jow(1)", "Gojira(1)", "Canni(1)", "Wayllo(2)", "Blacklisted(2)", "Rubski(2)", "Boomkin>Lock/Shadow/Fire Mage/Ele","EP/GP"],
+			"prio":["Boomkin/Lock/Shadow/Fire Mage/Ele","EP/GP"],
 			"gp":"6",
 			"wowID":"30109"
 		},
@@ -357,12 +357,12 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Chiron(1)","Boon(1)","Headshots(2)","Mavan(2)","Hunter?","EP/GP"],
+			"prio":["Chiron(1)","Hunter","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)", "Pexel(1)", "Rubski(2)", "Blacklisted(2)", "Danchk(2)", "Warlock","Mage","EP/GP"],
+			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)","Rubski(2)","Warlock","Mage","EP/GP"],
 			"gp":"14",
 			"wowID":"30107"
 		}
