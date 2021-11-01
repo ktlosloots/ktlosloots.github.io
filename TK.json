@@ -88,7 +88,7 @@
 			"wowID":"29925"
 		},
 		"Talisman of the Sun King":{
-			"prio":["Mommy","Mazzo","Healers","EP/GP"],
+			"prio":["Healers","EP/GP"],
 			"gp":"8",
 			"wowID":"29923"
 		},
