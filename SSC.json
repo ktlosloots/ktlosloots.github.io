@@ -88,7 +88,7 @@
 			"wowID":"30059"
 		},
 		"Cord of Screaming Terrors":{
-			"prio":["whichever lock gets belt of blasting last", "warlock", "Caster DPS","EP/GP"],
+			"prio":["Caster DPS","EP/GP"],
 			"gp":"5",
 			"wowID":"30064"
 		},
@@ -123,7 +123,7 @@
 			"wowID":"33054"
 		},
 		"Velvet Boots of the Guardian":{
-			"prio":["Mage/Ele/Boom?","EP/GP"],
+			"prio":["Prestige","EP/GP"],
 			"gp":"6",
 			"wowID":"30067"
 		}
@@ -150,7 +150,7 @@
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Coxxy/Dill(1)", "Rubski(2)", "Warlocks>Prot Pallys","EP/GP"],
+			"prio":["Rubski(1", "Dill(1)","Warlocks>Prot Pallys","EP/GP"],
 			"gp":"14",
 			"wowID":"30095"
 		},
