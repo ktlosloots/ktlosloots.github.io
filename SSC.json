@@ -170,7 +170,7 @@
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Warrior DPS/Enh","EP/GP"],
+			"prio":["Abdication","Warrior DPS/Enh","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
@@ -307,7 +307,7 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Wayllo(1)","Destain(1)", "Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Destain(1)","Wayllo(1)","Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
@@ -357,7 +357,7 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Chiron(1)","Hunter","EP/GP"],
+			"prio":["Chiron(1)","AEX","Hunter","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
