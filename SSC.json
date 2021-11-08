@@ -317,7 +317,7 @@
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Seb","Kare","Fabi","Mazzo","Mommy","Healers","EP/GP"],
+			"prio":["Ruto","Mazzo","Mommy","Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"30110"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"30102"
 		},
 		"Lightfathom Scepter":{
-			"prio":["Mommy","Mazzo","Fabi","Seb","Kare","Healers","EP/GP"],
+			"prio":["Mommy","Seb","LC","Healers","EP/GP"],
 			"gp":"14",
 			"wowID":"30108"
 		},
