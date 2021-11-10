@@ -56,7 +56,7 @@
 			"wowID":"30629"
 		},
 		"Shoulderpads of the Stranger":{
-			"prio":["Enh","Ret","Warrior/rogue","EP/GP"],
+			"prio":["Robski","Warrior/rogue","EP/GP"],
 			"gp":"6",
 			"wowID":"30055"
 		},
@@ -160,7 +160,7 @@
 			"wowID":"30096"
 		},
 		"Orca-Hide Boots":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"6",
 			"wowID":"30092"
 		},
@@ -170,14 +170,14 @@
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Abdication","Warrior DPS/Enh","EP/GP"],
+			"prio":["Adorack","Dillmcpickle","Warrior DPS/Enh","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
 	},
 	"Fathom-Lord Karathress":{
 		"Leggings of the Vanquished Hero":{
-			"prio":["Micro(1) until 2pc", "Raehn(1) until 2pc","Prestige(1) until 2pc", "Mage(2pc)>Warlock>Hunter","EP/GP"],
+			"prio":["Micro(1) until 2pc", "Mage(2pc)>Warlock>Hunter","EP/GP"],
 			"gp":"7",
 			"wowID":"30247"
 		},
@@ -275,7 +275,7 @@
 			"wowID":"30083"
 		},
 		"Serpent-Coil Braid":{
-			"prio":["Mage ofc","EP/GP"],
+			"prio":["Micro","EP/GP"],
 			"gp":"8",
 			"wowID":"30720"
 		},
@@ -285,14 +285,14 @@
 			"wowID":"30082"
 		},
 		"Warboots of Obliteration":{
-			"prio":["Warr DPS/Ret","EP/GP"],
+			"prio":["Dillmcpickle","Warr DPS/Ret","EP/GP"],
 			"gp":"6",
 			"wowID":"30081"
 		}
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Hunter with 3 pieces(1)","Mage(2pc)","Lock","EP/GP"],
+			"prio":["Hunter/Mage with 3 pieces(1)","Mage(2pc)","Lock","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
