@@ -202,7 +202,7 @@
 			"wowID":"29951"
 		},
 		"Trousers of the Astromancer":{
-			"prio":["Jowsus(1)", "Spriests","EP/GP"],
+			"prio":["Spriests","EP/GP"],
 			"gp":"6",
 			"wowID":"29972"
 		},
@@ -217,7 +217,7 @@
 			"wowID":"30449"
 		},
 		"Wand of the Forgotten Star":{
-			"prio":["Demondred(1)","Killmcpickle(1)", "Jowsus(1)", "Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
+			"prio":["Killmcpickle(1)","Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
 			"gp":"6",
 			"wowID":"29982"
 		},
@@ -234,12 +234,12 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Coxxy","Jaz","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["Jaz","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
 		"Chestguard of the Vanquished Hero":{
-			"prio":["Mages(2pc)>Surv Hunter>BM Hunters>Mage/Warlock","EP/GP"],
+			"prio":["Mages(2pc)>Surv Hunter>BM Hunters(4pc)=Mage(4pc)>Warlock","EP/GP"],
 			"gp":"7",
 			"wowID":"30238"
 		},
@@ -309,7 +309,7 @@
 			"wowID":"29988"
 		},
 		"Twinblade of the Phoenix":{
-			"prio":["Adorack","Warrior>Ret (PVE>PVP)","EP/GP"],
+			"prio":["AEX","Warrior>Ret (PVE>PVP)","EP/GP"],
 			"gp":"14",
 			"wowID":"29993"
 		}
