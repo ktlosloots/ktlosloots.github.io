@@ -78,7 +78,7 @@
 			"wowID":"30060"
 		},
 		"Bracers of Eradication":{
-			"prio":["Warrior DPS","EP/GP"],
+			"prio":["Robi","Dill","Warrior DPS","EP/GP"],
 			"gp":"6",
 			"wowID":"30057"
 		},
@@ -302,7 +302,7 @@
 			"wowID":"30242"
 		},
 		"Helm of the Vanquished Defender":{
-			"prio":["Non-Engi Tanks","Non-Engi DPS","Non-Engi Healers","EP/GP"],
+			"prio":["Jaz","Tank>DPS>Healer","EP/GP"],
 			"gp":"7",
 			"wowID":"30243"
 		},
