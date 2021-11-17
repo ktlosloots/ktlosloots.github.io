@@ -63,7 +63,7 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Robski","Ret","Warrior/Enh","Feral/Tank","EP/GP"],
+			"prio":["Ret","Warrior/Enh","Feral/Tank","EP/GP"],
 			"gp": "5",
 			"wowID": "29947"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Jaz","AEX","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["AEX","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Dill","Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
+			"prio":["Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
