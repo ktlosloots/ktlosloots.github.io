@@ -63,7 +63,7 @@
 			"wowID":"29921"
 		},
 		"Gloves of the Searing Grip":{
-			"prio":["Ret","Warrior/Enh","Feral/Tank","EP/GP"],
+			"prio":["Robski","Ret","Warrior/Enh","Feral/Tank","EP/GP"],
 			"gp": "5",
 			"wowID": "29947"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"29972"
 		},
 		"Vambraces of Ending":{
-			"prio":["Chiron(1)","EP/GP"],
+			"prio":["Chiron(1)","Wayllo","EP/GP"],
 			"gp":"6",
 			"wowID":"29966"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["Jaz","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["Jaz","AEX","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -249,12 +249,12 @@
 			"wowID":"30236"
 		},
 		"Chestguard of the Vanquished Defender":{
-			"prio":["Tank>DPS>Healer","EP/GP"],
+			"prio":["Adorack","Tank>DPS>Healer","EP/GP"],
 			"gp":"7",
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
+			"prio":["Dill","Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"29989"
 		},
 		"Thalassian Wildercloak":{
-			"prio":["Hunter>Enh/Feral","EP/GP"],
+			"prio":["AEX","Hunter>Enh/Feral","EP/GP"],
 			"gp":"6",
 			"wowID":"29994"
 		},
