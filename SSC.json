@@ -78,7 +78,7 @@
 			"wowID":"30060"
 		},
 		"Bracers of Eradication":{
-			"prio":["Warrior DPS","EP/GP"],
+			"prio":["Robski/Dill (Whoever needs the hit)","Warrior DPS","EP/GP"],
 			"gp":"6",
 			"wowID":"30057"
 		},
@@ -307,7 +307,7 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Destain(1)","Wayllo(1)","Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Destain(1)","Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
