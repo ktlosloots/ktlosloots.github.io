@@ -21,7 +21,7 @@
 			"wowID":"30048"
 		},
 		"Fathomstone":{
-			"prio":["Lock","EP/GP"],
+			"prio":["Kitboga(1)","Lock","EP/GP"],
 			"gp":"5",
 			"wowID":"30049"
 		},
@@ -150,7 +150,7 @@
 			"wowID":"30097"
 		},
 		"Fang of the Leviathan":{
-			"prio":["Rubski(1", "Dill(1)","Warlocks>Prot Pallys","EP/GP"],
+			"prio":["Kitboga(1)","Rubski(2)", "Dill(2)","Warlocks>Prot Pallys","EP/GP"],
 			"gp":"14",
 			"wowID":"30095"
 		},
@@ -362,7 +362,7 @@
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)", "Killmcpickle(1)", "Demondred(1)","Rubski(2)","Warlock","Mage","EP/GP"],
+			"prio":["Coxxy(1)", "Killmcpickle(2)", "Demondred(1)","Kitboga(1)","Rubski(2)","Warlock","Mage","EP/GP"],
 			"gp":"14",
 			"wowID":"30107"
 		}
