@@ -217,7 +217,7 @@
 			"wowID":"30449"
 		},
 		"Wand of the Forgotten Star":{
-			"prio":["Killmcpickle(1)","Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
+			"prio":["Kitboga(1)","Killmcpickle(2)","Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
 			"gp":"6",
 			"wowID":"29982"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["AEX","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["AEX","Scrubby(1)","Kitboga(1)","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
