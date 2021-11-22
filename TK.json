@@ -254,7 +254,7 @@
 			"wowID":"30237"
 		},
 		"Band of the Ranger-General":{
-			"prio":["Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
+			"prio":["Abdication","Warrior>Hunter>Rogue","ENH/ROGUE/DPS war","EP/GP"],
 			"gp":"6",
 			"wowID":"29997"
 		},
@@ -279,7 +279,7 @@
 			"wowID":"29996"
 		},
 		"Royal Cloak of the Sunstriders":{
-			"prio":["Jowsus(1)", "Demondred(1)","Spriest/Mage/Afflic Lock","EP/GP"],
+			"prio":["Demondred(1)","Spriest/Mage/Afflic Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"29992"
 		},
