@@ -123,7 +123,7 @@
 			"wowID":"33054"
 		},
 		"Velvet Boots of the Guardian":{
-			"prio":["Prestige","EP/GP"],
+			"prio":["Prestige","Wayllo(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"30067"
 		}
@@ -170,7 +170,7 @@
 			"wowID":"30091"
 		},
 		"Tsunami Talisman":{
-			"prio":["Adorack","Dillmcpickle","Warrior DPS/Enh","EP/GP"],
+			"prio":["Dillmcpickle(1)","Paintrain(2)","Warrior DPS/Enh","EP/GP"],
 			"gp":"8",
 			"wowID":"30627"
 		}
@@ -317,7 +317,7 @@
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Ruto","Mazzo","Mommy","Healers","EP/GP"],
+			"prio":["Mazzo","Mommy","Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"30110"
 		},
@@ -357,7 +357,7 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["Chiron(1)","AEX","Hunter","EP/GP"],
+			"prio":["AEX(1)","Hunter","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
