@@ -68,7 +68,7 @@
 			"wowID": "29947"
 		},
 		"Mindstorm Wristbands":{
-			"prio":["Demondred(1)", "Killmcpickle(1)", "Coxxy(1)", "Cannie(1)", "Rubski(2)","EP/GP"],
+			"prio":["Coxxy(1)","Rubski(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"29918"
 		},
@@ -212,7 +212,7 @@
 			"wowID":"29966"
 		},
 		"Void Star Talisman":{
-			"prio":["Coxxy(1)", "Killmcpickle(1)","Warlock PVPer","EP/GP"],
+			"prio":["Coxxy(1)", "Warlock PVPer","EP/GP"],
 			"gp":"6",
 			"wowID":"30449"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["AEX","Scrubby(1)","Kitboga(1)","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["Kitboga(1)","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
@@ -269,17 +269,17 @@
 			"wowID":"29987"
 		},
 		"Leggings of Murderous Intent":{
-			"prio":["Chiron(1)","DPS WAR","EP/GP"],
+			"prio":["AEX(1)","DPS WAR","EP/GP"],
 			"gp":"7",
 			"wowID":"29995"
 		},
 		"Rod of the Sun King":{
-			"prio":["ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
+			"prio":["Abdication(1)","ENH MH>Warrior OH=Enh OH>Rogue","EP/GP"],
 			"gp":"14",
 			"wowID":"29996"
 		},
 		"Royal Cloak of the Sunstriders":{
-			"prio":["Demondred(1)","Spriest/Mage/Afflic Lock","EP/GP"],
+			"prio":["Spriest/Mage/Afflic Lock","EP/GP"],
 			"gp":"6",
 			"wowID":"29992"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"29989"
 		},
 		"Thalassian Wildercloak":{
-			"prio":["AEX","Hunter>Enh/Feral","EP/GP"],
+			"prio":["Hunter>Enh/Feral","EP/GP"],
 			"gp":"6",
 			"wowID":"29994"
 		},
