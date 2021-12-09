@@ -317,7 +317,7 @@
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Mazzo","Mommy","Healers","EP/GP"],
+			"prio":["Mazzo","Mommy","Wild(2)","Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"30110"
 		},
@@ -337,7 +337,7 @@
 			"wowID":"30102"
 		},
 		"Lightfathom Scepter":{
-			"prio":["Mommy","Seb","LC","Healers","EP/GP"],
+			"prio":["Mommy(1)","Seb(if no Hyjal Mace)(1)","(pallya(2)","LC","Healers","EP/GP"],
 			"gp":"14",
 			"wowID":"30108"
 		},
