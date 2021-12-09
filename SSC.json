@@ -46,7 +46,7 @@
 			"wowID":"30052"
 		},
 		"Robe of Hateful Echoes":{
-			"prio":["Cannie", "Caster DPS","EP/GP"],
+			"prio":["Caster DPS","EP/GP"],
 			"gp":"6",
 			"wowID":"30056"
 		},
@@ -123,7 +123,7 @@
 			"wowID":"33054"
 		},
 		"Velvet Boots of the Guardian":{
-			"prio":["Prestige","Wayllo(2)","EP/GP"],
+			"prio":["Raehn(1)","Wayllo(2)","EP/GP"],
 			"gp":"6",
 			"wowID":"30067"
 		}
@@ -280,7 +280,7 @@
 			"wowID":"30720"
 		},
 		"Talon of Azshara":{
-			"prio":["Wayllo","Dillmcpickle","Rogue>Warrior","EP/GP"],
+			"prio":["Dillmcpickle","Rogue>Warrior","EP/GP"],
 			"gp":"14",
 			"wowID":"30082"
 		},
@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Hunter/Mage with 3 pieces(1)","Mage(2pc)","Lock","EP/GP"],
+			"prio":["Hunter/Mage with 3 pieces(1)","Coxxy(1)","Prestige(1)","Micro(1)","Mage(2pc)","Lock","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -357,12 +357,12 @@
 			"wowID":"30111"
 		},
 		"Serpent Spine Longbow":{
-			"prio":["AEX(1)","Hunter","EP/GP"],
+			"prio":["Liftington(1)","Hunter","EP/GP"],
 			"gp":"14(Hunt) 6(Melee)",
 			"wowID":"30105"
 		},
 		"Vestments of the Sea-Witch":{
-			"prio":["Coxxy(1)", "Killmcpickle(2)", "Demondred(1)","Kitboga(1)","Rubski(2)","Warlock","Mage","EP/GP"],
+			"prio":["Killmcpickle(2)", "Demondred(1)","Kitboga(1)","Rubski(2)","Warlock","Mage","EP/GP"],
 			"gp":"14",
 			"wowID":"30107"
 		}
