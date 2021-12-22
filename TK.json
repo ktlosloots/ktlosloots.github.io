@@ -244,7 +244,7 @@
 			"wowID":"30238"
 		},
 		"Chestguard of the Vanquished Champion":{
-			"prio":["Tank>DPS>Healers","EP/GP"],
+			"prio":["Rubski","Tank>DPS>Healers","EP/GP"],
 			"gp":"7",
 			"wowID":"30236"
 		},
@@ -309,7 +309,7 @@
 			"wowID":"29988"
 		},
 		"Twinblade of the Phoenix":{
-			"prio":["AEX","Warrior>Ret (PVE>PVP)","EP/GP"],
+			"prio":["Warrior>Ret (PVE>PVP)","EP/GP"],
 			"gp":"14",
 			"wowID":"29993"
 		}
