@@ -68,7 +68,7 @@
 			"wowID": "29947"
 		},
 		"Mindstorm Wristbands":{
-			"prio":["Coxxy(1)","Rubski(2)","EP/GP"],
+			"prio":["Coxxy(1)","EP/GP"],
 			"gp":"6",
 			"wowID":"29918"
 		},
@@ -217,7 +217,7 @@
 			"wowID":"30449"
 		},
 		"Wand of the Forgotten Star":{
-			"prio":["Kitboga(1)","Killmcpickle(2)","Rubski(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
+			"prio":["Kitboga(1)","Killmcpickle(2)","Rubski(2)","Chronograf(2)","Destro Warlock/Spriest/Fire Mage","EP/GP"],
 			"gp":"6",
 			"wowID":"29982"
 		},
@@ -234,7 +234,7 @@
 			"wowID":"32458"
 		},
 		"Verdant Sphere":{
-			"prio":["MOMMYSPANKMEHARD(1)","Killmcpickle(2)","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
+			"prio":["MOMMYSPANKMEHARD(1)","Spagoose(1)","Ele Shaman/Hunter/Casters/Healers/Enh","EP/GP"],
 			"gp":"7",
 			"wowID":"32405"
 		},
