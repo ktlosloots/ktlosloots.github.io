@@ -292,7 +292,7 @@
 	},
 	"Lady Vashj":{
 		"Helm of the Vanquished Hero":{
-			"prio":["Hunter/Mage with 3 pieces(1)","Coxxy(1)","Prestige(1)","Micro(1)","Mage(2pc)","Lock","EP/GP"],
+			"prio":["Hunter/Mage with 3 pieces(1)","Prestige(1)","Mage(2pc)","Lock","EP/GP"],
 			"gp":"7",
 			"wowID":"30244"
 		},
@@ -307,7 +307,7 @@
 			"wowID":"30243"
 		},
 		"Belt of One-Hundred Deaths":{
-			"prio":["Destain(2)","Rogue/Enh/Ret/Warrior","EP/GP"],
+			"prio":["Destain(2)","Robi(1)","Rogue/Enh/Ret/Warrior","EP/GP"],
 			"gp":"8",
 			"wowID":"30106"
 		},
@@ -317,7 +317,7 @@
 			"wowID":"30104"
 		},
 		"Coral Band of the Revived":{
-			"prio":["Mazzo","Mommy","Wild(2)","Healers","EP/GP"],
+			"prio":["Mommy","Wild(2)","Healers","EP/GP"],
 			"gp":"6",
 			"wowID":"30110"
 		},
