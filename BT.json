@@ -1,5 +1,25 @@
 {	
 	"Trash":{
+		"Pepe's Shroud of Pacification":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"34010"
+		},
+		"Hammer of Judgement":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"34009"
+		},
+		"Claw of Molten Fury":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32946"
+		},
+		"Fist of Molten Fury":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32945"
+		},
 		"Nethervoid Cloak":{
 			"prio":["EP/GP"],
 			"gp":"",
