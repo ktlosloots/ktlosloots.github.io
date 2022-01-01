@@ -1,4 +1,66 @@
-{
+{	
+	"Trash":{
+		"Nethervoid Cloak":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32590"
+		},
+		"Shroud of the Final Stand":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"34012"
+		},
+		"Boots of the Divine Light":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32609"
+		},
+		"Treads of the Den Mother":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32593"
+		},
+		"Chestguard of Relentless Storms":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32592"
+		},
+		"Pillager's Gauntlets":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32608"
+		},
+		"Girdle of the Lightbearer":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32606"
+		},
+		"Choker of Serrated Blades":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32591"
+		},
+		"Hellfire-Encased Pendant":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32589"
+		},
+		"Band of Devastation":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32526"
+		},
+		"Blessed Band of Karabor":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32528"
+		},
+		"Ring of Ancient Knowledge":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"32527"
+		}
+	},
 	"High Warlord Naj'entus":{
 		"Boots of Oceanic Fury":{
 			"prio":["EP/GP"],
