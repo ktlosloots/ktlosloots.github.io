@@ -1,0 +1,312 @@
+{
+	"Rage Winterchill":{
+		"Bracers of the Pathfinder":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30864"
+		},
+		"Cuffs of Devastation":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30870"
+		},
+		"Blessed Adamantite Bracers":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30862"
+		},
+		"Bracers of Martyrdom":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30871"
+		},
+		"Chronicle of Dark Secrets":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30872"
+		},
+		"Deadly Cuffs":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30863"
+		},
+		"Rejuvenating Bracers":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30868"
+		},
+		"Tracker's Blade":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30865"
+		},
+		"Blood-stained Pauldrons":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30866"
+		},
+		"Furious Shackles":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30861"
+		},
+		"Howling Wind Bracers":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30869"
+		},
+		"Stillwater Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30873"
+		}
+	},
+	"Anetheron":{
+		"Bastion of Light":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30882"
+		},
+		"Golden Links of Restoration":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30887"
+		},
+		"Anetheron's Noose":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30888"
+		},
+		"Archbishop's Slippers":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30885"
+		},
+		"Blade of Infamy":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30881"
+		},
+		"Don Alejandro's Money Belt":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30879"
+		},
+		"Enchanted Leather Sandals":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30886"
+		},
+		"Glimmering Steel Mantle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30878"
+		},
+		"Hatefury Mantle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30884"
+		},
+		"Pillar of Ferocity":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30883"
+		},
+		"Quickstrider Moccasins":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30880"
+		},
+		"The Unbreakable Will":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30874"
+		}
+	},
+	"Kaz'rogal":{
+		"Razorfury Mantle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30917"
+		},
+		"Angelista's Sash":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30895"
+		},
+		"Beast-tamer's Shoulders":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30892"
+		},
+		"Belt of Seething Fury":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30915"
+		},
+		"Belt of the Crescent Moon":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30914"
+		},
+		"Black Featherlight Boots":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30891"
+		},
+		"Blue Suede Shoes":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30894"
+		},
+		"Hammer of Atonement":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30918"
+		},
+		"Kaz'rogal's Hardened Heart":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30889"
+		},
+		"Leggings of Channeled Elements":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30916"
+		},
+		"Sun-touched Chain Leggings":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30893"
+		},
+		"Valestalker Girdle":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30919"
+		}
+	},
+	"Azgalor":{
+		"Gloves of the Forgotten Vanquisher":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31093"
+		},
+		"Gloves of the Forgotten Protector":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31094"
+		},
+		"Gloves of the Forgotten Conqueror":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31092"
+		},
+		"Girdle of Hope":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30897"
+		},
+		"Bow-stitched Leggings":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30900"
+		},
+		"Don Rodrigo's Poncho":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30899"
+		},
+		"Glory of the Defender":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30896"
+		},
+		"Boundless Agony":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30901"
+		},
+		"Shady Dealer's Pantaloons":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30898"
+		}
+	},
+	"Archimonde":{
+		"Helm of the Forgotten Vanquisher":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31096"
+		},
+		"Helm of the Forgotten Conqueror":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31097"
+		},
+		"Helm of the Forgotten Protector":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"31095"
+		},
+		"Bristleblitz Striker":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30906"
+		},
+		"Mail of Fevered Pursuit":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30907"
+		},
+		"Robes of Rhonin":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30913"
+		},
+		"Savior's Grasp":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30904"
+		},
+		"Scepter of Purification":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30911"
+		},
+		"Tempest of Chaos":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30910"
+		},
+		"Apostle of Argus":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30908"
+		},
+		"Leggings of Eternity":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30912"
+		},
+		"Midnight Chestguard":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30905"
+		},
+		"Legguards of Endless Rage":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30903"
+		},
+		"Cataclysm's Edge":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30902"
+		},
+		"Antonidas's Aegis of Rapt Concentration":{
+			"prio":["EP/GP"],
+			"gp":"",
+			"wowID":"30909"
+		}
+	}
+}
