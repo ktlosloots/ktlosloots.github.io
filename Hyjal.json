@@ -234,17 +234,17 @@
 	},
 	"Archimonde":{
 		"Helm of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31096"
 		},
 		"Helm of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
 			"gp":"",
 			"wowID":"31097"
 		},
 		"Helm of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["Tatertotem(1)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
 			"gp":"",
 			"wowID":"31095"
 		},
