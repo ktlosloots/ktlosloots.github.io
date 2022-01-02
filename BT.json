@@ -604,7 +604,7 @@
 			"wowID":"32336"
 		},
 		"Bulwark of Azzinoth":{
-			"prio":["EP/GP"],
+			"prio":["Snydicate(1)","Thedruiid(2)","Prot pallies","EP/GP"],
 			"gp":"",
 			"wowID":"32375"
 		},
@@ -614,7 +614,7 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["EP/GP"],
+			"prio":["Mazzo(1)","Scrubby(1)","Hpriest/Hsham","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
@@ -624,7 +624,7 @@
 			"wowID":"32235"
 		},
 		"Faceplate of the Impenetrable":{
-			"prio":["EP/GP"],
+			"prio":["Snydicate(1)","Thedruiid(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32521"
 		},
@@ -639,7 +639,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["EP/GP"],
+			"prio":["Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
@@ -649,12 +649,12 @@
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Rasbeary","EP/GP"],
+			"prio":["Coxxy(1)","Killmcpickle(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["EP/GP"],
+			"prio":["Jowsus(1) unless > 146 haste","Spagoose(1)","Theprestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
