@@ -259,17 +259,17 @@
 			"wowID":"30907"
 		},
 		"Robes of Rhonin":{
-			"prio":["EP/GP"],
+			"prio":["Kitboga(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30913"
 		},
 		"Savior's Grasp":{
-			"prio":["EP/GP"],
+			"prio":["Hpal","EP/GP"],
 			"gp":"",
 			"wowID":"30904"
 		},
 		"Scepter of Purification":{
-			"prio":["EP/GP"],
+			"prio":["Hpriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30911"
 		},
@@ -284,7 +284,7 @@
 			"wowID":"30908"
 		},
 		"Leggings of Eternity":{
-			"prio":["EP/GP"],
+			"prio":["Kare(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30912"
 		},
@@ -299,12 +299,12 @@
 			"wowID":"30903"
 		},
 		"Cataclysm's Edge":{
-			"prio":["EP/GP"],
+			"prio":["Arms Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"30902"
 		},
 		"Antonidas's Aegis of Rapt Concentration":{
-			"prio":["EP/GP"],
+			"prio":["Tatertotem(1)","Ele sham > Prot pally","EP/GP"],
 			"gp":"",
 			"wowID":"30909"
 		}
