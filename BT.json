@@ -490,17 +490,17 @@
 	},
 	"Mother Shahraz":{
 		"Pauldrons of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
 		"Pauldrons of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
 			"gp":"",
 			"wowID":"31102"
 		},
@@ -537,17 +537,17 @@
 	},
 	"The Illidari Council":{
 		"Leggings of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
 			"gp":"",
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["Tatertotem(1)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -584,17 +584,17 @@
 	},
 	"Illidan Stormrage":{
 		"Chestguard of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["DPS Warrior","DPS Warrior","Tatertotem(1)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31091"
 		},
 		"Chestguard of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
 			"gp":"",
 			"wowID":"31090"
 		},
 		"Chestguard of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock (4 set completion only, no vashj chest) > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31089"
 		},
@@ -604,7 +604,7 @@
 			"wowID":"32336"
 		},
 		"Bulwark of Azzinoth":{
-			"prio":["EP/GP"],
+			"prio":["Snydicate(1)","Thedruiid(2)","Prot pallies","EP/GP"],
 			"gp":"",
 			"wowID":"32375"
 		},
@@ -614,7 +614,7 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["EP/GP"],
+			"prio":["Mazzo(1)","Scrubby(1)","Hpriest/Hsham","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
@@ -624,7 +624,7 @@
 			"wowID":"32235"
 		},
 		"Faceplate of the Impenetrable":{
-			"prio":["EP/GP"],
+			"prio":["Snydicate(1)","Thedruiid(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32521"
 		},
@@ -639,7 +639,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["EP/GP"],
+			"prio":["Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
@@ -649,12 +649,12 @@
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Coxxy(1)","Demondred(1)","Killmcpickle(1)","EP/GP"],
+			"prio":["Coxxy(1)","Demondred(1)","Killmcpickle(1)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["EP/GP"],
+			"prio":["Jowsus(1) unless > 146 haste","Spagoose(1)","Theprestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
