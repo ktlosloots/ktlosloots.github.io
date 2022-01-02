@@ -21,12 +21,12 @@
 			"wowID":"30871"
 		},
 		"Chronicle of Dark Secrets":{
-			"prio":["EP/GP"],
+			"prio":["Non Zhardoom Casters","EP/GP"],
 			"gp":"",
 			"wowID":"30872"
 		},
 		"Deadly Cuffs":{
-			"prio":["EP/GP"],
+			"prio":["Warrior/Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"30863"
 		},
@@ -83,12 +83,12 @@
 			"wowID":"30885"
 		},
 		"Blade of Infamy":{
-			"prio":["EP/GP"],
+			"prio":["Survival Hunter>Warrior/Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"30881"
 		},
 		"Don Alejandro's Money Belt":{
-			"prio":["EP/GP"],
+			"prio":["Hunters","EP/GP"],
 			"gp":"",
 			"wowID":"30879"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"30889"
 		},
 		"Leggings of Channeled Elements":{
-			"prio":["EP/GP"],
+			"prio":["Ele/Boomkin/Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"30916"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"30897"
 		},
 		"Bow-stitched Leggings":{
-			"prio":["EP/GP"],
+			"prio":["Survival Hunter>Ret/Enh","EP/GP"],
 			"gp":"",
 			"wowID":"30900"
 		},
@@ -222,7 +222,7 @@
 			"wowID":"30896"
 		},
 		"Boundless Agony":{
-			"prio":["EP/GP"],
+			"prio":["Hunter","EP/GP"],
 			"gp":"",
 			"wowID":"30901"
 		},
@@ -289,7 +289,7 @@
 			"wowID":"30912"
 		},
 		"Midnight Chestguard":{
-			"prio":["EP/GP"],
+			"prio":["Enh/Ret","EP/GP"],
 			"gp":"",
 			"wowID":"30905"
 		},
