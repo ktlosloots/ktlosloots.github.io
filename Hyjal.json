@@ -26,7 +26,7 @@
 			"wowID":"30872"
 		},
 		"Deadly Cuffs":{
-			"prio":["Warrior/Rogue","EP/GP"],
+			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"30863"
 		},
@@ -46,7 +46,7 @@
 			"wowID":"30866"
 		},
 		"Furious Shackles":{
-			"prio":["EP/GP"],
+			"prio":["Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"30861"
 		},
@@ -83,12 +83,12 @@
 			"wowID":"30885"
 		},
 		"Blade of Infamy":{
-			"prio":["Survival Hunter>Warrior/Rogue","EP/GP"],
+			"prio":["Ferbb (1)","Tarthon (2)","Survival Hunter>Warrior/Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"30881"
 		},
 		"Don Alejandro's Money Belt":{
-			"prio":["Hunters","EP/GP"],
+			"prio":["Ferbb (1)","Chiron (1)","Tarthon (2)","Putitah (2)","Oglol (2)","EP/GP"],
 			"gp":"",
 			"wowID":"30879"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"30897"
 		},
 		"Bow-stitched Leggings":{
-			"prio":["Survival Hunter>Ret/Enh","EP/GP"],
+			"prio":["Ferbb (1)","Atlaspal (2)","Tarthon (2)","Robi (1)","Abdication (1)","Suncannon (2)","Survival Hunter>Ret/Enh","EP/GP"],
 			"gp":"",
 			"wowID":"30900"
 		},
@@ -222,7 +222,7 @@
 			"wowID":"30896"
 		},
 		"Boundless Agony":{
-			"prio":["Hunter","EP/GP"],
+			"prio":["Chiron (1)","Putitah (2)","Oglol (2)","Hunter","EP/GP"],
 			"gp":"",
 			"wowID":"30901"
 		},
@@ -244,12 +244,12 @@
 			"wowID":"31097"
 		},
 		"Helm of the Forgotten Protector":{
-			"prio":["Tatertotem(1)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
+			"prio":["Tatertotem(1)","Ferbb (1)","Doochie? (2)","Tarthon (2)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
 			"gp":"",
 			"wowID":"31095"
 		},
 		"Bristleblitz Striker":{
-			"prio":["EP/GP"],
+			"prio":["Oglol (2)", "Ferbb if no vashj/BT bow, else Chiron (1)","EP/GP"],
 			"gp":"",
 			"wowID":"30906"
 		},
@@ -289,7 +289,7 @@
 			"wowID":"30912"
 		},
 		"Midnight Chestguard":{
-			"prio":["Enh/Ret","EP/GP"],
+			"prio":["Abdication (1)","Robi (1)","Suncannon (2)","Atlaspal (2)","Enh/Ret","EP/GP"],
 			"gp":"",
 			"wowID":"30905"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"30903"
 		},
 		"Cataclysm's Edge":{
-			"prio":["Arms Warrior","EP/GP"],
+			"prio":["Thotpatrol (1)","Arms Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"30902"
 		},
