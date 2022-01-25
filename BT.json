@@ -66,7 +66,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["EP/GP"],
+			"prio":["Hunter","Warrior DPS","EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -103,7 +103,7 @@
 			"wowID":"32232"
 		},
 		"Fists of Mukoa":{
-			"prio":["EP/GP"],
+			"prio":["Enhance","EP/GP"],
 			"gp":"",
 			"wowID":"32234"
 		},
@@ -153,19 +153,19 @@
 			"wowID":"32239"
 		},
 		"The Maelstrom's Fury":{
-			"prio":["EP/GP"],
+			"prio":["Ele/Priest/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32237"
 		},
 		"Tide-stomper's Greaves":{
-			"prio":["EP/GP"],
+			"prio":["Prot Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32245"
 		}
 	},
 	"Supremus":{
 		"Band of the Abyssal Lord":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"32261"
 		},
@@ -175,7 +175,7 @@
 			"wowID":"32259"
 		},
 		"Choker of Endless Nightmares":{
-			"prio":["EP/GP"],
+			"prio":["Rogue/Warrior/Enh/Ret","EP/GP"],
 			"gp":"",
 			"wowID":"32260"
 		},
@@ -190,7 +190,7 @@
 			"wowID":"32257"
 		},
 		"Legionkiller":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32253"
 		},
@@ -210,17 +210,17 @@
 			"wowID":"32250"
 		},
 		"Syphon of the Nathrezim":{
-			"prio":["EP/GP"],
+			"prio":["Enhance x2","EP/GP"],
 			"gp":"",
 			"wowID":"32262"
 		},
 		"The Brutalizer":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32254"
 		},
 		"Waistwrap of Infinity":{
-			"prio":["EP/GP"],
+			"prio":["Spriest","Lock","EP/GP"],
 			"gp":"",
 			"wowID":"32256"
 		},
@@ -252,7 +252,7 @@
 			"wowID":"32270"
 		},
 		"Grips of Silent Justice":{
-			"prio":["EP/GP"],
+			"prio":["Warrior DPS","EP/GP"],
 			"gp":"",
 			"wowID":"32278"
 		},
@@ -267,12 +267,12 @@
 			"wowID":"32268"
 		},
 		"Praetorian's Legguards":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"32263"
 		},
 		"Ring of Deceitful Intent":{
-			"prio":["EP/GP"],
+			"prio":["Feral/Rogue>Ret","EP/GP"],
 			"gp":"",
 			"wowID":"32266"
 		},
@@ -304,7 +304,7 @@
 	},
 	"Teron Gorefiend":{
 		"Botanist's Gloves of Growth":{
-			"prio":["EP/GP"],
+			"prio":["Rsham/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"32328"
 		},
@@ -314,7 +314,7 @@
 			"wowID":"32329"
 		},
 		"Gauntlets of Enforcement":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"32280"
 		},
@@ -339,12 +339,12 @@
 			"wowID":"32327"
 		},
 		"Shadowmoon Destroyer's Drape":{
-			"prio":["EP/GP"],
+			"prio":["Rogue/Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32323"
 		},
 		"Softstep Boots of Tracking":{
-			"prio":["EP/GP"],
+			"prio":["Enh/Hunter","EP/GP"],
 			"gp":"",
 			"wowID":"32510"
 		},
@@ -354,12 +354,12 @@
 			"wowID":"32348"
 		},
 		"Totem of Ancestral Guidance":{
-			"prio":["EP/GP"],
+			"prio":["Ele","EP/GP"],
 			"gp":"",
 			"wowID":"32330"
 		},
 		"Twisted Blades of Zarak":{
-			"prio":["EP/GP"],
+			"prio":["Warrior DPS","EP/GP"],
 			"gp":"",
 			"wowID":"32326"
 		}
@@ -381,7 +381,7 @@
 			"wowID":"32340"
 		},
 		"Girdle of Mighty Resolve":{
-			"prio":["EP/GP"],
+			"prio":["Prot Pal","EP/GP"],
 			"gp":"",
 			"wowID":"32342"
 		},
@@ -391,7 +391,7 @@
 			"wowID":"32333"
 		},
 		"Leggings of Divine Retribution":{
-			"prio":["EP/GP"],
+			"prio":["Warrior DPS","EP/GP"],
 			"gp":"",
 			"wowID":"32341"
 		},
@@ -416,7 +416,7 @@
 			"wowID":"32344"
 		},
 		"Unstoppable Aggressor's Ring":{
-			"prio":["EP/GP"],
+			"prio":["Ret","EP/GP"],
 			"gp":"",
 			"wowID":"32335"
 		},
@@ -426,7 +426,7 @@
 			"wowID":"32334"
 		},
 		"Wand of Prismatic Focus":{
-			"prio":["EP/GP"],
+			"prio":["Spriest/Lock","EP/GP"],
 			"gp":"",
 			"wowID":"32343"
 		}
@@ -473,7 +473,7 @@
 			"wowID":"32352"
 		},
 		"Pendant of Titans":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"32362"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"32517"
 		},
 		"Torch of the Damned":{
-			"prio":["EP/GP"],
+			"prio":["Ret","EP/GP"],
 			"gp":"",
 			"wowID":"32332"
 		},
@@ -493,7 +493,7 @@
 			"wowID":"32350"
 		},
 		"Translucent Spellthread Necklace":{
-			"prio":["EP/GP"],
+			"prio":["Warlock/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32349"
 		}
@@ -515,7 +515,7 @@
 			"wowID":"31102"
 		},
 		"Blade of Savagery":{
-			"prio":["EP/GP"],
+			"prio":["Rogue","Human Prot Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"32369"
 		},
@@ -535,7 +535,7 @@
 			"wowID":"32370"
 		},
 		"Shadowmaster's Boots":{
-			"prio":["EP/GP"],
+			"prio":["Warrior/Rogue/Ret/Hunter","EP/GP"],
 			"gp":"",
 			"wowID":"32366"
 		},
@@ -577,12 +577,12 @@
 			"wowID":"32376"
 		},
 		"Helm of the Illidari Shatterer":{
-			"prio":["EP/GP"],
+			"prio":["Ret/Warrior low on CVoS","EP/GP"],
 			"gp":"",
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["EP/GP"],
+			"prio":["Warrior/Hunter/Enh","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
