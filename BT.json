@@ -1,5 +1,10 @@
 {	
 	"Trash":{
+		"Bracers of Nimble Thought":{
+			"prio":["Tater(1)","Coxxy(1)","Demondred(1)"],
+			"gp":"",
+			"wowID":"32586"
+		},
 		"Pepe's Shroud of Pacification":{
 			"prio":["EP/GP"],
 			"gp":"",
@@ -31,7 +36,7 @@
 			"wowID":"32945"
 		},
 		"Nethervoid Cloak":{
-			"prio":["EP/GP"],
+			"prio":["Jowsus(1)","Kitboga(1)","Coxxy(1)"],
 			"gp":"",
 			"wowID":"32590"
 		},
@@ -86,7 +91,7 @@
 			"wowID":"32528"
 		},
 		"Ring of Ancient Knowledge":{
-			"prio":["EP/GP"],
+			"prio":["Coxxy(1)","Tater(1)","Microdoses(1)"],
 			"gp":"",
 			"wowID":"32527"
 		}
@@ -148,7 +153,7 @@
 			"wowID":"32236"
 		},
 		"Slippers of the Seacaller":{
-			"prio":["EP/GP"],
+			"prio":["Micro(1)","Spagoose(1)","Raehn(1)"],
 			"gp":"",
 			"wowID":"32239"
 		},
@@ -220,7 +225,7 @@
 			"wowID":"32254"
 		},
 		"Waistwrap of Infinity":{
-			"prio":["Spriest","Lock","EP/GP"],
+			"prio":["Jowsus(1)","Demondred(2)","Spriest","Lock","EP/GP"],
 			"gp":"",
 			"wowID":"32256"
 		},
@@ -493,14 +498,14 @@
 			"wowID":"32350"
 		},
 		"Translucent Spellthread Necklace":{
-			"prio":["Warlock/Boomkin","EP/GP"],
+			"prio":["Spagoose(1)","Demondred(1)","Coxxy(1)","Warlock/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32349"
 		}
 	},
 	"Mother Shahraz":{
 		"Pauldrons of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31101"
 		},
@@ -547,12 +552,12 @@
 	},
 	"The Illidari Council":{
 		"Leggings of the Forgotten Vanquisher":{
-			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Raehn(1)","Micro(1)","Prestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
@@ -567,7 +572,7 @@
 			"wowID":"32519"
 		},
 		"Cloak of the Illidari Council":{
-			"prio":["EP/GP"],
+			"prio":["Prestige(1)","Raehn(1)","Microdoses(1)"],
 			"gp":"",
 			"wowID":"32331"
 		},
@@ -659,12 +664,12 @@
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Coxxy(1)","Demondred(1)","Killmcpickle(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
+			"prio":["Coxxy(1)","Demondred(1)","Kitboga(1)","Killmcpickle(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["Jowsus(1) unless > 146 haste","Spagoose(1)","Theprestige(1)","EP/GP"],
+			"prio":["Jowsus(1) unless > 146 haste","Spagoose(1)","Micro(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
