@@ -66,7 +66,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["Hunter","Warrior DPS","EP/GP"],
+			"prio":["Chiron (1)","Putitah (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -76,7 +76,7 @@
 			"wowID":"32589"
 		},
 		"Band of Devastation":{
-			"prio":["EP/GP"],
+			"prio":["Atlassham (1)","(Atlaspal (2)","Robi (1)","Suncannon (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32526"
 		},
@@ -103,7 +103,7 @@
 			"wowID":"32232"
 		},
 		"Fists of Mukoa":{
-			"prio":["Enhance","EP/GP"],
+			"prio":["Atlassham (1)","Suncannon (2)","Abdication (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32234"
 		},
@@ -175,7 +175,7 @@
 			"wowID":"32259"
 		},
 		"Choker of Endless Nightmares":{
-			"prio":["Rogue/Warrior/Enh/Ret","EP/GP"],
+			"prio":["Wayllo (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32260"
 		},
@@ -210,7 +210,7 @@
 			"wowID":"32250"
 		},
 		"Syphon of the Nathrezim":{
-			"prio":["Enhance x2","EP/GP"],
+			"prio":["Abdication (1)","Suncannon (2)","Atlassham (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32262"
 		},
@@ -252,7 +252,7 @@
 			"wowID":"32270"
 		},
 		"Grips of Silent Justice":{
-			"prio":["Warrior DPS","EP/GP"],
+			"prio":["Thotpatrol (1)","Paintrain (2)","Dillmcpickle (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32278"
 		},
@@ -262,7 +262,7 @@
 			"wowID":"32271"
 		},
 		"Myrmidon's Treads":{
-			"prio":["EP/GP"],
+			"prio":["Prot Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32268"
 		},
@@ -272,7 +272,7 @@
 			"wowID":"32263"
 		},
 		"Ring of Deceitful Intent":{
-			"prio":["Feral/Rogue>Ret","EP/GP"],
+			"prio":["Bear>Rogue","EP/GP"],
 			"gp":"",
 			"wowID":"32266"
 		},
@@ -324,7 +324,7 @@
 			"wowID":"32512"
 		},
 		"Insidious Bands":{
-			"prio":["EP/GP"],
+			"prio":["Wayllo (1)","Oglol (2)","Ferbb (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32324"
 		},
@@ -391,7 +391,7 @@
 			"wowID":"32333"
 		},
 		"Leggings of Divine Retribution":{
-			"prio":["Warrior DPS","EP/GP"],
+			"prio":["Dillmcpickle (1)","Paintrain (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32341"
 		},
@@ -401,7 +401,7 @@
 			"wowID":"32269"
 		},
 		"Shadowmoon Insignia":{
-			"prio":["EP/GP"],
+			"prio":["Bear>","EP/GP"],
 			"gp":"",
 			"wowID":"32501"
 		},
@@ -416,7 +416,7 @@
 			"wowID":"32344"
 		},
 		"Unstoppable Aggressor's Ring":{
-			"prio":["Ret","EP/GP"],
+			"prio":["Thotpatrol (1)","Paintrain (2)","Dillmcpickle (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32335"
 		},
@@ -443,7 +443,7 @@
 			"wowID":"32354"
 		},
 		"Dreadboots of the Legion":{
-			"prio":["EP/GP"],
+			"prio":["Dillmcpickle (1)","Paintrain (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32345"
 		},
@@ -483,7 +483,7 @@
 			"wowID":"32517"
 		},
 		"Torch of the Damned":{
-			"prio":["Ret","EP/GP"],
+			"prio":["(Robi (1)","Atlaspal (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32332"
 		},
@@ -505,7 +505,7 @@
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Chiron (1)","Dillmcpickle (1)","Thotpatrol (1)","Ferbb (1)","Oglol (2)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
@@ -515,7 +515,7 @@
 			"wowID":"31102"
 		},
 		"Blade of Savagery":{
-			"prio":["Rogue","Human Prot Warrior","EP/GP"],
+			"prio":["Wayllo (1)","Destain (2)","Snydicate (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32369"
 		},
@@ -535,7 +535,7 @@
 			"wowID":"32370"
 		},
 		"Shadowmaster's Boots":{
-			"prio":["Warrior/Rogue/Ret/Hunter","EP/GP"],
+			"prio":["Robi (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32366"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["Tatertotem(1)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Snydi (1)","Thedruiid (2)","Tatertotem(1)","Chiron (1)","Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -572,17 +572,17 @@
 			"wowID":"32331"
 		},
 		"Forest Prowler's Helm":{
-			"prio":["EP/GP"],
+			"prio":["Ret/Hunter Low on CVOS","EP/GP"],
 			"gp":"",
 			"wowID":"32376"
 		},
 		"Helm of the Illidari Shatterer":{
-			"prio":["Ret/Warrior low on CVoS","EP/GP"],
+			"prio":["Warrior DPS Low on CVOS","EP/GP"],
 			"gp":"",
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["Warrior/Hunter/Enh","EP/GP"],
+			"prio":["Thotpatrol (1)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
@@ -594,7 +594,7 @@
 	},
 	"Illidan Stormrage":{
 		"Chestguard of the Forgotten Protector":{
-			"prio":["DPS Warrior","DPS Warrior","Tatertotem(1)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
+			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Tatertotem(1)","Paintrain (2)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31091"
 		},
@@ -619,7 +619,7 @@
 			"wowID":"32375"
 		},
 		"Cowl of the Illidari High Lord":{
-			"prio":["EP/GP"],
+			"prio":["Warlocks w/o Vestments","EP/GP"],
 			"gp":"",
 			"wowID":"32525"
 		},
@@ -629,7 +629,7 @@
 			"wowID":"32500"
 		},
 		"Cursed Vision of Sargeras":{
-			"prio":["EP/GP"],
+			"prio":["Abdication (1)","Dillmcpickle (1)","Robi (1)","Chiron (1)","Thotpatrol (1)","Suncannon (2)","Putitah (2)","Atlaspal (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32235"
 		},
@@ -654,12 +654,12 @@
 			"wowID":"32524"
 		},
 		"Stormrage Signet Ring":{
-			"prio":["EP/GP"],
+			"prio":["Wayllo (1)","Destain (2)","Chiron (1)","Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Coxxy(1)","Demondred(1)","Killmcpickle(1)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
+			"prio":["Coxxy(1)","Demondred(1)","Killmcpickle(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
