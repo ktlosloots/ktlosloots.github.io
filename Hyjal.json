@@ -6,7 +6,7 @@
 			"wowID":"30864"
 		},
 		"Cuffs of Devastation":{
-			"prio":["EP/GP"],
+			"prio":["Microdoses(1)","Raehn(1)","Prestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30870"
 		},
@@ -21,7 +21,7 @@
 			"wowID":"30871"
 		},
 		"Chronicle of Dark Secrets":{
-			"prio":["Non Zhardoom Casters","EP/GP"],
+			"prio":["Non Zhardoom Casters","Coxxy(1)","Kitboga(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30872"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"30887"
 		},
 		"Anetheron's Noose":{
-			"prio":["EP/GP"],
+			"prio":["Raehn(1)","Micro(1)","Prestige(1)"],
 			"gp":"",
 			"wowID":"30888"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"30889"
 		},
 		"Leggings of Channeled Elements":{
-			"prio":["Ele/Boomkin/Spriest","EP/GP"],
+			"prio":["Jowsus(1)","Spagoose(1)","Ele/Boomkin/Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"30916"
 		},
@@ -187,7 +187,7 @@
 	},
 	"Azgalor":{
 		"Gloves of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Prot Pally", "Kitboga(1)","Demondred(1)","Coxxy(1)"],
 			"gp":"",
 			"wowID":"31093"
 		},
@@ -234,7 +234,7 @@
 	},
 	"Archimonde":{
 		"Helm of the Forgotten Vanquisher":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31096"
 		},
@@ -259,7 +259,7 @@
 			"wowID":"30907"
 		},
 		"Robes of Rhonin":{
-			"prio":["Kitboga(1)","EP/GP"],
+			"prio":["Locks without vestments","Demondred(1)","Kitboga(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30913"
 		},
@@ -274,7 +274,7 @@
 			"wowID":"30911"
 		},
 		"Tempest of Chaos":{
-			"prio":["Sniped(1)","Theprestige(1)","EP/GP"],
+			"prio":["Theprestige(1)","Kitboga(1)","Casters without T6/5 weapons","EP/GP"],
 			"gp":"",
 			"wowID":"30910"
 		},
