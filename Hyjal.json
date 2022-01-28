@@ -26,7 +26,7 @@
 			"wowID":"30872"
 		},
 		"Deadly Cuffs":{
-			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Paintrain (2)","EP/GP"],
+			"prio":["Thotpatrol (1)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"30863"
 		},
@@ -170,7 +170,7 @@
 			"wowID":"30889"
 		},
 		"Leggings of Channeled Elements":{
-			"prio":["Jowsus(1)","Spagoose(1)","Ele/Boomkin/Spriest","EP/GP"],
+			"prio":["Spagoose(1)","Jowsus(1)","Ele/Boomkin/Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"30916"
 		},
@@ -222,7 +222,7 @@
 			"wowID":"30896"
 		},
 		"Boundless Agony":{
-			"prio":["Chiron (1)","Putitah (2)","Oglol (2)","Hunter","EP/GP"],
+			"prio":["Putitah (2)","Oglol (2)","Hunter","EP/GP"],
 			"gp":"",
 			"wowID":"30901"
 		},
@@ -234,7 +234,7 @@
 	},
 	"Archimonde":{
 		"Helm of the Forgotten Vanquisher":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31096"
 		},
@@ -299,7 +299,7 @@
 			"wowID":"30903"
 		},
 		"Cataclysm's Edge":{
-			"prio":["Thotpatrol (1)","Arms Warrior","EP/GP"],
+			"prio":["Arms Warrior","EP/GP"],
 			"gp":"",
 			"wowID":"30902"
 		},
