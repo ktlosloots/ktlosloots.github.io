@@ -76,7 +76,7 @@
 			"wowID":"32591"
 		},
 		"Hellfire-Encased Pendant":{
-			"prio":["EP/GP"],
+			"prio":["Fire mages","EP/GP"],
 			"gp":"",
 			"wowID":"32589"
 		},
@@ -158,7 +158,7 @@
 			"wowID":"32239"
 		},
 		"The Maelstrom's Fury":{
-			"prio":["Ele/Priest/Boomkin","EP/GP"],
+			"prio":["Tater(1)","Non T6 weapons Ele/Priest/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32237"
 		},
@@ -624,7 +624,7 @@
 			"wowID":"32375"
 		},
 		"Cowl of the Illidari High Lord":{
-			"prio":["Warlocks w/o Vestments","EP/GP"],
+			"prio":["Fire Mages","Warlocks w/o Vestments/Rhonin","EP/GP"],
 			"gp":"",
 			"wowID":"32525"
 		},
