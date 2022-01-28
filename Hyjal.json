@@ -11,7 +11,7 @@
 			"wowID":"30870"
 		},
 		"Blessed Adamantite Bracers":{
-			"prio":["EP/GP"],
+			"prio":["Sebela(1)","Pally(2)","HolyPally","EP/GP"],
 			"gp":"",
 			"wowID":"30862"
 		},
@@ -68,7 +68,7 @@
 			"wowID":"30882"
 		},
 		"Golden Links of Restoration":{
-			"prio":["EP/GP"],
+			"prio":["Scrubby(1),"Wildflurry(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30887"
 		},
@@ -78,7 +78,7 @@
 			"wowID":"30888"
 		},
 		"Archbishop's Slippers":{
-			"prio":["EP/GP"],
+			"prio":["Mazzo(1)","Holypriest","EP/GP"],
 			"gp":"",
 			"wowID":"30885"
 		},
@@ -98,7 +98,7 @@
 			"wowID":"30886"
 		},
 		"Glimmering Steel Mantle":{
-			"prio":["EP/GP"],
+			"prio":["Sebela(1),"Pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30878"
 		},
@@ -130,7 +130,7 @@
 			"wowID":"30917"
 		},
 		"Angelista's Sash":{
-			"prio":["EP/GP"],
+			"prio":["Jaz(1)","Mazzo(1)","Holypriest","EP/GP"],
 			"gp":"",
 			"wowID":"30895"
 		},
@@ -160,7 +160,7 @@
 			"wowID":"30894"
 		},
 		"Hammer of Atonement":{
-			"prio":["EP/GP"],
+			"prio":["WildFlurry(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30918"
 		},
@@ -202,7 +202,7 @@
 			"wowID":"31092"
 		},
 		"Girdle of Hope":{
-			"prio":["EP/GP"],
+			"prio":["Sebela(1),"Pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30897"
 		},
@@ -264,12 +264,12 @@
 			"wowID":"30913"
 		},
 		"Savior's Grasp":{
-			"prio":["Hpal","EP/GP"],
+			"prio":["Sebela(1),"Pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30904"
 		},
 		"Scepter of Purification":{
-			"prio":["Hpriest/Rdruid","EP/GP"],
+			"prio":["Jaz(1)","Mazzo(1)","Mansnothot(2)","Hpriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30911"
 		},
@@ -284,7 +284,7 @@
 			"wowID":"30908"
 		},
 		"Leggings of Eternity":{
-			"prio":["Kare(2)","EP/GP"],
+			"prio":["Oph(1)","Mazzo(1)","Jaz(1)","Kare(2)","(mansnothot(2)","Rdruid=Priests","EP/GP"],
 			"gp":"",
 			"wowID":"30912"
 		},
