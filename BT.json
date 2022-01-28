@@ -71,7 +71,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["Chiron (1)","Putitah (2)","EP/GP"],
+			"prio":["Putitah (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -505,7 +505,7 @@
 	},
 	"Mother Shahraz":{
 		"Pauldrons of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Khupo(flex)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31101"
 		},
@@ -520,7 +520,7 @@
 			"wowID":"31102"
 		},
 		"Blade of Savagery":{
-			"prio":["Wayllo (1)","Destain (2)","Snydicate (1)","EP/GP"],
+			"prio":["Destain (2)","Snydicate (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32369"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["Snydi (1)","Thedruiid (2)","Tatertotem(1)","Chiron (1)","Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Thedruiid (2)","Chiron (1)","Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -599,7 +599,7 @@
 	},
 	"Illidan Stormrage":{
 		"Chestguard of the Forgotten Protector":{
-			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Tatertotem(1)","Paintrain (2)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
+			"prio":["Thotpatrol (1)","Tatertotem(1)","Paintrain (2)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31091"
 		},
@@ -674,12 +674,12 @@
 			"wowID":"32374"
 		},
 		"Warglaive of Azzinoth (MH)":{
-			"prio":["EP/GP"],
+			"prio":["Microdoses (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32837"
 		},
 		"Warglaive of Azzinoth (OH)":{
-			"prio":["EP/GP"],
+			"prio":["Microdoses (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32838"
 		}
