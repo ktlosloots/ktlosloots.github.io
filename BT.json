@@ -344,7 +344,7 @@
 			"wowID":"32327"
 		},
 		"Shadowmoon Destroyer's Drape":{
-			"prio":["Rogue/Warr","EP/GP"],
+			"prio":["Enh>Rogue/Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32323"
 		},
@@ -396,7 +396,7 @@
 			"wowID":"32333"
 		},
 		"Leggings of Divine Retribution":{
-			"prio":["Dillmcpickle (1)","Paintrain (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Dillmcpickle (1)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32341"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["Chiron (1)","Dillmcpickle (1)","Thotpatrol (1)","Ferbb (1)","Oglol (2)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
@@ -557,7 +557,7 @@
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Kitboga(1)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"32519"
 		},
 		"Cloak of the Illidari Council":{
-			"prio":["Prestige(1)","Raehn(1)","Microdoses(1)"],
+			"prio":["Raehn(1)","Microdoses(1)"],
 			"gp":"",
 			"wowID":"32331"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["Thotpatrol (1)","Paintrain (2)","EP/GP"],
+			"prio":["Thotpatrol (1)","Non DST TBD (2)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
@@ -599,7 +599,7 @@
 	},
 	"Illidan Stormrage":{
 		"Chestguard of the Forgotten Protector":{
-			"prio":["Thotpatrol (1)","Tatertotem(1)","Paintrain (2)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
+			"prio":["Thotpatrol (1)","Tatertotem(1)","DPS War > Hunter > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31091"
 		},
@@ -629,12 +629,12 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["Mazzo(1)","Scrubby(1)","Hpriest/Hsham","EP/GP"],
+			"prio":["Mazzo(1)","Hpriest/Hsham","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
 		"Cursed Vision of Sargeras":{
-			"prio":["Abdication (1)","Dillmcpickle (1)","Robi (1)","Chiron (1)","Thotpatrol (1)","Suncannon (2)","Putitah (2)","Atlaspal (2)","EP/GP"],
+			"prio":["Abdication (1)","Dillmcpickle (1)","Robi (1)","Chiron (1)","Thotpatrol (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32235"
 		},
