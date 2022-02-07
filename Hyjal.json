@@ -11,7 +11,7 @@
 			"wowID":"30870"
 		},
 		"Blessed Adamantite Bracers":{
-			"prio":["Sebela(1)","Pally(2)","HolyPally","EP/GP"],
+			"prio":["HolyPally","EP/GP"],
 			"gp":"",
 			"wowID":"30862"
 		},
@@ -130,7 +130,7 @@
 			"wowID":"30917"
 		},
 		"Angelista's Sash":{
-			"prio":["Jaz(1)","Mazzo(1)","Holypriest","EP/GP"],
+			"prio":["Mazzo(1)","Holypriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30895"
 		},
@@ -160,7 +160,7 @@
 			"wowID":"30894"
 		},
 		"Hammer of Atonement":{
-			"prio":["WildFlurry(2)","EP/GP"],
+			"prio":["Kare(2)","WildFlurry(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30918"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"30904"
 		},
 		"Scepter of Purification":{
-			"prio":["Jaz(1)","Mazzo(1)","Mansnothot(2)","Hpriest/Rdruid","EP/GP"],
+			"prio":["Mazzo(1)","Mansnothot(2)","Kare(2)","Hpriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30911"
 		},
@@ -284,7 +284,7 @@
 			"wowID":"30908"
 		},
 		"Leggings of Eternity":{
-			"prio":["Oph(1)","Mazzo(1)","Jaz(1)","Kare(2)","(mansnothot(2)","Rdruid=Priests","EP/GP"],
+			"prio":["Oph(1)","Mazzo(1)","Kare(2)","mansnothot(2)","Rdruid=Priests","EP/GP"],
 			"gp":"",
 			"wowID":"30912"
 		},
