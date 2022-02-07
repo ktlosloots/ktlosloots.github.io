@@ -46,7 +46,7 @@
 			"wowID":"34012"
 		},
 		"Boots of the Divine Light":{
-			"prio":["EP/GP"],
+			"prio":["Kare(2)","WildFlurry(2)","HolyPriest>Rdruid>Rsham","EP/GP"],
 			"gp":"",
 			"wowID":"32609"
 		},
@@ -86,7 +86,7 @@
 			"wowID":"32526"
 		},
 		"Blessed Band of Karabor":{
-			"prio":["EP/GP"],
+			"prio":["OPH(1)","Scrubby(1)","Mazzo(1)","Sebela(1)","Kare(2)","MANSNOTHOT(2)","pally(2)","wildfluury(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32528"
 		},
@@ -138,7 +138,7 @@
 			"wowID":"32243"
 		},
 		"Ring of Calming Waves":{
-			"prio":["EP/GP"],
+			"prio":["Sebela(1)","Pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32238"
 		},
@@ -200,7 +200,7 @@
 			"wowID":"32253"
 		},
 		"Naturalist's Preserving Cinch":{
-			"prio":["EP/GP"],
+			"prio":["Scrubby(1)","WildFlurry(2)","Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32258"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"32264"
 		},
 		"Spiritwalker Gauntlets":{
-			"prio":["EP/GP"],
+			"prio":["Scrubby(1)","WildFlurry(2)","Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32275"
 		},
@@ -309,7 +309,7 @@
 	},
 	"Teron Gorefiend":{
 		"Botanist's Gloves of Growth":{
-			"prio":["Rsham/Rdruid","EP/GP"],
+			"prio":["oph(1)","kare(2)","Scrubby(1)if no mail haste gloves","Wildflury(2)if no mail haste gloves","Rdruid up too 113haste>Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32328"
 		},
@@ -371,7 +371,7 @@
 	},
 	"Gurtogg Bloodboil":{
 		"Belt of Primal Majesty":{
-			"prio":["EP/GP"],
+			"prio":["oph(1)","kare(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32339"
 		},
@@ -629,7 +629,7 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["Mazzo(1)","Hpriest/Hsham","EP/GP"],
+			"prio":["Mazzo(1)","Mansnothot(2)","Hpriest/Hsham","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
@@ -654,7 +654,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
+			"prio":["kare(2)","Scrubby(1)","Mazzo(1)","Mansnothot(2)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
