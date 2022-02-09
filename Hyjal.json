@@ -130,7 +130,7 @@
 			"wowID":"30917"
 		},
 		"Angelista's Sash":{
-			"prio":["Mazzo(1)","Holypriest/Rdruid","EP/GP"],
+			"prio":["Holypriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30895"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"30897"
 		},
 		"Bow-stitched Leggings":{
-			"prio":["Ferbb (1)","Atlaspal (2)","Tarthon (2)","Robi (1)","Abdication (1)","Suncannon (2)","Survival Hunter>Ret/Enh","EP/GP"],
+			"prio":["Ferbb (1)","Suncannon (2)","Tarthon (2)","Robi (1)","Abdication (1)","Chiron (2)","Survival Hunter>Ret/Enh","EP/GP"],
 			"gp":"",
 			"wowID":"30900"
 		},
@@ -234,7 +234,7 @@
 	},
 	"Archimonde":{
 		"Helm of the Forgotten Vanquisher":{
-			"prio":["Khupo(flex)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Khupo(flex)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31096"
 		},
@@ -244,12 +244,12 @@
 			"wowID":"31097"
 		},
 		"Helm of the Forgotten Protector":{
-			"prio":["Tatertotem(1)","Ferbb (1)","Doochie? (2)","Tarthon (2)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
+			"prio":["Tatertotem(1)","Tarthon (2)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
 			"gp":"",
 			"wowID":"31095"
 		},
 		"Bristleblitz Striker":{
-			"prio":["Oglol (2)", "Ferbb if no vashj/BT bow, else Chiron (1)","EP/GP"],
+			"prio":["Oglol (2)", "Ferbb (1)","EP/GP"],
 			"gp":"",
 			"wowID":"30906"
 		},
@@ -274,7 +274,7 @@
 			"wowID":"30911"
 		},
 		"Tempest of Chaos":{
-			"prio":["Kitboga(1)","Casters without T6/5 weapons","EP/GP"],
+			"prio":["Casters without T6/5 weapons","EP/GP"],
 			"gp":"",
 			"wowID":"30910"
 		},
@@ -289,7 +289,7 @@
 			"wowID":"30912"
 		},
 		"Midnight Chestguard":{
-			"prio":["Abdication (1)","Robi (1)","Suncannon (2)","Atlaspal (2)","Enh/Ret","EP/GP"],
+			"prio":["Abdication (1)","Robi (1)","Suncannon (2)","Chiron (2)","Enh/Ret","EP/GP"],
 			"gp":"",
 			"wowID":"30905"
 		},
