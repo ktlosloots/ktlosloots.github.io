@@ -1,7 +1,7 @@
 {	
 	"Trash":{
 		"Bracers of Nimble Thought":{
-			"prio":["EP/GP"],
+			"prio":["Spagoose","Kitboga","EP/GP"],
 			"gp":"",
 			"wowID":"32586"
 		},
@@ -36,7 +36,7 @@
 			"wowID":"32945"
 		},
 		"Nethervoid Cloak":{
-			"prio":["Jowsus(1)","Kitboga(1)","Coxxy(1)"],
+			"prio":["Jowsus(1)","Coxxy(1)","Kitboga(1)"],
 			"gp":"",
 			"wowID":"32590"
 		},
@@ -431,7 +431,7 @@
 			"wowID":"32334"
 		},
 		"Wand of Prismatic Focus":{
-			"prio":["Spriest/Lock","EP/GP"],
+			"prio":["Spriest/Lock without Solarian wand","EP/GP"],
 			"gp":"",
 			"wowID":"32343"
 		}
@@ -664,7 +664,7 @@
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Coxxy(1)","Demondred(1)","Kitboga(1)","Killmcpickle(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
+			"prio":["Coxxy(1)","Demondred(1)","Kitboga(1)","Microdoses(1)","Rubski(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
