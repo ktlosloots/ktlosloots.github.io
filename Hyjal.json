@@ -78,7 +78,7 @@
 			"wowID":"30888"
 		},
 		"Archbishop's Slippers":{
-			"prio":["Mazzo(1)","Holypriest","EP/GP"],
+			"prio":["Holypriest","EP/GP"],
 			"gp":"",
 			"wowID":"30885"
 		},
@@ -130,7 +130,7 @@
 			"wowID":"30917"
 		},
 		"Angelista's Sash":{
-			"prio":["Holypriest/Rdruid","EP/GP"],
+			"prio":["Jaz(1)","MANSNOTHOT(2)","Holypriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30895"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"30904"
 		},
 		"Scepter of Purification":{
-			"prio":["Mazzo(1)","Mansnothot(2)","Kare(2)","Hpriest/Rdruid","EP/GP"],
+			"prio":["Mazzo(1)","Jaz(1)","Mansnothot(2)","Kare(2)","Hpriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30911"
 		},
@@ -284,7 +284,7 @@
 			"wowID":"30908"
 		},
 		"Leggings of Eternity":{
-			"prio":["Oph(1)","Mazzo(1)","Kare(2)","mansnothot(2)","Rdruid=Priests","EP/GP"],
+			"prio":["Jaz(1)","Mazzo(1)","Oph(1)","mansnothot(2)","Kare(2)","Rdruid=Priests","EP/GP"],
 			"gp":"",
 			"wowID":"30912"
 		},
