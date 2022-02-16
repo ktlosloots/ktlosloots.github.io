@@ -1,7 +1,7 @@
 {	
 	"Trash":{
 		"Bracers of Nimble Thought":{
-			"prio":["Spagoose","Kitboga","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"32586"
 		},
@@ -36,7 +36,7 @@
 			"wowID":"32945"
 		},
 		"Nethervoid Cloak":{
-			"prio":["Jowsus(1)","Coxxy(1)","Kitboga(1)"],
+			"prio":["Coxxy(1)","Kitboga(1)"],
 			"gp":"",
 			"wowID":"32590"
 		},
@@ -71,7 +71,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["Putitah (2)","EP/GP"],
+			"prio":["Snydi (1)","Putitah (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -81,7 +81,7 @@
 			"wowID":"32589"
 		},
 		"Band of Devastation":{
-			"prio":["Robi (1)","Suncannon (2)","Abdication (1)","EP/GP"],
+			"prio":["Abdication (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32526"
 		},
@@ -344,7 +344,7 @@
 			"wowID":"32327"
 		},
 		"Shadowmoon Destroyer's Drape":{
-			"prio":["Atlassham (1)","Enh>Rogue/Warr","EP/GP"],
+			"prio":["Enh>Rogue/Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32323"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["Dillmcpickle (1)","Thotpatrol (1)","Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Thotpatrol (1)","Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
@@ -552,7 +552,7 @@
 	},
 	"The Illidari Council":{
 		"Leggings of the Forgotten Vanquisher":{
-			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Raehn(1)","Micro(1)","Prestige(1)","EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Micro(1)","Prestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"31099"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["Thedruiid (2)","Chiron (1)","Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["Thotpatrol (1)","Non DST TBD (2)","Paintrain (2)","EP/GP"],
+			"prio":["Non DST DPS Raid 1 TBD","Non DST TBD (2)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
@@ -669,17 +669,17 @@
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["Spagoose(1)","Micro(1)","EP/GP"],
+			"prio":["Micro(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
 		"Warglaive of Azzinoth (MH)":{
-			"prio":["Dill (1)","Destain (2)","EP/GP"],
+			"prio":["Micro (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32837"
 		},
 		"Warglaive of Azzinoth (OH)":{
-			"prio":["Dill (1)","Destain (2)","EP/GP"],
+			"prio":["Micro (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32838"
 		}
