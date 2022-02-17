@@ -21,7 +21,7 @@
 			"wowID":"30871"
 		},
 		"Chronicle of Dark Secrets":{
-			"prio":["Non Zhardoom Casters","Coxxy(1)","Kitboga(1)","EP/GP"],
+			"prio":["Non Zhardoom Casters","Kitboga(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30872"
 		},
@@ -187,7 +187,7 @@
 	},
 	"Azgalor":{
 		"Gloves of the Forgotten Vanquisher":{
-			"prio":["Prot Pally","Demondred(1)","Coxxy(1)"],
+			"prio":["Prot Pally > Warlock > Spriest > Healers"],
 			"gp":"",
 			"wowID":"31093"
 		},
@@ -234,7 +234,7 @@
 	},
 	"Archimonde":{
 		"Helm of the Forgotten Vanquisher":{
-			"prio":["Khupo(flex)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Khupo(flex)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31096"
 		},
@@ -244,7 +244,7 @@
 			"wowID":"31097"
 		},
 		"Helm of the Forgotten Protector":{
-			"prio":["Tatertotem(1)","Tarthon (2)","Ele sham/Resto sham > DPS war/hunter","EP/GP"],
+			"prio":["Ele sham/Resto sham > DPS war/hunter","EP/GP"],
 			"gp":"",
 			"wowID":"31095"
 		},
@@ -304,7 +304,7 @@
 			"wowID":"30902"
 		},
 		"Antonidas's Aegis of Rapt Concentration":{
-			"prio":["Tatertotem(1)","Ele sham > Prot pally","EP/GP"],
+			"prio":["Healslol(1)","Khupo(2)","Ele sham > Prot pally","EP/GP"],
 			"gp":"",
 			"wowID":"30909"
 		}
