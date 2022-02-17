@@ -557,7 +557,7 @@
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Demondred(1)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Healslol(flex)", "Khupo(flex)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
@@ -669,7 +669,7 @@
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["Micro(1)","EP/GP"],
+			"prio":["Micro(1)","Raehn(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
