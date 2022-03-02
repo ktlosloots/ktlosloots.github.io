@@ -71,7 +71,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["Snydi (1)","Putitah (2)","EP/GP"],
+			"prio":["Putitah (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"32232"
 		},
 		"Fists of Mukoa":{
-			"prio":["Atlassham (1)","Suncannon (2)","Abdication (1)","EP/GP"],
+			"prio":["Suncannon (2)","Abdication (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32234"
 		},
@@ -421,7 +421,7 @@
 			"wowID":"32344"
 		},
 		"Unstoppable Aggressor's Ring":{
-			"prio":["Thotpatrol (1)","Dillmcpickle (1)","Atlaswar (2)","EP/GP"],
+			"prio":["Dillmcpickle (1)","Atlaswar (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32335"
 		},
@@ -540,7 +540,7 @@
 			"wowID":"32370"
 		},
 		"Shadowmaster's Boots":{
-			"prio":["Robi (1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"32366"
 		},
@@ -629,7 +629,7 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["Mazzo(1)","Mansnothot(2)","Hpriest/Hsham","EP/GP"],
+			"prio":["Mazzo(1)","Hpriest/Hsham","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
@@ -659,7 +659,7 @@
 			"wowID":"32524"
 		},
 		"Stormrage Signet Ring":{
-			"prio":["Wayllo (1)","Chiron (1)","Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Chiron (1)","Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32497"
 		},
@@ -674,12 +674,12 @@
 			"wowID":"32374"
 		},
 		"Warglaive of Azzinoth (MH)":{
-			"prio":["Micro (1)","Destain (2)","EP/GP"],
+			"prio":["Chiron (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32837"
 		},
 		"Warglaive of Azzinoth (OH)":{
-			"prio":["Micro (1)","Destain (2)","EP/GP"],
+			"prio":["Chiron (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32838"
 		}
