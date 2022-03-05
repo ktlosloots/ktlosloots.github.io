@@ -36,7 +36,7 @@
 			"wowID":"32945"
 		},
 		"Nethervoid Cloak":{
-			"prio":["Coxxy(1)","Kitboga(1)"],
+			"prio":["Kitboga(1)"],
 			"gp":"",
 			"wowID":"32590"
 		},
@@ -91,7 +91,7 @@
 			"wowID":"32528"
 		},
 		"Ring of Ancient Knowledge":{
-			"prio":["Coxxy(1)","Tater(1)","Microdoses(1)"],
+			"prio":["Coxxy(1)","Tater(1)","Microdoses(1)","Killmcpickle(2)"],
 			"gp":"",
 			"wowID":"32527"
 		}
@@ -215,7 +215,7 @@
 			"wowID":"32250"
 		},
 		"Syphon of the Nathrezim":{
-			"prio":["Atlassham (1)","Abdication (1)","Suncannon (2)","EP/GP"],
+			"prio":["Abdication (1)","Suncannon (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32262"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"32264"
 		},
 		"Spiritwalker Gauntlets":{
-			"prio":["Scrubby(1)","WildFlurry(2)","Rsham>Pally","EP/GP"],
+			"prio":["WildFlurry(2)","Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32275"
 		},
@@ -309,7 +309,7 @@
 	},
 	"Teron Gorefiend":{
 		"Botanist's Gloves of Growth":{
-			"prio":["kare(2)","Scrubby(1)if no mail haste gloves","Wildflury(2)if no mail haste gloves","Rdruid up too 113haste>Rsham>Pally","EP/GP"],
+			"prio":["Wildflury(2)if no mail haste gloves","Rdruid up too 113haste>Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32328"
 		},
@@ -396,7 +396,7 @@
 			"wowID":"32333"
 		},
 		"Leggings of Divine Retribution":{
-			"prio":["Dillmcpickle (1)","Thotpatrol (1)", "Atlaswar (2)","EP/GP"],
+			"prio":["Dillmcpickle (1)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32341"
 		},
@@ -510,7 +510,7 @@
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["Thotpatrol (1)","Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
@@ -552,12 +552,12 @@
 	},
 	"The Illidari Council":{
 		"Leggings of the Forgotten Vanquisher":{
-			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Micro(1)","Prestige(1)","EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Prestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["Non DST DPS Raid 1 TBD","Non DST TBD (2)","Paintrain (2)","EP/GP"],
+			"prio":["Abdication (1)","Non DST TBD (2)","Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
@@ -609,7 +609,7 @@
 			"wowID":"31090"
 		},
 		"Chestguard of the Forgotten Conqueror":{
-			"prio":["Healslol(flex)", "Khupo(flex)","Prot Pally > Warlock (4 set completion only, no vashj chest) > Spriest > Healers","EP/GP"],
+			"prio":["Prot Pally > Warlock (4 set completion only, no vashj chest) > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31089"
 		},
@@ -634,7 +634,7 @@
 			"wowID":"32500"
 		},
 		"Cursed Vision of Sargeras":{
-			"prio":["Abdication (1)","Dillmcpickle (1)","Robi (1)","Chiron (1)","Thotpatrol (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
+			"prio":["Dillmcpickle (1)","Robi (1)","Thotpatrol (1)","Chiron (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32235"
 		},
