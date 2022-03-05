@@ -6,7 +6,7 @@
 			"wowID":"30864"
 		},
 		"Cuffs of Devastation":{
-			"prio":["Microdoses(1)","Raehn(1)","Prestige(1)","EP/GP"],
+			"prio":["Raehn(1)","Prestige(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30870"
 		},
@@ -46,7 +46,7 @@
 			"wowID":"30866"
 		},
 		"Furious Shackles":{
-			"prio":["Thotpatrol (1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"30861"
 		},
@@ -207,7 +207,7 @@
 			"wowID":"30897"
 		},
 		"Bow-stitched Leggings":{
-			"prio":["Ferbb (1)","Suncannon (2)","Tarthon (2)","Robi (1)","Abdication (1)","Chiron (2)","Survival Hunter>Ret/Enh","EP/GP"],
+			"prio":["Suncannon (2)","Robi (1)","Abdication (1)","Atlassham (1)","Chiron (2)","Survival Hunter>Ret/Enh","EP/GP"],
 			"gp":"",
 			"wowID":"30900"
 		},
@@ -264,7 +264,7 @@
 			"wowID":"30913"
 		},
 		"Savior's Grasp":{
-			"prio":["Sebela(1)","Pally(2)","EP/GP"],
+			"prio":["Pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"30904"
 		},
@@ -274,7 +274,7 @@
 			"wowID":"30911"
 		},
 		"Tempest of Chaos":{
-			"prio":["Coxxy(1)","Casters without T6/5 weapons","EP/GP"],
+			"prio":["Casters without T6/5 weapons","EP/GP"],
 			"gp":"",
 			"wowID":"30910"
 		},
