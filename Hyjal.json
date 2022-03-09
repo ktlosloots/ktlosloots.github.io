@@ -21,7 +21,7 @@
 			"wowID":"30871"
 		},
 		"Chronicle of Dark Secrets":{
-			"prio":["Non Zhardoom Casters","Kitboga(1)","EP/GP"],
+			"prio":["Non Zhardoom Casters","EP/GP"],
 			"gp":"",
 			"wowID":"30872"
 		},
@@ -73,7 +73,7 @@
 			"wowID":"30887"
 		},
 		"Anetheron's Noose":{
-			"prio":["Micro(1)","Prestige(1)"],
+			"prio":["Raehn(1)","Micro(1)"],
 			"gp":"",
 			"wowID":"30888"
 		},
@@ -88,7 +88,7 @@
 			"wowID":"30881"
 		},
 		"Don Alejandro's Money Belt":{
-			"prio":["Chiron (1)","Putitah (2)","Oglol (2)","EP/GP"],
+			"prio":["Ferbb (1)","Tarthon (2)","Putitah (2)","Oglol (2)","EP/GP"],
 			"gp":"",
 			"wowID":"30879"
 		},
@@ -284,12 +284,12 @@
 			"wowID":"30908"
 		},
 		"Leggings of Eternity":{
-			"prio":["Jaz(1)","Mazzo(1)","Oph(1)","mansnothot(2)","Kare(2)","Rdruid=Priests","EP/GP"],
+			"prio":["Mazzo(1)","Oph(1)","mansnothot(2)","Kare(2)","Rdruid=Priests","EP/GP"],
 			"gp":"",
 			"wowID":"30912"
 		},
 		"Midnight Chestguard":{
-			"prio":["Abdication (1)","Robi (1)","Suncannon (2)","Chiron (2)","Enh/Ret","EP/GP"],
+			"prio":["Robi (1)","Suncannon (2)","Chiron (2)","Enh/Ret","EP/GP"],
 			"gp":"",
 			"wowID":"30905"
 		},
