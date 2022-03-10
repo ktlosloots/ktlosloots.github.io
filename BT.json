@@ -71,7 +71,7 @@
 			"wowID":"32606"
 		},
 		"Choker of Serrated Blades":{
-			"prio":["Putitah (2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"32591"
 		},
@@ -498,19 +498,19 @@
 			"wowID":"32350"
 		},
 		"Translucent Spellthread Necklace":{
-			"prio":["Spagoose(1)","Demondred(1)","Coxxy(1)","Warlock/Boomkin","EP/GP"],
+			"prio":["Spagoose(1)","Coxxy(1)","Warlock/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32349"
 		}
 	},
 	"Mother Shahraz":{
 		"Pauldrons of the Forgotten Conqueror":{
-			"prio":["Khupo(flex)","Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31101"
 		},
 		"Pauldrons of the Forgotten Protector":{
-			"prio":["Ferbb (1)","Putitah (2)","Paintrain (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31103"
 		},
@@ -557,12 +557,12 @@
 			"wowID":"31099"
 		},
 		"Leggings of the Forgotten Conqueror":{
-			"prio":["Coxxy(1)","Prot Pally > Warlock > Spriest > Healers","EP/GP"],
+			"prio":["Prot Pally > Warlock > Spriest > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["Doochie? (2)","Oglol (2)","Putitah (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Doochie? (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -659,7 +659,7 @@
 			"wowID":"32524"
 		},
 		"Stormrage Signet Ring":{
-			"prio":["Chiron (1)","Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32497"
 		},
