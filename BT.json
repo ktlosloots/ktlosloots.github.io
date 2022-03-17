@@ -309,7 +309,7 @@
 	},
 	"Teron Gorefiend":{
 		"Botanist's Gloves of Growth":{
-			"prio":["Wildflury(2)if no mail haste gloves","Rdruid up too 113haste>Rsham>Pally","EP/GP"],
+			"prio":["Rdruid up too 113haste>Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32328"
 		},
@@ -371,7 +371,7 @@
 	},
 	"Gurtogg Bloodboil":{
 		"Belt of Primal Majesty":{
-			"prio":["oph(1)","kare(2)","EP/GP"],
+			"prio":["kare(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32339"
 		},
@@ -629,7 +629,7 @@
 			"wowID":"32525"
 		},
 		"Crystal Spire of Karabor":{
-			"prio":["Mazzo(1)","Hpriest/Hsham","EP/GP"],
+			"prio":["Mazzo(1)","JAZ(1)","Hpriest > Hsham > Pally=Druid","LC","EP/GP"],
 			"gp":"",
 			"wowID":"32500"
 		},
