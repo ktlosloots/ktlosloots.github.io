@@ -86,12 +86,12 @@
 			"wowID":"32526"
 		},
 		"Blessed Band of Karabor":{
-			"prio":["Jaz(1)","Scrubby(1)","Mazzo(1)","Sebela(1)","Kare(2)","MANSNOTHOT(2)","pally(2)","wildfluury(2)","EP/GP"],
+			"prio":["Scrubby(1)","Mazzo(1)","Sebela(1)","Kare(2)","MANSNOTHOT(2)","pally(2)","wildfluury(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32528"
 		},
 		"Ring of Ancient Knowledge":{
-			"prio":["Coxxy(1)","Tater(1)","Microdoses(1)","Killmcpickle(2)"],
+			"prio":["Coxxy(1)","Tater(1)","Microdoses(1)"],
 			"gp":"",
 			"wowID":"32527"
 		}
@@ -225,7 +225,7 @@
 			"wowID":"32254"
 		},
 		"Waistwrap of Infinity":{
-			"prio":["Demondred(2)","Spriest","Lock","EP/GP"],
+			"prio":["Spriest","Lock","EP/GP"],
 			"gp":"",
 			"wowID":"32256"
 		},
@@ -292,7 +292,7 @@
 			"wowID":"32264"
 		},
 		"Spiritwalker Gauntlets":{
-			"prio":["WildFlurry(2)","Rsham>Pally","EP/GP"],
+			"prio":["Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32275"
 		},
@@ -371,7 +371,7 @@
 	},
 	"Gurtogg Bloodboil":{
 		"Belt of Primal Majesty":{
-			"prio":["kare(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"32339"
 		},
@@ -448,7 +448,7 @@
 			"wowID":"32354"
 		},
 		"Dreadboots of the Legion":{
-			"prio":["Dillmcpickle (1)","Paintrain (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Paintrain (2)","Thotpatrol (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32345"
 		},
@@ -572,7 +572,7 @@
 			"wowID":"32519"
 		},
 		"Cloak of the Illidari Council":{
-			"prio":["Microdoses(1)"],
+			"prio":[??],
 			"gp":"",
 			"wowID":"32331"
 		},
@@ -634,7 +634,7 @@
 			"wowID":"32500"
 		},
 		"Cursed Vision of Sargeras":{
-			"prio":["Dillmcpickle (1)","Robi (1)","Thotpatrol (1)","Chiron (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
+			"prio":["Robi (1)","Thotpatrol (1)","Chiron (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32235"
 		},
@@ -654,7 +654,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["kare(2)","Scrubby(1)","Mazzo(1)","Mansnothot(2)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
+			"prio":["Mazzo(1)","Mansnothot(2)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
