@@ -46,7 +46,7 @@
 			"wowID":"34012"
 		},
 		"Boots of the Divine Light":{
-			"prio":["Kare(2)","WildFlurry(2)","HolyPriest>Rdruid>Rsham","EP/GP"],
+			"prio":["Syndi(2)","HolyPriest>Rdruid>Rsham","EP/GP"],
 			"gp":"",
 			"wowID":"32609"
 		},
@@ -86,7 +86,7 @@
 			"wowID":"32526"
 		},
 		"Blessed Band of Karabor":{
-			"prio":["Scrubby(1)","Mazzo(1)","Sebela(1)","Kare(2)","MANSNOTHOT(2)","pally(2)","wildfluury(2)","EP/GP"],
+			"prio":["Scrubby(1)","Mazzo(1)","Sebela(1)","MANSNOTHOT(2)","Kare(2)","pally(2)","Syndi(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32528"
 		},
@@ -138,7 +138,7 @@
 			"wowID":"32243"
 		},
 		"Ring of Calming Waves":{
-			"prio":["Sebela(1)","Pally(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"32238"
 		},
@@ -200,7 +200,7 @@
 			"wowID":"32253"
 		},
 		"Naturalist's Preserving Cinch":{
-			"prio":["Scrubby(1)","WildFlurry(2)","Rsham>Pally","EP/GP"],
+			"prio":["Syndi(2)","Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32258"
 		},
@@ -654,7 +654,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["Mazzo(1)","Mansnothot(2)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
+			"prio":["Mazzo(1)","sebela(1)","Mansnothot(2)","Syndi(1)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
