@@ -158,7 +158,7 @@
 			"wowID":"32239"
 		},
 		"The Maelstrom's Fury":{
-			"prio":["Tater(1)","Non T6 weapons Ele/Priest/Boomkin","EP/GP"],
+			"prio":["Non T6 weapons Ele/Priest/Boomkin","EP/GP"],
 			"gp":"",
 			"wowID":"32237"
 		},
@@ -257,7 +257,7 @@
 			"wowID":"32270"
 		},
 		"Grips of Silent Justice":{
-			"prio":["Thotpatrol (1)","Paintrain (2)","Dillmcpickle (1)","EP/GP"],
+			"prio":["Dillmcpickle (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32278"
 		},
@@ -329,7 +329,7 @@
 			"wowID":"32512"
 		},
 		"Insidious Bands":{
-			"prio":["Wayllo (1)","Ferbb (1)","Destain (2)","EP/GP"],
+			"prio":["Wayllo (1)","Doublebro (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32324"
 		},
@@ -344,7 +344,7 @@
 			"wowID":"32327"
 		},
 		"Shadowmoon Destroyer's Drape":{
-			"prio":["Enh>Rogue/Warr","EP/GP"],
+			"prio":["Killspree/Chiron (1)","Suncannon (2)","Destain (2)","Enh>Rogue/Warr","EP/GP"],
 			"gp":"",
 			"wowID":"32323"
 		},
@@ -421,7 +421,7 @@
 			"wowID":"32344"
 		},
 		"Unstoppable Aggressor's Ring":{
-			"prio":["Dillmcpickle (1)","Atlaswar (2)","EP/GP"],
+			"prio":["Dillmcpickle (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32335"
 		},
@@ -448,7 +448,7 @@
 			"wowID":"32354"
 		},
 		"Dreadboots of the Legion":{
-			"prio":["Paintrain (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Paintrain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32345"
 		},
@@ -488,7 +488,7 @@
 			"wowID":"32517"
 		},
 		"Torch of the Damned":{
-			"prio":["(Robi (1)","Chiron (2)","EP/GP"],
+			"prio":["Atlas (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32332"
 		},
@@ -552,7 +552,7 @@
 	},
 	"The Illidari Council":{
 		"Leggings of the Forgotten Vanquisher":{
-			"prio":["Feral Druid > Rogue/Boomkin (4 set)","Prestige(1)","EP/GP"],
+			"prio":["Feral Druid > Rogue/Boomkin (4 set)","EP/GP"],
 			"gp":"",
 			"wowID":"31099"
 		},
@@ -562,7 +562,7 @@
 			"wowID":"31098"
 		},
 		"Leggings of the Forgotten Protector":{
-			"prio":["Doochie? (2)","Hunter/DPS War > Ele/Resto sham","EP/GP"],
+			"prio":["Hunter/DPS War > Ele/Resto sham","EP/GP"],
 			"gp":"",
 			"wowID":"31100"
 		},
@@ -587,7 +587,7 @@
 			"wowID":"32373"
 		},
 		"Madness of the Betrayer":{
-			"prio":["Abdication (1)","Non DST TBD (2)","Paintrain (2)","EP/GP"],
+			"prio":["Oglol/Ohzo (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32505"
 		},
@@ -634,7 +634,7 @@
 			"wowID":"32500"
 		},
 		"Cursed Vision of Sargeras":{
-			"prio":["Robi (1)","Thotpatrol (1)","Chiron (1)","Suncannon (2)","Putitah (2)","Atlas (2)","EP/GP"],
+			"prio":["Robi (1)","Thotpatrol (1)","Chiron (1)","Putitah (2)","Atlas (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32235"
 		},
@@ -654,32 +654,32 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["sebela(1)","Mansnothot(2)","Syndi(1)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
+			"prio":["sebela(1)","Mansnothot(2)","Syndi(2)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
 		"Stormrage Signet Ring":{
-			"prio":["Dillmcpickle (1)","Oglol (2)","Putitah (2)","Thotpatrol (1)","EP/GP"],
+			"prio":["Oglol (2)","Putitah (2)","Thotpatrol (1)","Abdication (1)","EP/GP"],
 			"gp":"",
 			"wowID":"32497"
 		},
 		"The Skull of Gul'dan":{
-			"prio":["Coxxy(1)","Demondred(1)","Kitboga(1)","Microdoses(1)","Rubski(2)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
+			"prio":["Coxxy(1)","Demondred(1)","Kitboga(1)","Microdoses(1)","Warlocks > Boomkin/Ele > Mages > Spriest","EP/GP"],
 			"gp":"",
 			"wowID":"32483"
 		},
 		"Zhar'doom, Greatstaff of the Devourer":{
-			"prio":["Micro(1)","Raehn(1)","EP/GP"],
+			"prio":["Raehn(1)","EP/GP"],
 			"gp":"",
 			"wowID":"32374"
 		},
 		"Warglaive of Azzinoth (MH)":{
-			"prio":["Chiron (1)","Destain (2)","EP/GP"],
+			"prio":["Dill (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32837"
 		},
 		"Warglaive of Azzinoth (OH)":{
-			"prio":["Chiron (1)","Destain (2)","EP/GP"],
+			"prio":["Dill (1)","Destain (2)","EP/GP"],
 			"gp":"",
 			"wowID":"32838"
 		}
