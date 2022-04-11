@@ -68,7 +68,7 @@
 			"wowID":"30882"
 		},
 		"Golden Links of Restoration":{
-			"prio":["Scrubby(1)","Wildflurry(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"30887"
 		},
@@ -130,7 +130,7 @@
 			"wowID":"30917"
 		},
 		"Angelista's Sash":{
-			"prio":["Jaz(1)","MANSNOTHOT(2)","Holypriest/Rdruid","EP/GP"],
+			"prio":["Jaz(1)","Holypriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30895"
 		},
@@ -160,7 +160,7 @@
 			"wowID":"30894"
 		},
 		"Hammer of Atonement":{
-			"prio":["Kare(2)","WildFlurry(2)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"30918"
 		},
@@ -269,7 +269,7 @@
 			"wowID":"30904"
 		},
 		"Scepter of Purification":{
-			"prio":["Mazzo(1)","Jaz(1)","Mansnothot(2)","Kare(2)","Hpriest/Rdruid","EP/GP"],
+			"prio":["Jaz(1)","Mansnothot(2)","Kare(2)","Hpriest/Rdruid","EP/GP"],
 			"gp":"",
 			"wowID":"30911"
 		},
