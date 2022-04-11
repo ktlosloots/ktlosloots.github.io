@@ -6,7 +6,7 @@
 			"wowID":"30864"
 		},
 		"Cuffs of Devastation":{
-			"prio":["Raehn(1)","Prestige(1)","EP/GP"],
+			"prio":["Raehn(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30870"
 		},
@@ -108,7 +108,7 @@
 			"wowID":"30884"
 		},
 		"Pillar of Ferocity":{
-			"prio":["EP/GP"],
+			"prio":["Destain(1)","EP/GP"],
 			"gp":"",
 			"wowID":"30883"
 		},
@@ -274,7 +274,7 @@
 			"wowID":"30911"
 		},
 		"Tempest of Chaos":{
-			"prio":["Casters without T6/5 weapons","EP/GP"],
+			"prio":["Healslol(1)","Casters without T6/5 weapons","EP/GP"],
 			"gp":"",
 			"wowID":"30910"
 		},
