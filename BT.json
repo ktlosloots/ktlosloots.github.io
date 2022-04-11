@@ -46,7 +46,7 @@
 			"wowID":"34012"
 		},
 		"Boots of the Divine Light":{
-			"prio":["Syndi(2)","HolyPriest>Rdruid>Rsham","EP/GP"],
+			"prio":["HolyPriest>Rdruid>Rsham","EP/GP"],
 			"gp":"",
 			"wowID":"32609"
 		},
@@ -86,7 +86,7 @@
 			"wowID":"32526"
 		},
 		"Blessed Band of Karabor":{
-			"prio":["Scrubby(1)","Mazzo(1)","Sebela(1)","MANSNOTHOT(2)","Kare(2)","pally(2)","Syndi(2)","EP/GP"],
+			"prio":["Scrubby(1)","Mazzo(1)","Sebela(1)","MANSNOTHOT(2)","pally(2)","EP/GP"],
 			"gp":"",
 			"wowID":"32528"
 		},
@@ -200,7 +200,7 @@
 			"wowID":"32253"
 		},
 		"Naturalist's Preserving Cinch":{
-			"prio":["Syndi(2)","Rsham>Pally","EP/GP"],
+			"prio":["Rsham>Pally","EP/GP"],
 			"gp":"",
 			"wowID":"32258"
 		},
@@ -619,7 +619,7 @@
 			"wowID":"32336"
 		},
 		"Bulwark of Azzinoth":{
-			"prio":["Snydicate(1)","Thedruiid(2)","Prot pallies","EP/GP"],
+			"prio":["Snydicate(1)","Prot pallies","EP/GP"],
 			"gp":"",
 			"wowID":"32375"
 		},
@@ -639,7 +639,7 @@
 			"wowID":"32235"
 		},
 		"Faceplate of the Impenetrable":{
-			"prio":["Thedruiid(2)","EP/GP"],
+			"prio":["LC","EP/GP"],
 			"gp":"",
 			"wowID":"32521"
 		},
@@ -654,7 +654,7 @@
 			"wowID":"32471"
 		},
 		"Shroud of the Highborne":{
-			"prio":["Mazzo(1)","sebela(1)","Mansnothot(2)","Syndi(1)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
+			"prio":["sebela(1)","Mansnothot(2)","Syndi(1)","Resto druid (to 113 haste) > Hpriest/Resto sham > Healers","EP/GP"],
 			"gp":"",
 			"wowID":"32524"
 		},
