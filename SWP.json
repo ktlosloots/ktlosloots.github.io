@@ -1,0 +1,207 @@
+{
+	"Trash":{
+		"Tranquil Majesty Wraps/Tranquil Moonlight Wraps":{
+			"prio":["LC"],
+			"gp":"6",
+			"wowID":"34351",
+			"altID":"34407"
+		},
+		"Gauntlets of the Ancient Shadowmoon/Gauntlets of the Ancient Frostwolf":{
+			"prio":["LC"],
+			"gp":"6",
+			"wowID":"34350",
+			"altID":"34409"
+		},
+		"Ring of Harmonic Beauty":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"35733"
+		},
+		"Shivering Felspine":{
+			"prio":["EP/GP"],
+			"gp":"3",
+			"wowID":"34183"
+		},
+		"Mounting Vengeance":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34346"
+		},
+		"Blade of Life's Inevitability":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34349"
+		},
+		"Wand of Cleansing Light":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34348"
+		},
+		"Wand of the Demonsoul":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34347"
+		},
+		"Sunfire Robe":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"35206"
+		},
+		"Carapace of Sun and Shadow":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"35218"
+		}
+	},
+	"Kalecgos":{
+		"Bracers of the Forgotten Conqueror":{
+			"prio":["LC"],
+			"gp":"6",
+			"wowID":"34848"
+		},
+		"Bracers of the Forgotten Protector":{
+			"prio":["LC"],
+			"gp":"6",
+			"wowID":"34851"
+		},
+		"Bracers of the Forgotten Vanquisher":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34852"
+		},
+		"Band of Lucent Beams":{
+			"prio":["EP/GP"],
+			"gp":"3",
+			"wowID":"34166"
+		},
+		"Breeches of Natural Aggression/Breeches of Natural Splendor":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34169",
+			"altID":"34384"
+		},
+		"Dragonscale-Encrusted Longblade":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34164"
+		},
+		"Fang of Kalecgos":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34165"
+		},
+		"Legplates of the Holy Juggernaut/Judicator's Legguards":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34167",
+			"altID":"34382"
+		},
+		"Pantaloons of Calming Strife/Pantaloons of Growing Strife":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34170",
+			"altID":"34386"
+		},
+		"Starstalker Legguards":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34168"
+		}
+	},
+	"Brutallus":{
+		"Belt of the Forgotten Conqueror":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34853"
+		},
+		"Belt of the Forgotten Protector":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34854"
+		},
+		"Belt of the Forgotten Vanquisher":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34855"
+		},
+		"Clutch of Demise":{
+			"prio":["Tanks","EP/GP"],
+			"gp":"12",
+			"wowID":"34177"
+		},
+		"Collar of the Pit Lord":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34178"
+		},
+		"Felfury Legplates/Felstrength Legplates":{
+			"prio":["LC"],
+			"gp":"14",
+			"wowID":"34180"
+		},
+		"Heart of the Pit":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34179"
+		},
+		"Leggings of Calamity":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34181"
+		},
+		"Reign of Misery":{
+			"prio":["Wayllo","AEx","Dill","EP/GP"],
+			"gp":"12",
+			"wowID":"34176"
+		}
+	},
+	"Felmyst":{
+		"Boots of the Forgotten Conqueror":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34856"
+		},
+		"Boots of the Forgotten Protector":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34857"
+		},
+		"Boots of the Forgotten Vanquisher":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34858"
+		},
+		"Leggings of the Immortal Night/Leggings of the Immortal Beast":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34188",
+			"altID":"34385"
+		},
+		"Chain Links of the Tumultuous Storm/Kilt of Spiritual Reconstruction":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34186",
+			"altID":"34383"
+		},
+		"Grand Magister":{
+			"prio":["LC"],
+			"gp":"14",
+			"wowID":"34182"
+		},
+		"Sword Breaker's Bulwark":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34185"
+		},
+		"Borderland Fortress Grips":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34352"
+		},
+		"Brooch of the Highborne":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34184"
+		}
+	}
+}
