@@ -108,7 +108,7 @@
 			"wowID":"34168"
 		}
 	},
-	"Brutallus":{
+	"Brutallus and the Spell Hit Gems":{
 		"Belt of the Forgotten Conqueror":{
 			"prio":["EP/GP"],
 			"gp":"6",
@@ -150,7 +150,7 @@
 			"wowID":"34181"
 		},
 		"Reign of Misery":{
-			"prio":["Wayllo","AEx","Dill","EP/GP"],
+			"prio":["LC"],
 			"gp":"12",
 			"wowID":"34176"
 		}
@@ -202,6 +202,301 @@
 			"prio":["LC"],
 			"gp":"12",
 			"wowID":"34184"
+		}
+	},
+	"THATS A BIG BITCH x2":{
+		"Crimson Paragon's Cover":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34190"
+		},
+		"Book of Highborne Hymns":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34206"
+		},
+		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34202",
+			"altID":"34393"
+		},
+		"Shiv of Exsanguination":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34197"
+		},
+		"Shoulderpads of Vehemence/Demontooth Shoulderpads":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34195",
+			"altID":"34392"
+		},
+		"Amice of the Convoker":{
+			"prio":["LC"],
+			"gp":"14",
+			"wowID":"34210"
+		},
+		"Amulet of Unfettered Magics":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34204"
+		},
+		"Golden Bow of Quel'Thalas":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34196"
+		},
+		"Spaulders of Reclamation/Spaulders of Devastation":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34209",
+			"altID":"34391"
+		},
+		"Archon's Gavel":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34199"
+		},
+		"Band of Ruinous Delight":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34189"
+		},
+		"Equilibrium Epaulets/Erupting Epaulets":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34208",
+			"altID":"34390"
+		},
+		"Grip of Mannoroth":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34203"
+		},
+		"Mantle of the Golden Forest":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34194"
+		},
+		"Pauldrons of Perseverance/Pauldrons of Berserking":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34192",
+			"altID":"34388"
+		},
+		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34193",
+			"altID":"34389"
+		},
+		"Stanchion of Primal Instinct":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34198"
+		}
+	},
+	"Muwu":{
+		"Aegis of Angelic Fortune":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34231"
+		},
+		"Blackened Naaru Sliver":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34427"
+		},
+		"Fel Conquerer Raiments":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34232"
+		},
+		"Garments of Serene Shores/Garments of Crashing Shores":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34229",
+			"altID":"34396"
+		},
+		"Gauntlets of the Soothed Soul":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34240"
+		},
+		"Glimmering Naaru Sliver":{
+			"prio":["LC"],
+			"gp":"14",
+			"wowID":"34430"
+		},
+		"Harness of Carnal Instinct/Bladed Chaos Tunic":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34211",
+			"altID":"34397"
+		},
+		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34216",
+			"altID":"34395"
+		},
+		"Muramasa":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34214"
+		},
+		"Ring of Hardened Resolve":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34213"
+		},
+		"Ring of Omnipotence":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34230"
+		},
+		"Robes of Faltered Light/Robes of Ghostly Hatred":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34233",
+			"altID":"34399"
+		},
+		"Shadowed Gauntlets of Paroxysm/Gloves of the Forest Drifter":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34234",
+			"altID":"34408"
+		},
+		"Shifting Naaru Sliver":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34429"
+		},
+		"Steely Naaru Sliver":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34428"
+		},
+		"Sunglow Vest/Utopian Tunic of Elune":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34212",
+			"altID":"34398"
+		},
+		"Vicious Hawkstrider Hauberk":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34228"
+		},
+		"Warharness of Reckless Fury/Breastplate of Agony's Aversion":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34215",
+			"altID":"34394"
+		}
+	},
+	"Kil'Jaeden Smith":{
+		"Apolyon, the Soul-Render":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34247"
+		},
+		"Borderland Paingrips":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34341"
+		},
+		"Cloak of Unforgivable Sin":{
+			"prio":["EP/GP"],
+			"gp":"6",
+			"wowID":"34241"
+		},
+		"Cover of Ursol the Wise/Cover of Ursoc the Mighty":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34245",
+			"altID":"34403"
+		},
+		"Coif of Alleria":{
+			"prio":["EP/GP"],
+			"gp":"9",
+			"wowID":"34333"
+		},
+		"Crux of the Apocalypse":{
+			"prio":["LC"],
+			"gp":"14",
+			"wowID":"34329"
+		},
+		"Cowl of Gul'dan/Shroud of Chieftain Ner'zhul":{
+			"prio":["LC"],
+			"gp":"5",
+			"wowID":"34332",
+			"altID":"34402"
+		},
+		"Cowl of Light's Purity/Helm of Arcane Purity":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34339",
+			"altID":"34405"
+		},
+		"Crown of Anasterian/Crown of Dath'Remar":{
+			"prio":["EP/GP"],
+			"gp":"5",
+			"wowID":"34345",
+			"altID":"34400"
+		},
+		"Dark Conjuror's Collar":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34340"
+		},
+		"Golden Staff of the Sin'dorei":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34337"
+		},
+		"Hammer of Sanctification":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34335"
+		},
+		"Hand of the Deceiver":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34331"
+		},
+		"Handguards of Defiled Worlds":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34344"
+		},
+		"Handguards of the Dawn/Gloves of Tyri's Power":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34342",
+			"altID":"34406"
+		},
+		"Helm of Burning Righteousness/Helm of Uther's Resolve":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34243",
+			"altID":"34401"
+		},
+		"Sunflare":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34336"
+		},
+		"Thalassian Ranger Gauntlets":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34343"
+		},
+		"Thori'dal, the Stars' Fury":{
+			"prio":["LC"],
+			"gp":"12",
+			"wowID":"34334"
 		}
 	}
 }
