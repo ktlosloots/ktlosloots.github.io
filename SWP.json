@@ -55,17 +55,17 @@
 	},
 	"Kalecgos":{
 		"Bracers of the Forgotten Conqueror":{
-			"prio":["LC"],
+			"prio":["Lock(4 set) > Ret > Hpriest > Lock > Hpal > Prot > Spriest"],
 			"gp":"6",
 			"wowID":"34848"
 		},
 		"Bracers of the Forgotten Protector":{
-			"prio":["LC"],
+			"prio":["Hunter (4 set) > Resto > Fury=Enh > Hunter > Ele > Prot"],
 			"gp":"6",
 			"wowID":"34851"
 		},
 		"Bracers of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Bear > Boomie > Mage=Rogue > Resto"],
 			"gp":"6",
 			"wowID":"34852"
 		},
@@ -110,17 +110,17 @@
 	},
 	"Brutallus and the Spell Hit Gems":{
 		"Belt of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["4 set lock > Prot pally > Hpriest > Lock > Hpal"],
 			"gp":"6",
 			"wowID":"34853"
 		},
 		"Belt of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["Prot > non 100d dps > Hunter > Resto > 100d > Ele"],
 			"gp":"6",
 			"wowID":"34854"
 		},
 		"Belt of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Bear > Mage > non-100d Rogue > Boomie > Resto"],
 			"gp":"6",
 			"wowID":"34855"
 		},
@@ -157,17 +157,17 @@
 	},
 	"Felmyst":{
 		"Boots of the Forgotten Conqueror":{
-			"prio":["EP/GP"],
+			"prio":["Lock > Spriest > Hpriest > Prot > Hpal > EP/GP"],
 			"gp":"6",
 			"wowID":"34856"
 		},
 		"Boots of the Forgotten Protector":{
-			"prio":["EP/GP"],
+			"prio":["Prot > Resto > Fury=Enh=Hunter > Ele"],
 			"gp":"6",
 			"wowID":"34857"
 		},
 		"Boots of the Forgotten Vanquisher":{
-			"prio":["EP/GP"],
+			"prio":["Bear > Resto > Rogue > Boomie=Mage"],
 			"gp":"6",
 			"wowID":"34858"
 		},
@@ -248,7 +248,7 @@
 			"wowID":"34196"
 		},
 		"Spaulders of Reclamation/Spaulders of Devastation":{
-			"prio":["LC"],
+			"prio":["Boomie > Resto","LC"],
 			"gp":"12",
 			"wowID":"34209",
 			"altID":"34391"
