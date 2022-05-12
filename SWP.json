@@ -1,502 +1,507 @@
 {
-	"Trash":{
-		"Tranquil Majesty Wraps/Tranquil Moonlight Wraps":{
-			"prio":["LC"],
-			"gp":"6",
-			"wowID":"34351",
-			"altID":"34407"
+	"Trash": {
+		"Tranquil Majesty Wraps/Tranquil Moonlight Wraps": {
+			"prio": ["LC"],
+			"gp": "6",
+			"wowID": "34351",
+			"altID": "34407"
 		},
-		"Gauntlets of the Ancient Shadowmoon/Gauntlets of the Ancient Frostwolf":{
-			"prio":["LC"],
-			"gp":"6",
-			"wowID":"34350",
-			"altID":"34409"
+		"Gauntlets of the Ancient Shadowmoon/Gauntlets of the Ancient Frostwolf": {
+			"prio": ["LC"],
+			"gp": "6",
+			"wowID": "34350",
+			"altID": "34409"
 		},
-		"Ring of Harmonic Beauty":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"35733"
+		"Ring of Harmonic Beauty": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "35733"
 		},
-		"Shivering Felspine":{
-			"prio":["EP/GP"],
-			"gp":"3",
-			"wowID":"34183"
+		"Shivering Felspine": {
+			"prio": ["EP/GP"],
+			"gp": "3",
+			"wowID": "34183"
 		},
-		"Mounting Vengeance":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34346"
+		"Mounting Vengeance": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34346"
 		},
-		"Blade of Life's Inevitability":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34349"
+		"Blade of Life's Inevitability": {
+			"prio": ["LC"],
+			"gp": "5",
+			"wowID": "34349"
 		},
-		"Wand of Cleansing Light":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34348"
+		"Wand of Cleansing Light": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34348"
 		},
-		"Wand of the Demonsoul":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34347"
+		"Wand of the Demonsoul": {
+			"prio": ["Demondred"],
+			"gp": "5",
+			"wowID": "34347"
 		},
-		"Sunfire Robe":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"35206"
+		"Sunfire Robe": {
+			"prio": ["Sniped", "Coxy"],
+			"gp": "5",
+			"wowID": "35206"
 		},
-		"Carapace of Sun and Shadow":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"35218"
+		"Carapace of Sun and Shadow": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "35218"
 		}
 	},
-	"Kalecgos":{
-		"Bracers of the Forgotten Conqueror":{
-			"prio":["Lock(4 set) > Ret > Hpriest > Lock > Hpal > Prot > Spriest"],
-			"gp":"6",
-			"wowID":"34848"
+	"Kalecgos": {
+		"Bracers of the Forgotten Conqueror": {
+			"prio": ["Lock(4 set) > Ret > Hpriest > Lock > Hpal > Prot > Spriest"],
+			"gp": "6",
+			"wowID": "34848"
 		},
-		"Bracers of the Forgotten Protector":{
-			"prio":["Hunter (4 set) > Resto > Fury=Enh > Hunter > Ele > Prot"],
-			"gp":"6",
-			"wowID":"34851"
+		"Bracers of the Forgotten Protector": {
+			"prio": ["Hunter (4 set) > Resto > Fury=Enh > Hunter > Ele > Prot"],
+			"gp": "6",
+			"wowID": "34851"
 		},
-		"Bracers of the Forgotten Vanquisher":{
-			"prio":["Bear > Boomie > Mage=Rogue > Resto"],
-			"gp":"6",
-			"wowID":"34852"
+		"Bracers of the Forgotten Vanquisher": {
+			"prio": ["Bear > Boomie > Mage=Rogue > Resto"],
+			"gp": "6",
+			"wowID": "34852"
 		},
-		"Band of Lucent Beams":{
-			"prio":["EP/GP"],
-			"gp":"3",
-			"wowID":"34166"
+		"Band of Lucent Beams": {
+			"prio": ["EP/GP"],
+			"gp": "3",
+			"wowID": "34166"
 		},
-		"Breeches of Natural Aggression/Breeches of Natural Splendor":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34169",
-			"altID":"34384"
+		"Breeches of Natural Aggression/Breeches of Natural Splendor": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34169",
+			"altID": "34384"
 		},
-		"Dragonscale-Encrusted Longblade":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34164"
+		"Dragonscale-Encrusted Longblade": {
+			"prio": ["LC"],
+			"gp": "5",
+			"wowID": "34164"
 		},
-		"Fang of Kalecgos":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34165"
+		"Fang of Kalecgos": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34165"
 		},
-		"Legplates of the Holy Juggernaut/Judicator's Legguards":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34167",
-			"altID":"34382"
+		"Legplates of the Holy Juggernaut/Judicator's Legguards": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34167",
+			"altID": "34382"
 		},
-		"Pantaloons of Calming Strife/Pantaloons of Growing Strife":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34170",
-			"altID":"34386"
+		"Pantaloons of Calming Strife/Pantaloons of Growing Strife": {
+			"prio": ["Raehn", "Micro", "Priest"],
+			"gp": "5",
+			"wowID": "34170",
+			"altID": "34386"
 		},
-		"Starstalker Legguards":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34168"
+		"Starstalker Legguards": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34168"
 		}
 	},
-	"Brutallus and the Spell Hit Gems":{
-		"Belt of the Forgotten Conqueror":{
-			"prio":["4 set lock > Prot pally > Hpriest > Lock > Hpal"],
-			"gp":"6",
-			"wowID":"34853"
+	"Brutallus and the Spell Hit Gems": {
+		"Belt of the Forgotten Conqueror": {
+			"prio": ["4 set lock > Prot pally > Hpriest > Lock > Hpal"],
+			"gp": "6",
+			"wowID": "34853"
 		},
-		"Belt of the Forgotten Protector":{
-			"prio":["Prot > non 100d dps > Hunter > Resto > 100d > Ele"],
-			"gp":"6",
-			"wowID":"34854"
+		"Belt of the Forgotten Protector": {
+			"prio": ["Prot > non 100d dps > Hunter > Resto > 100d > Ele"],
+			"gp": "6",
+			"wowID": "34854"
 		},
-		"Belt of the Forgotten Vanquisher":{
-			"prio":["Bear > Mage > non-100d Rogue > Boomie > Resto"],
-			"gp":"6",
-			"wowID":"34855"
+		"Belt of the Forgotten Vanquisher": {
+			"prio": ["Bear > Mage > non-100d Rogue > Boomie > Resto"],
+			"gp": "6",
+			"wowID": "34855"
 		},
-		"Clutch of Demise":{
-			"prio":["Tanks","EP/GP"],
-			"gp":"12",
-			"wowID":"34177"
+		"Clutch of Demise": {
+			"prio": ["Tanks", "EP/GP"],
+			"gp": "12",
+			"wowID": "34177"
 		},
-		"Collar of the Pit Lord":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34178"
+		"Collar of the Pit Lord": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34178"
 		},
-		"Felfury Legplates/Felstrength Legplates":{
-			"prio":["LC"],
-			"gp":"14",
-			"wowID":"34180"
+		"Felfury Legplates/Felstrength Legplates": {
+			"prio": ["LC"],
+			"gp": "14",
+			"wowID": "34180"
 		},
-		"Heart of the Pit":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34179"
+		"Heart of the Pit": {
+			"prio": ["Tator"],
+			"gp": "5",
+			"wowID": "34179"
 		},
-		"Leggings of Calamity":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34181"
+		"Leggings of Calamity": {
+			"prio": ["Coxy", "Sniped", "Demondred"],
+			"gp": "5",
+			"wowID": "34181"
 		},
-		"Reign of Misery":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34176"
+		"Reign of Misery": {
+			"prio": ["Healslol"],
+			"gp": "12",
+			"wowID": "34176"
 		}
 	},
-	"Felmyst":{
-		"Boots of the Forgotten Conqueror":{
-			"prio":["Lock > Spriest > Hpriest > Prot > Hpal > EP/GP"],
-			"gp":"6",
-			"wowID":"34856"
+	"Felmyst": {
+		"Boots of the Forgotten Conqueror": {
+			"prio": ["Healslol", "Lock > Spriest > Hpriest > Prot > Hpal > EP/GP"],
+			"gp": "6",
+			"wowID": "34856"
 		},
-		"Boots of the Forgotten Protector":{
-			"prio":["Prot > Resto > Fury=Enh=Hunter > Ele"],
-			"gp":"6",
-			"wowID":"34857"
+		"Boots of the Forgotten Protector": {
+			"prio": ["Prot > Resto > Fury=Enh=Hunter > Ele"],
+			"gp": "6",
+			"wowID": "34857"
 		},
-		"Boots of the Forgotten Vanquisher":{
-			"prio":["Bear > Resto > Rogue > Boomie=Mage"],
-			"gp":"6",
-			"wowID":"34858"
+		"Boots of the Forgotten Vanquisher": {
+			"prio": ["Bear > Resto > Rogue > Boomie=Mage"],
+			"gp": "6",
+			"wowID": "34858"
 		},
-		"Leggings of the Immortal Night/Leggings of the Immortal Beast":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34188",
-			"altID":"34385"
+		"Leggings of the Immortal Night/Leggings of the Immortal Beast": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34188",
+			"altID": "34385"
 		},
-		"Chain Links of the Tumultuous Storm/Kilt of Spiritual Reconstruction":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34186",
-			"altID":"34383"
+		"Chain Links of the Tumultuous Storm/Kilt of Spiritual Reconstruction": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34186",
+			"altID": "34383"
 		},
-		"Grand Magister":{
-			"prio":["LC"],
-			"gp":"14",
-			"wowID":"34182"
+		"Grand Magister": {
+			"prio": ["LC"],
+			"gp": "14",
+			"wowID": "34182"
 		},
-		"Sword Breaker's Bulwark":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34185"
+		"Sword Breaker's Bulwark": {
+			"prio": ["LC"],
+			"gp": "5",
+			"wowID": "34185"
 		},
-		"Borderland Fortress Grips":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34352"
+		"Borderland Fortress Grips": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34352"
 		},
-		"Brooch of the Highborne":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34184"
+		"Brooch of the Highborne": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34184"
 		}
 	},
-	"THATS A BIG BITCH x2":{
-		"Crimson Paragon's Cover":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34190"
+	"THATS A BIG BITCH x2": {
+		"Crimson Paragon's Cover": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34190"
 		},
-		"Book of Highborne Hymns":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34206"
+		"Book of Highborne Hymns": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34206"
 		},
-		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34202",
-			"altID":"34393"
+		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34202",
+			"altID": "34393"
 		},
-		"Shiv of Exsanguination":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34197"
+		"Shiv of Exsanguination": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34197"
 		},
-		"Shoulderpads of Vehemence/Demontooth Shoulderpads":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34195",
-			"altID":"34392"
+		"Shoulderpads of Vehemence/Demontooth Shoulderpads": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34195",
+			"altID": "34392"
 		},
-		"Amice of the Convoker":{
-			"prio":["LC"],
-			"gp":"14",
-			"wowID":"34210"
+		"Amice of the Convoker": {
+			"prio": ["Coxy", "Non-dark conjuror users"],
+			"gp": "14",
+			"wowID": "34210"
 		},
-		"Amulet of Unfettered Magics":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34204"
+		"Amulet of Unfettered Magics": {
+			"prio": ["Spagoose"],
+			"gp": "5",
+			"wowID": "34204"
 		},
-		"Golden Bow of Quel'Thalas":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34196"
+		"Golden Bow of Quel'Thalas": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34196"
 		},
-		"Spaulders of Reclamation/Spaulders of Devastation":{
-			"prio":["Boomie > Resto","LC"],
-			"gp":"12",
-			"wowID":"34209",
-			"altID":"34391"
+		"Spaulders of Reclamation/Spaulders of Devastation": {
+			"prio": ["Boomie > Resto", "LC"],
+			"gp": "12",
+			"wowID": "34209",
+			"altID": "34391"
 		},
-		"Archon's Gavel":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34199"
+		"Archon's Gavel": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34199"
 		},
-		"Band of Ruinous Delight":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34189"
+		"Band of Ruinous Delight": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34189"
 		},
-		"Equilibrium Epaulets/Erupting Epaulets":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34208",
-			"altID":"34390"
+		"Equilibrium Epaulets/Erupting Epaulets": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34208",
+			"altID": "34390"
 		},
-		"Grip of Mannoroth":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34203"
+		"Grip of Mannoroth": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34203"
 		},
-		"Mantle of the Golden Forest":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34194"
+		"Mantle of the Golden Forest": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34194"
 		},
-		"Pauldrons of Perseverance/Pauldrons of Berserking":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34192",
-			"altID":"34388"
+		"Pauldrons of Perseverance/Pauldrons of Berserking": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34192",
+			"altID": "34388"
 		},
-		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34193",
-			"altID":"34389"
+		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34193",
+			"altID": "34389"
 		},
-		"Stanchion of Primal Instinct":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34198"
+		"Stanchion of Primal Instinct": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34198"
 		}
 	},
-	"Muwu":{
-		"Aegis of Angelic Fortune":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34231"
+	"Muwu": {
+		"Aegis of Angelic Fortune": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34231"
 		},
-		"Blackened Naaru Sliver":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34427"
+		"Blackened Naaru Sliver": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34427"
 		},
-		"Fel Conquerer Raiments":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34232"
+		"Fel Conquerer Raiments": {
+			"prio": ["Spagoose", "Jowsus"],
+			"gp": "6",
+			"wowID": "34232"
 		},
-		"Garments of Serene Shores/Garments of Crashing Shores":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34229",
-			"altID":"34396"
+		"Garments of Serene Shores/Garments of Crashing Shores": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34229",
+			"altID": "34396"
 		},
-		"Gauntlets of the Soothed Soul":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34240"
+		"Gauntlets of the Soothed Soul": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34240"
 		},
-		"Glimmering Naaru Sliver":{
-			"prio":["LC"],
-			"gp":"14",
-			"wowID":"34430"
+		"Glimmering Naaru Sliver": {
+			"prio": ["LC"],
+			"gp": "14",
+			"wowID": "34430"
 		},
-		"Harness of Carnal Instinct/Bladed Chaos Tunic":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34211",
-			"altID":"34397"
+		"Harness of Carnal Instinct/Bladed Chaos Tunic": {
+			"prio": ["LC"],
+			"gp": "5",
+			"wowID": "34211",
+			"altID": "34397"
 		},
-		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34216",
-			"altID":"34395"
+		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34216",
+			"altID": "34395"
 		},
-		"Muramasa":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34214"
+		"Muramasa": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34214"
 		},
-		"Ring of Hardened Resolve":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34213"
+		"Ring of Hardened Resolve": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34213"
 		},
-		"Ring of Omnipotence":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34230"
+		"Ring of Omnipotence": {
+			"prio": ["Jowsus", "Coxy"],
+			"gp": "12",
+			"wowID": "34230"
 		},
-		"Robes of Faltered Light/Robes of Ghostly Hatred":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34233",
-			"altID":"34399"
+		"Robes of Faltered Light/Robes of Ghostly Hatred": {
+			"prio": ["Priest", "Theprestige"],
+			"gp": "12",
+			"wowID": "34233",
+			"altID": "34399"
 		},
-		"Shadowed Gauntlets of Paroxysm/Gloves of the Forest Drifter":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34234",
-			"altID":"34408"
+		"Shadowed Gauntlets of Paroxysm/Gloves of the Forest Drifter": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34234",
+			"altID": "34408"
 		},
-		"Shifting Naaru Sliver":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34429"
+		"Shifting Naaru Sliver": {
+			"prio": ["Micro", "Theprestige", "Raehn"],
+			"gp": "12",
+			"wowID": "34429"
 		},
-		"Steely Naaru Sliver":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34428"
+		"Steely Naaru Sliver": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34428"
 		},
-		"Sunglow Vest/Utopian Tunic of Elune":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34212",
-			"altID":"34398"
+		"Sunglow Vest/Utopian Tunic of Elune": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34212",
+			"altID": "34398"
 		},
-		"Vicious Hawkstrider Hauberk":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34228"
+		"Vicious Hawkstrider Hauberk": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34228"
 		},
-		"Warharness of Reckless Fury/Breastplate of Agony's Aversion":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34215",
-			"altID":"34394"
+		"Warharness of Reckless Fury/Breastplate of Agony's Aversion": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34215",
+			"altID": "34394"
 		}
 	},
-	"Kil'Jaeden Smith":{
-		"Apolyon, the Soul-Render":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34247"
+	"Kil'Jaeden Smith": {
+		"Apolyon, the Soul-Render": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34247"
 		},
-		"Borderland Paingrips":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34341"
+		"Borderland Paingrips": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34341"
 		},
-		"Cloak of Unforgivable Sin":{
-			"prio":["EP/GP"],
-			"gp":"6",
-			"wowID":"34241"
+		"Cloak of Unforgivable Sin": {
+			"prio": ["EP/GP"],
+			"gp": "6",
+			"wowID": "34241"
 		},
-		"Cover of Ursol the Wise/Cover of Ursoc the Mighty":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34245",
-			"altID":"34403"
+		"Cover of Ursol the Wise/Cover of Ursoc the Mighty": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34245",
+			"altID": "34403"
 		},
-		"Coif of Alleria":{
-			"prio":["EP/GP"],
-			"gp":"9",
-			"wowID":"34333"
+		"Coif of Alleria": {
+			"prio": ["EP/GP"],
+			"gp": "9",
+			"wowID": "34333"
 		},
-		"Crux of the Apocalypse":{
-			"prio":["LC"],
-			"gp":"14",
-			"wowID":"34329"
+		"Crux of the Apocalypse": {
+			"prio": ["LC"],
+			"gp": "14",
+			"wowID": "34329"
 		},
-		"Cowl of Gul'dan/Shroud of Chieftain Ner'zhul":{
-			"prio":["LC"],
-			"gp":"5",
-			"wowID":"34332",
-			"altID":"34402"
+		"Cowl of Gul'dan/Shroud of Chieftain Ner'zhul": {
+			"prio": ["LC"],
+			"gp": "5",
+			"wowID": "34332",
+			"altID": "34402"
 		},
-		"Cowl of Light's Purity/Helm of Arcane Purity":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34339",
-			"altID":"34405"
+		"Cowl of Light's Purity/Helm of Arcane Purity": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34339",
+			"altID": "34405"
 		},
-		"Crown of Anasterian/Crown of Dath'Remar":{
-			"prio":["EP/GP"],
-			"gp":"5",
-			"wowID":"34345",
-			"altID":"34400"
+		"Crown of Anasterian/Crown of Dath'Remar": {
+			"prio": ["EP/GP"],
+			"gp": "5",
+			"wowID": "34345",
+			"altID": "34400"
 		},
-		"Dark Conjuror's Collar":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34340"
+		"Dark Conjuror's Collar": {
+			"prio": ["Jowsus", "Demondred"],
+			"gp": "12",
+			"wowID": "34340"
 		},
-		"Golden Staff of the Sin'dorei":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34337"
+		"Tattered Cape of Antonidas": {
+			"prio": ["Demondred", "Micro", "Tator"],
+			"gp": "12",
+			"wowID": "34242"
 		},
-		"Hammer of Sanctification":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34335"
+		"Golden Staff of the Sin'dorei": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34337"
 		},
-		"Hand of the Deceiver":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34331"
+		"Hammer of Sanctification": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34335"
 		},
-		"Handguards of Defiled Worlds":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34344"
+		"Hand of the Deceiver": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34331"
 		},
-		"Handguards of the Dawn/Gloves of Tyri's Power":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34342",
-			"altID":"34406"
+		"Handguards of Defiled Worlds": {
+			"prio": ["Sniped", "Demondred"],
+			"gp": "12",
+			"wowID": "34344"
 		},
-		"Helm of Burning Righteousness/Helm of Uther's Resolve":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34243",
-			"altID":"34401"
+		"Handguards of the Dawn/Gloves of Tyri's Power": {
+			"prio": ["Priest", "Priest", "Micro", "Raehn"],
+			"gp": "12",
+			"wowID": "34342",
+			"altID": "34406"
 		},
-		"Sunflare":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34336"
+		"Helm of Burning Righteousness/Helm of Uther's Resolve": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34243",
+			"altID": "34401"
 		},
-		"Thalassian Ranger Gauntlets":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34343"
+		"Sunflare": {
+			"prio": ["Tator", "Theprestige"],
+			"gp": "12",
+			"wowID": "34336"
 		},
-		"Thori'dal, the Stars' Fury":{
-			"prio":["LC"],
-			"gp":"12",
-			"wowID":"34334"
+		"Thalassian Ranger Gauntlets": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34343"
+		},
+		"Thori'dal, the Stars' Fury": {
+			"prio": ["LC"],
+			"gp": "12",
+			"wowID": "34334"
 		}
 	}
 }
