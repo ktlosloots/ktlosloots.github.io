@@ -13,7 +13,7 @@
 			"altID": "34409"
 		},
 		"Ring of Harmonic Beauty": {
-			"prio": ["EP/GP"],
+			"prio": ["Priest>Restro>other healers","EP/GP"],
 			"gp": "6",
 			"wowID": "35733"
 		},
@@ -33,7 +33,7 @@
 			"wowID": "34349"
 		},
 		"Wand of Cleansing Light": {
-			"prio": ["EP/GP"],
+			"prio": ["Priests roll","EP/GP"],
 			"gp": "9",
 			"wowID": "34348"
 		},
@@ -75,7 +75,7 @@
 			"wowID": "34166"
 		},
 		"Breeches of Natural Aggression/Breeches of Natural Splendor": {
-			"prio": ["EP/GP"],
+			"prio": ["oph", "EP/GP"],
 			"gp": "6",
 			"wowID": "34169",
 			"altID": "34384"
@@ -91,13 +91,13 @@
 			"wowID": "34165"
 		},
 		"Legplates of the Holy Juggernaut/Judicator's Legguards": {
-			"prio": ["EP/GP"],
+			"prio": ["Sebela","EP/GP"],
 			"gp": "5",
 			"wowID": "34167",
 			"altID": "34382"
 		},
 		"Pantaloons of Calming Strife/Pantaloons of Growing Strife": {
-			"prio": ["Raehn", "Micro", "Priest"],
+			"prio": ["Raehn", "Micro", "Jaz"],
 			"gp": "5",
 			"wowID": "34170",
 			"altID": "34386"
@@ -178,7 +178,7 @@
 			"altID": "34385"
 		},
 		"Chain Links of the Tumultuous Storm/Kilt of Spiritual Reconstruction": {
-			"prio": ["EP/GP"],
+			"prio": ["Scrubby","EP/GP"],
 			"gp": "9",
 			"wowID": "34186",
 			"altID": "34383"
@@ -199,7 +199,7 @@
 			"wowID": "34352"
 		},
 		"Brooch of the Highborne": {
-			"prio": ["LC"],
+			"prio": ["Scrubby","Sebela","Shaman=Pally","LC"],
 			"gp": "12",
 			"wowID": "34184"
 		}
@@ -211,12 +211,12 @@
 			"wowID": "34190"
 		},
 		"Book of Highborne Hymns": {
-			"prio": ["EP/GP"],
+			"prio": ["Priest>Restro","EP/GP"],
 			"gp": "6",
 			"wowID": "34206"
 		},
 		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit": {
-			"prio": ["EP/GP"],
+			"prio": ["Mazzo", "Jaz","EP/GP"],
 			"gp": "6",
 			"wowID": "34202",
 			"altID": "34393"
@@ -248,13 +248,13 @@
 			"wowID": "34196"
 		},
 		"Spaulders of Reclamation/Spaulders of Devastation": {
-			"prio": ["Boomie > Resto", "LC"],
+			"prio": ["Boomie > Resto", "oph", "LC"],
 			"gp": "12",
 			"wowID": "34209",
 			"altID": "34391"
 		},
 		"Archon's Gavel": {
-			"prio": ["LC"],
+			"prio": ["Tug","Off heals","LC"],
 			"gp": "12",
 			"wowID": "34199"
 		},
@@ -286,7 +286,7 @@
 			"altID": "34388"
 		},
 		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender": {
-			"prio": ["LC"],
+			"prio": ["Sebela", "LC"],
 			"gp": "12",
 			"wowID": "34193",
 			"altID": "34389"
@@ -299,7 +299,7 @@
 	},
 	"Muwu": {
 		"Aegis of Angelic Fortune": {
-			"prio": ["EP/GP"],
+			"prio": ["Scrubby", "Sebela","EP/GP"],
 			"gp": "6",
 			"wowID": "34231"
 		},
@@ -314,18 +314,18 @@
 			"wowID": "34232"
 		},
 		"Garments of Serene Shores/Garments of Crashing Shores": {
-			"prio": ["LC"],
+			"prio": ["Scrubby", "non-LW prio","LC"],
 			"gp": "12",
 			"wowID": "34229",
 			"altID": "34396"
 		},
 		"Gauntlets of the Soothed Soul": {
-			"prio": ["EP/GP"],
+			"prio": ["Sebela","EP/GP"],
 			"gp": "9",
 			"wowID": "34240"
 		},
 		"Glimmering Naaru Sliver": {
-			"prio": ["LC"],
+			"prio": ["Jaz","Scrubby","LC"],
 			"gp": "14",
 			"wowID": "34430"
 		},
@@ -336,7 +336,7 @@
 			"altID": "34397"
 		},
 		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard": {
-			"prio": ["EP/GP"],
+			"prio": ["Sebela","EP/GP"],
 			"gp": "5",
 			"wowID": "34216",
 			"altID": "34395"
@@ -357,7 +357,7 @@
 			"wowID": "34230"
 		},
 		"Robes of Faltered Light/Robes of Ghostly Hatred": {
-			"prio": ["Priest", "Theprestige"],
+			"prio": ["Mazzo", "Theprestige"],
 			"gp": "12",
 			"wowID": "34233",
 			"altID": "34399"
@@ -379,7 +379,7 @@
 			"wowID": "34428"
 		},
 		"Sunglow Vest/Utopian Tunic of Elune": {
-			"prio": ["LC"],
+			"prio": ["oph","LC"],
 			"gp": "12",
 			"wowID": "34212",
 			"altID": "34398"
@@ -413,7 +413,7 @@
 			"wowID": "34241"
 		},
 		"Cover of Ursol the Wise/Cover of Ursoc the Mighty": {
-			"prio": ["LC"],
+			"prio": ["OPH","RESTO w/o COWL","LC"],
 			"gp": "12",
 			"wowID": "34245",
 			"altID": "34403"
@@ -429,13 +429,13 @@
 			"wowID": "34329"
 		},
 		"Cowl of Gul'dan/Shroud of Chieftain Ner'zhul": {
-			"prio": ["LC"],
+			"prio": ["Scrubby","Tug","BIS RESTRO SHAMAN", "LC"],
 			"gp": "5",
 			"wowID": "34332",
 			"altID": "34402"
 		},
 		"Cowl of Light's Purity/Helm of Arcane Purity": {
-			"prio": ["EP/GP"],
+			"prio": ["Jaz", "Mazzo","OPH","EP/GP"],
 			"gp": "5",
 			"wowID": "34339",
 			"altID": "34405"
@@ -457,12 +457,12 @@
 			"wowID": "34242"
 		},
 		"Golden Staff of the Sin'dorei": {
-			"prio": ["LC"],
+			"prio": ["OPH","Mazzo","LC"],
 			"gp": "12",
 			"wowID": "34337"
 		},
 		"Hammer of Sanctification": {
-			"prio": ["LC"],
+			"prio": ["Sebela","Jaz","Scrubby", "J","LC"],
 			"gp": "12",
 			"wowID": "34335"
 		},
@@ -477,7 +477,7 @@
 			"wowID": "34344"
 		},
 		"Handguards of the Dawn/Gloves of Tyri's Power": {
-			"prio": ["Priest", "Priest", "Micro", "Raehn"],
+			"prio": ["Mazzo", "Jaz", "Micro", "Raehn"],
 			"gp": "12",
 			"wowID": "34342",
 			"altID": "34406"
