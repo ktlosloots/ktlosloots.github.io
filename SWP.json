@@ -211,7 +211,7 @@
 			"wowID": "34190"
 		},
 		"Book of Highborne Hymns": {
-			"prio": ["Priest>Restro","EP/GP"],
+			"prio": ["Priest=Shaman>Restro Druid","EP/GP"],
 			"gp": "6",
 			"wowID": "34206"
 		},
@@ -254,7 +254,7 @@
 			"altID": "34391"
 		},
 		"Archon's Gavel": {
-			"prio": ["Tug","Off heals","LC"],
+			"prio": ["Off heals","LC"],
 			"gp": "12",
 			"wowID": "34199"
 		},
@@ -299,7 +299,7 @@
 	},
 	"Muwu": {
 		"Aegis of Angelic Fortune": {
-			"prio": ["Scrubby", "Sebela","EP/GP"],
+			"prio": ["Sebela","Scrubby","Holy Pally>Sham","EP/GP"],
 			"gp": "6",
 			"wowID": "34231"
 		},
@@ -457,7 +457,7 @@
 			"wowID": "34242"
 		},
 		"Golden Staff of the Sin'dorei": {
-			"prio": ["OPH","Mazzo","LC"],
+			"prio": ["DEF NOT WINK WINK Mazzo","LC"],
 			"gp": "12",
 			"wowID": "34337"
 		},
@@ -477,7 +477,7 @@
 			"wowID": "34344"
 		},
 		"Handguards of the Dawn/Gloves of Tyri's Power": {
-			"prio": ["Mazzo", "Jaz", "Micro", "Raehn"],
+			"prio": ["Jaz", "Micro", "Raehn"],
 			"gp": "12",
 			"wowID": "34342",
 			"altID": "34406"
