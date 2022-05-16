@@ -38,7 +38,7 @@
 			"wowID": "34348"
 		},
 		"Wand of the Demonsoul": {
-			"prio": ["Demondred"],
+			"prio": ["Coxxy","Sniped","Jowsus"],
 			"gp": "5",
 			"wowID": "34347"
 		},
@@ -97,7 +97,7 @@
 			"altID": "34382"
 		},
 		"Pantaloons of Calming Strife/Pantaloons of Growing Strife": {
-			"prio": ["Raehn", "Micro", "Jaz"],
+			"prio": ["Raehn", "Jaz", "Theprestige"],
 			"gp": "5",
 			"wowID": "34170",
 			"altID": "34386"
@@ -157,7 +157,7 @@
 	},
 	"Felmyst": {
 		"Boots of the Forgotten Conqueror": {
-			"prio": ["Healslol", "Lock > Spriest > Hpriest > Prot > Hpal > EP/GP"],
+			"prio": ["Lock > Spriest > Hpriest > Prot > Hpal > EP/GP"],
 			"gp": "6",
 			"wowID": "34856"
 		},
@@ -369,7 +369,7 @@
 			"altID": "34408"
 		},
 		"Shifting Naaru Sliver": {
-			"prio": ["Micro", "Theprestige", "Raehn"],
+			"prio": ["Raehn", "Theprestige"],
 			"gp": "12",
 			"wowID": "34429"
 		},
