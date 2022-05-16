@@ -18,12 +18,12 @@
 			"wowID": "35733"
 		},
 		"Shivering Felspine": {
-			"prio": ["EP/GP"],
+			"prio": ["Chiron (1)","EP/GP"],
 			"gp": "3",
 			"wowID": "34183"
 		},
 		"Mounting Vengeance": {
-			"prio": ["EP/GP"],
+			"prio": ["Abdication (1)","Atlassham (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34346"
 		},
@@ -48,7 +48,7 @@
 			"wowID": "35206"
 		},
 		"Carapace of Sun and Shadow": {
-			"prio": ["EP/GP"],
+			"prio": ["Atlas","Abdication","EP/GP"],
 			"gp": "5",
 			"wowID": "35218"
 		}
@@ -81,7 +81,7 @@
 			"altID": "34384"
 		},
 		"Dragonscale-Encrusted Longblade": {
-			"prio": ["LC"],
+			"prio": ["Snydi>Dill if Snydi low on Exp.","Destain (2)","Tuglight (2)","LC"],
 			"gp": "5",
 			"wowID": "34164"
 		},
@@ -125,17 +125,17 @@
 			"wowID": "34855"
 		},
 		"Clutch of Demise": {
-			"prio": ["Tanks", "EP/GP"],
+			"prio": ["Robski (1)","Abdication (1)","EP/GP"],
 			"gp": "12",
 			"wowID": "34177"
 		},
 		"Collar of the Pit Lord": {
-			"prio": ["EP/GP"],
+			"prio": ["Tanks","EP/GP"],
 			"gp": "9",
 			"wowID": "34178"
 		},
 		"Felfury Legplates/Felstrength Legplates": {
-			"prio": ["LC"],
+			"prio": ["Snydicate (1)", "Thotpatrol (1)", "LC"],
 			"gp": "14",
 			"wowID": "34180"
 		},
@@ -172,7 +172,7 @@
 			"wowID": "34858"
 		},
 		"Leggings of the Immortal Night/Leggings of the Immortal Beast": {
-			"prio": ["LC"],
+			"prio": ["Exits (1)","Wayllo (1)","LC"],
 			"gp": "12",
 			"wowID": "34188",
 			"altID": "34385"
@@ -194,7 +194,7 @@
 			"wowID": "34185"
 		},
 		"Borderland Fortress Grips": {
-			"prio": ["EP/GP"],
+			"prio": ["Prot Warr>Prot Pal","EP/GP"],
 			"gp": "5",
 			"wowID": "34352"
 		},
@@ -222,12 +222,12 @@
 			"altID": "34393"
 		},
 		"Shiv of Exsanguination": {
-			"prio": ["LC"],
+			"prio": ["Chiron (1)","Exits (1)","LC"],
 			"gp": "12",
 			"wowID": "34197"
 		},
 		"Shoulderpads of Vehemence/Demontooth Shoulderpads": {
-			"prio": ["EP/GP"],
+			"prio": ["Thotpatrol","Warrior=Enh","EP/GP"],
 			"gp": "9",
 			"wowID": "34195",
 			"altID": "34392"
@@ -243,7 +243,7 @@
 			"wowID": "34204"
 		},
 		"Golden Bow of Quel'Thalas": {
-			"prio": ["EP/GP"],
+			"prio": ["Exits (1)","Chiron (1)","EP/GP"],
 			"gp": "5",
 			"wowID": "34196"
 		},
@@ -259,7 +259,7 @@
 			"wowID": "34199"
 		},
 		"Band of Ruinous Delight": {
-			"prio": ["LC"],
+			"prio": ["Thotpatrol (1)","LC"],
 			"gp": "12",
 			"wowID": "34189"
 		},
@@ -275,12 +275,12 @@
 			"wowID": "34203"
 		},
 		"Mantle of the Golden Forest": {
-			"prio": ["LC"],
+			"prio": ["Atlassham (1)","Abdication (1)","LC"],
 			"gp": "12",
 			"wowID": "34194"
 		},
 		"Pauldrons of Perseverance/Pauldrons of Berserking": {
-			"prio": ["LC"],
+			"prio": ["Dill (1)","Robski (1)","LC"],
 			"gp": "12",
 			"wowID": "34192",
 			"altID": "34388"
@@ -292,7 +292,7 @@
 			"altID": "34389"
 		},
 		"Stanchion of Primal Instinct": {
-			"prio": ["LC"],
+			"prio": ["It definitely wouldn't be Cileste","LC"],
 			"gp": "12",
 			"wowID": "34198"
 		}
@@ -304,7 +304,7 @@
 			"wowID": "34231"
 		},
 		"Blackened Naaru Sliver": {
-			"prio": ["EP/GP"],
+			"prio": ["Couldn't be Dillmcpickle, Thotpatrol ofc ;) (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34427"
 		},
@@ -330,7 +330,7 @@
 			"wowID": "34430"
 		},
 		"Harness of Carnal Instinct/Bladed Chaos Tunic": {
-			"prio": ["LC"],
+			"prio": ["Cileste (1)","Dillmcpickle (1)","LC"],
 			"gp": "5",
 			"wowID": "34211",
 			"altID": "34397"
@@ -342,12 +342,12 @@
 			"altID": "34395"
 		},
 		"Muramasa": {
-			"prio": ["LC"],
+			"prio": ["Wayllo (1)","Destain (2)","LC"],
 			"gp": "12",
 			"wowID": "34214"
 		},
 		"Ring of Hardened Resolve": {
-			"prio": ["LC"],
+			"prio": ["Bear>Prot Warr","LC"],
 			"gp": "12",
 			"wowID": "34213"
 		},
@@ -363,7 +363,7 @@
 			"altID": "34399"
 		},
 		"Shadowed Gauntlets of Paroxysm/Gloves of the Forest Drifter": {
-			"prio": ["LC"],
+			"prio": ["Bear>","LC"],
 			"gp": "12",
 			"wowID": "34234",
 			"altID": "34408"
@@ -385,12 +385,12 @@
 			"altID": "34398"
 		},
 		"Vicious Hawkstrider Hauberk": {
-			"prio": ["LC"],
+			"prio": ["Exits","LC"],
 			"gp": "12",
 			"wowID": "34228"
 		},
 		"Warharness of Reckless Fury/Breastplate of Agony's Aversion": {
-			"prio": ["LC"],
+			"prio": ["Prot Warr>Warr=Ret","LC"],
 			"gp": "12",
 			"wowID": "34215",
 			"altID": "34394"
@@ -398,7 +398,7 @@
 	},
 	"Kil'Jaeden Smith": {
 		"Apolyon, the Soul-Render": {
-			"prio": ["EP/GP"],
+			"prio": ["Robski (1)", "EP/GP"],
 			"gp": "6",
 			"wowID": "34247"
 		},
@@ -408,7 +408,7 @@
 			"wowID": "34341"
 		},
 		"Cloak of Unforgivable Sin": {
-			"prio": ["EP/GP"],
+			"prio": ["Robski (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34241"
 		},
@@ -419,7 +419,7 @@
 			"altID": "34403"
 		},
 		"Coif of Alleria": {
-			"prio": ["EP/GP"],
+			"prio": ["Chiron (1)","Exits (1)","EP/GP"],
 			"gp": "9",
 			"wowID": "34333"
 		},
@@ -441,7 +441,7 @@
 			"altID": "34405"
 		},
 		"Crown of Anasterian/Crown of Dath'Remar": {
-			"prio": ["EP/GP"],
+			"prio": ["Thotpatrol/Maybe Snydi","EP/GP"],
 			"gp": "5",
 			"wowID": "34345",
 			"altID": "34400"
@@ -467,7 +467,7 @@
 			"wowID": "34335"
 		},
 		"Hand of the Deceiver": {
-			"prio": ["LC"],
+			"prio": ["Abdication (1)","Atlassham (1)","LC"],
 			"gp": "12",
 			"wowID": "34331"
 		},
@@ -494,12 +494,12 @@
 			"wowID": "34336"
 		},
 		"Thalassian Ranger Gauntlets": {
-			"prio": ["LC"],
+			"prio": ["Robski (1)","Chiron/Exits (1)","LC"],
 			"gp": "12",
 			"wowID": "34343"
 		},
 		"Thori'dal, the Stars' Fury": {
-			"prio": ["LC"],
+			"prio": ["Chiron will get by week 3","LC"],
 			"gp": "12",
 			"wowID": "34334"
 		}
