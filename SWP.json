@@ -23,7 +23,7 @@
 			"wowID": "34183"
 		},
 		"Mounting Vengeance": {
-			"prio": ["Abdication (1)","Atlassham (1)","EP/GP"],
+			"prio": ["Atlassham (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34346"
 		},
@@ -38,7 +38,7 @@
 			"wowID": "34348"
 		},
 		"Wand of the Demonsoul": {
-			"prio": ["Coxxy","Sniped","Jowsus"],
+			"prio": ["Sniped","Jowsus"],
 			"gp": "5",
 			"wowID": "34347"
 		},
@@ -97,7 +97,7 @@
 			"altID": "34382"
 		},
 		"Pantaloons of Calming Strife/Pantaloons of Growing Strife": {
-			"prio": ["Raehn", "Jaz", "Theprestige"],
+			"prio": ["Jaz", "Theprestige"],
 			"gp": "5",
 			"wowID": "34170",
 			"altID": "34386"
@@ -150,7 +150,7 @@
 			"wowID": "34181"
 		},
 		"Reign of Misery": {
-			"prio": ["Healslol"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34176"
 		}
@@ -238,7 +238,7 @@
 			"wowID": "34210"
 		},
 		"Amulet of Unfettered Magics": {
-			"prio": ["Spagoose"],
+			"prio": ["Casters that need hit"],
 			"gp": "5",
 			"wowID": "34204"
 		},
@@ -352,7 +352,7 @@
 			"wowID": "34213"
 		},
 		"Ring of Omnipotence": {
-			"prio": ["Jowsus", "Coxy"],
+			"prio": ["Coxy", "Sniped"],
 			"gp": "12",
 			"wowID": "34230"
 		},
@@ -477,7 +477,7 @@
 			"wowID": "34344"
 		},
 		"Handguards of the Dawn/Gloves of Tyri's Power": {
-			"prio": ["Jaz", "Micro", "Raehn"],
+			"prio": ["Theprestige","Jaz", "Micro", "Raehn"],
 			"gp": "12",
 			"wowID": "34342",
 			"altID": "34406"
