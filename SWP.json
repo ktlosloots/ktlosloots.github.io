@@ -227,7 +227,7 @@
 			"wowID": "34197"
 		},
 		"Shoulderpads of Vehemence/Demontooth Shoulderpads": {
-			"prio": ["Thotpatrol","Warrior=Enh","EP/GP"],
+			"prio": ["Warrior=Enh","EP/GP"],
 			"gp": "9",
 			"wowID": "34195",
 			"altID": "34392"
@@ -259,7 +259,7 @@
 			"wowID": "34199"
 		},
 		"Band of Ruinous Delight": {
-			"prio": ["Thotpatrol (1)","LC"],
+			"prio": ["TBD on other drops (1)","LC"],
 			"gp": "12",
 			"wowID": "34189"
 		},
@@ -304,7 +304,7 @@
 			"wowID": "34231"
 		},
 		"Blackened Naaru Sliver": {
-			"prio": ["Couldn't be Dillmcpickle, Thotpatrol ofc ;) (1)","EP/GP"],
+			"prio": ["Wayllo (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34427"
 		},
@@ -457,7 +457,7 @@
 			"wowID": "34242"
 		},
 		"Golden Staff of the Sin'dorei": {
-			"prio": ["DEF NOT WINK WINK Mazzo","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34337"
 		},
