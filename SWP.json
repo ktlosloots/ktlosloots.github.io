@@ -13,7 +13,7 @@
 			"altID": "34409"
 		},
 		"Ring of Harmonic Beauty": {
-			"prio": ["Priest>Restro>other healers","EP/GP"],
+			"prio": ["Priest>Restro>Pally=Shaman","EP/GP"],
 			"gp": "6",
 			"wowID": "35733"
 		},
@@ -70,7 +70,7 @@
 			"wowID": "34852"
 		},
 		"Band of Lucent Beams": {
-			"prio": ["EP/GP"],
+			"prio": ["NON-KBAND wearers > 1 KBAND Wearer roll","EP/GP"],
 			"gp": "3",
 			"wowID": "34166"
 		},
@@ -91,7 +91,7 @@
 			"wowID": "34165"
 		},
 		"Legplates of the Holy Juggernaut/Judicator's Legguards": {
-			"prio": ["Sebela","EP/GP"],
+			"prio": ["Sebela/Jeremy","EP/GP"],
 			"gp": "5",
 			"wowID": "34167",
 			"altID": "34382"
@@ -199,7 +199,7 @@
 			"wowID": "34352"
 		},
 		"Brooch of the Highborne": {
-			"prio": ["Scrubby","Sebela","Shaman=Pally","LC"],
+			"prio": ["Scrubby","Jeremy/Sebela","Shaman=Pally","LC"],
 			"gp": "12",
 			"wowID": "34184"
 		}
@@ -286,7 +286,7 @@
 			"altID": "34388"
 		},
 		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender": {
-			"prio": ["Sebela", "LC"],
+			"prio": ["Pally/Sebela", "LC"],
 			"gp": "12",
 			"wowID": "34193",
 			"altID": "34389"
@@ -299,7 +299,7 @@
 	},
 	"Muwu": {
 		"Aegis of Angelic Fortune": {
-			"prio": ["Sebela","Scrubby","Holy Pally>Sham","EP/GP"],
+			"prio": ["Sebela/Jeremy","Scrubby","Holy Pally>Sham","EP/GP"],
 			"gp": "6",
 			"wowID": "34231"
 		},
@@ -320,7 +320,7 @@
 			"altID": "34396"
 		},
 		"Gauntlets of the Soothed Soul": {
-			"prio": ["Sebela","EP/GP"],
+			"prio": ["Sebela/Jeremy","EP/GP"],
 			"gp": "9",
 			"wowID": "34240"
 		},
@@ -336,7 +336,7 @@
 			"altID": "34397"
 		},
 		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard": {
-			"prio": ["Sebela","EP/GP"],
+			"prio": ["Sebela/Jeremy","EP/GP"],
 			"gp": "5",
 			"wowID": "34216",
 			"altID": "34395"
@@ -457,12 +457,12 @@
 			"wowID": "34242"
 		},
 		"Golden Staff of the Sin'dorei": {
-			"prio": ["LC"],
+			"prio": ["Jaz", "No Spire Druid > Priest=Shaman","LC"],
 			"gp": "12",
 			"wowID": "34337"
 		},
 		"Hammer of Sanctification": {
-			"prio": ["Sebela","Jaz","Scrubby", "J","LC"],
+			"prio": ["Sebela/Jeremy","Scrubby","No Spire Pally > Priest=Druid=Shaman","LC"],
 			"gp": "12",
 			"wowID": "34335"
 		},
