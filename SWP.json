@@ -38,7 +38,7 @@
 			"wowID": "34348"
 		},
 		"Wand of the Demonsoul": {
-			"prio": ["Sniped","Jowsus"],
+			"prio": ["Jowsus"],
 			"gp": "5",
 			"wowID": "34347"
 		},
@@ -125,7 +125,7 @@
 			"wowID": "34855"
 		},
 		"Clutch of Demise": {
-			"prio": ["Robski (1)","Abdication (1)","EP/GP"],
+			"prio": ["Abdication (1)","EP/GP"],
 			"gp": "12",
 			"wowID": "34177"
 		},
@@ -178,7 +178,7 @@
 			"altID": "34385"
 		},
 		"Chain Links of the Tumultuous Storm/Kilt of Spiritual Reconstruction": {
-			"prio": ["Scrubby","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "9",
 			"wowID": "34186",
 			"altID": "34383"
@@ -233,7 +233,7 @@
 			"altID": "34392"
 		},
 		"Amice of the Convoker": {
-			"prio": ["Coxy", "Non-dark conjuror users"],
+			"prio": ["Non-dark conjuror users"],
 			"gp": "14",
 			"wowID": "34210"
 		},
@@ -243,7 +243,7 @@
 			"wowID": "34204"
 		},
 		"Golden Bow of Quel'Thalas": {
-			"prio": ["Exits (1)","Chiron (1)","EP/GP"],
+			"prio": ["Exits (1)","EP/GP"],
 			"gp": "5",
 			"wowID": "34196"
 		},
@@ -280,7 +280,7 @@
 			"wowID": "34194"
 		},
 		"Pauldrons of Perseverance/Pauldrons of Berserking": {
-			"prio": ["Dill (1)","Robski (1)","LC"],
+			"prio": ["Robski (1)","LC"],
 			"gp": "12",
 			"wowID": "34192",
 			"altID": "34388"
@@ -309,7 +309,7 @@
 			"wowID": "34427"
 		},
 		"Fel Conquerer Raiments": {
-			"prio": ["Spagoose", "Jowsus"],
+			"prio": ["Jowsus"],
 			"gp": "6",
 			"wowID": "34232"
 		},
@@ -330,7 +330,7 @@
 			"wowID": "34430"
 		},
 		"Harness of Carnal Instinct/Bladed Chaos Tunic": {
-			"prio": ["Cileste (1)","Dillmcpickle (1)","LC"],
+			"prio": ["Dillmcpickle (1)","LC"],
 			"gp": "5",
 			"wowID": "34211",
 			"altID": "34397"
@@ -441,7 +441,7 @@
 			"altID": "34405"
 		},
 		"Crown of Anasterian/Crown of Dath'Remar": {
-			"prio": ["Thotpatrol/Maybe Snydi","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "5",
 			"wowID": "34345",
 			"altID": "34400"
@@ -452,7 +452,7 @@
 			"wowID": "34340"
 		},
 		"Tattered Cape of Antonidas": {
-			"prio": ["Demondred", "Micro", "Tator"],
+			"prio": ["Micro", "Tator"],
 			"gp": "12",
 			"wowID": "34242"
 		},
@@ -499,7 +499,7 @@
 			"wowID": "34343"
 		},
 		"Thori'dal, the Stars' Fury": {
-			"prio": ["Chiron will get by week 3","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34334"
 		}
