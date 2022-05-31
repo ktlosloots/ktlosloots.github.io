@@ -43,7 +43,7 @@
 			"wowID": "34347"
 		},
 		"Sunfire Robe": {
-			"prio": ["Sniped", "Coxy"],
+			"prio": ["Sniped", "Demondred"],
 			"gp": "5",
 			"wowID": "35206"
 		},
@@ -238,7 +238,7 @@
 			"wowID": "34210"
 		},
 		"Amulet of Unfettered Magics": {
-			"prio": ["Casters that need hit"],
+			"prio": ["Coxy(1)","Casters that need hit"],
 			"gp": "5",
 			"wowID": "34204"
 		},
