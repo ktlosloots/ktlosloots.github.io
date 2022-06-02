@@ -172,7 +172,7 @@
 			"wowID": "34858"
 		},
 		"Leggings of the Immortal Night/Leggings of the Immortal Beast": {
-			"prio": ["Exits (1)","Wayllo (1)","LC"],
+			"prio": ["Wayllo (1)","LC"],
 			"gp": "12",
 			"wowID": "34188",
 			"altID": "34385"
@@ -243,7 +243,7 @@
 			"wowID": "34204"
 		},
 		"Golden Bow of Quel'Thalas": {
-			"prio": ["Exits (1)","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "5",
 			"wowID": "34196"
 		},
@@ -299,12 +299,12 @@
 	},
 	"Muwu": {
 		"Aegis of Angelic Fortune": {
-			"prio": ["Sebela/Jeremy","Scrubby","Holy Pally>Sham","EP/GP"],
+			"prio": ["Scrubby","Holy Pally>Sham","EP/GP"],
 			"gp": "6",
 			"wowID": "34231"
 		},
 		"Blackened Naaru Sliver": {
-			"prio": ["Wayllo (1)","EP/GP"],
+			"prio": ["Thotpatrol (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34427"
 		},
@@ -413,7 +413,7 @@
 			"wowID": "34241"
 		},
 		"Cover of Ursol the Wise/Cover of Ursoc the Mighty": {
-			"prio": ["OPH","RESTO w/o COWL","LC"],
+			"prio": ["RESTO w/o COWL","LC"],
 			"gp": "12",
 			"wowID": "34245",
 			"altID": "34403"
@@ -429,7 +429,7 @@
 			"wowID": "34329"
 		},
 		"Cowl of Gul'dan/Shroud of Chieftain Ner'zhul": {
-			"prio": ["Scrubby","Tug","BIS RESTRO SHAMAN", "LC"],
+			"prio": ["Scrubby (1)","BIS RESTRO SHAMAN", "LC"],
 			"gp": "5",
 			"wowID": "34332",
 			"altID": "34402"
@@ -494,7 +494,7 @@
 			"wowID": "34336"
 		},
 		"Thalassian Ranger Gauntlets": {
-			"prio": ["Robski (1)","Chiron/Exits (1)","LC"],
+			"prio": ["Exits (1)","LC"],
 			"gp": "12",
 			"wowID": "34343"
 		},
