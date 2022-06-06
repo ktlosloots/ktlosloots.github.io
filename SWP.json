@@ -43,7 +43,7 @@
 			"wowID": "34347"
 		},
 		"Sunfire Robe": {
-			"prio": ["Sniped", "Demondred"],
+			"prio": ["Sniped"],
 			"gp": "5",
 			"wowID": "35206"
 		},
@@ -75,7 +75,7 @@
 			"wowID": "34166"
 		},
 		"Breeches of Natural Aggression/Breeches of Natural Splendor": {
-			"prio": ["oph", "EP/GP"],
+			"prio": ["oph","Spagoose","EP/GP"],
 			"gp": "6",
 			"wowID": "34169",
 			"altID": "34384"
@@ -145,7 +145,7 @@
 			"wowID": "34179"
 		},
 		"Leggings of Calamity": {
-			"prio": ["Coxy", "Sniped", "Demondred"],
+			"prio": ["Thotpatrol KEKW","Coxy", "Sniped", "Demondred"],
 			"gp": "5",
 			"wowID": "34181"
 		},
@@ -309,7 +309,7 @@
 			"wowID": "34427"
 		},
 		"Fel Conquerer Raiments": {
-			"prio": ["Jowsus"],
+			"prio": ["Jowsus","Sniped (if no sunfire)"],
 			"gp": "6",
 			"wowID": "34232"
 		},
