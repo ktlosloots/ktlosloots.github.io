@@ -23,7 +23,7 @@
 			"wowID": "34183"
 		},
 		"Mounting Vengeance": {
-			"prio": ["Atlassham (1)","EP/GP"],
+			"prio": ["Steroid (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34346"
 		},
@@ -48,7 +48,7 @@
 			"wowID": "35206"
 		},
 		"Carapace of Sun and Shadow": {
-			"prio": ["Atlas","Abdication","EP/GP"],
+			"prio": ["Abdication (1)","Steroid (1)","EP/GP"],
 			"gp": "5",
 			"wowID": "35218"
 		}
@@ -75,7 +75,7 @@
 			"wowID": "34166"
 		},
 		"Breeches of Natural Aggression/Breeches of Natural Splendor": {
-			"prio": ["oph","Spagoose","EP/GP"],
+			"prio": ["Spagoose","EP/GP"],
 			"gp": "6",
 			"wowID": "34169",
 			"altID": "34384"
@@ -145,7 +145,7 @@
 			"wowID": "34179"
 		},
 		"Leggings of Calamity": {
-			"prio": ["Thotpatrol KEKW","Coxy", "Sniped", "Demondred"],
+			"prio": ["Sniped", "Demondred"],
 			"gp": "5",
 			"wowID": "34181"
 		},
@@ -216,7 +216,7 @@
 			"wowID": "34206"
 		},
 		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit": {
-			"prio": ["Mazzo", "Jaz","EP/GP"],
+			"prio": ["Jaz","EP/GP"],
 			"gp": "6",
 			"wowID": "34202",
 			"altID": "34393"
@@ -280,7 +280,7 @@
 			"wowID": "34194"
 		},
 		"Pauldrons of Perseverance/Pauldrons of Berserking": {
-			"prio": ["Robski (1)","LC"],
+			"prio": ["Kaizen (1)","LC"],
 			"gp": "12",
 			"wowID": "34192",
 			"altID": "34388"
@@ -292,7 +292,7 @@
 			"altID": "34389"
 		},
 		"Stanchion of Primal Instinct": {
-			"prio": ["It definitely wouldn't be Cileste","LC"],
+			"prio": ["Thotpatrol ofc (1)","LC"],
 			"gp": "12",
 			"wowID": "34198"
 		}
@@ -330,7 +330,7 @@
 			"wowID": "34430"
 		},
 		"Harness of Carnal Instinct/Bladed Chaos Tunic": {
-			"prio": ["Dillmcpickle (1)","LC"],
+			"prio": ["Chiron (1)","LC"],
 			"gp": "5",
 			"wowID": "34211",
 			"altID": "34397"
@@ -342,7 +342,7 @@
 			"altID": "34395"
 		},
 		"Muramasa": {
-			"prio": ["Wayllo (1)","Destain (2)","LC"],
+			"prio": ["Destain (2)","LC"],
 			"gp": "12",
 			"wowID": "34214"
 		},
@@ -398,7 +398,7 @@
 	},
 	"Kil'Jaeden Smith": {
 		"Apolyon, the Soul-Render": {
-			"prio": ["Robski (1)", "EP/GP"],
+			"prio": ["Kaizen (1)", "EP/GP"],
 			"gp": "6",
 			"wowID": "34247"
 		},
@@ -408,7 +408,7 @@
 			"wowID": "34341"
 		},
 		"Cloak of Unforgivable Sin": {
-			"prio": ["Robski (1)","EP/GP"],
+			"prio": ["Exits (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34241"
 		},
@@ -447,7 +447,7 @@
 			"altID": "34400"
 		},
 		"Dark Conjuror's Collar": {
-			"prio": ["Jowsus", "Demondred"],
+			"prio": ["Demondred"],
 			"gp": "12",
 			"wowID": "34340"
 		},
@@ -467,7 +467,7 @@
 			"wowID": "34335"
 		},
 		"Hand of the Deceiver": {
-			"prio": ["Abdication (1)","Atlassham (1)","LC"],
+			"prio": ["Steroid (1)","LC"],
 			"gp": "12",
 			"wowID": "34331"
 		},
@@ -494,7 +494,7 @@
 			"wowID": "34336"
 		},
 		"Thalassian Ranger Gauntlets": {
-			"prio": ["Exits (1)","LC"],
+			"prio": ["Ppl without Immortal Dusk (1)","LC"],
 			"gp": "12",
 			"wowID": "34343"
 		},
