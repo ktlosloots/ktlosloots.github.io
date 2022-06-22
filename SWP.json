@@ -23,7 +23,7 @@
 			"wowID": "34183"
 		},
 		"Mounting Vengeance": {
-			"prio": ["Steroid (1)","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "6",
 			"wowID": "34346"
 		},
@@ -81,7 +81,7 @@
 			"altID": "34384"
 		},
 		"Dragonscale-Encrusted Longblade": {
-			"prio": ["Snydi>Dill if Snydi low on Exp.","Destain (2)","Tuglight (2)","LC"],
+			"prio": ["Snydi (1)","Destain (2)","Tuglight (2)","LC"],
 			"gp": "5",
 			"wowID": "34164"
 		},
@@ -135,7 +135,7 @@
 			"wowID": "34178"
 		},
 		"Felfury Legplates/Felstrength Legplates": {
-			"prio": ["Snydicate (1)", "Thotpatrol (1)", "LC"],
+			"prio": ["Snydicate (1)","LC"],
 			"gp": "14",
 			"wowID": "34180"
 		},
@@ -222,7 +222,7 @@
 			"altID": "34393"
 		},
 		"Shiv of Exsanguination": {
-			"prio": ["Chiron (1)","Exits (1)","LC"],
+			"prio": ["Exits (1)","LC"],
 			"gp": "12",
 			"wowID": "34197"
 		},
@@ -238,7 +238,7 @@
 			"wowID": "34210"
 		},
 		"Amulet of Unfettered Magics": {
-			"prio": ["Coxy(1)","Casters that need hit"],
+			"prio": ["Casters that need hit"],
 			"gp": "5",
 			"wowID": "34204"
 		},
@@ -275,7 +275,7 @@
 			"wowID": "34203"
 		},
 		"Mantle of the Golden Forest": {
-			"prio": ["Atlassham (1)","Abdication (1)","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34194"
 		},
@@ -304,12 +304,12 @@
 			"wowID": "34231"
 		},
 		"Blackened Naaru Sliver": {
-			"prio": ["Thotpatrol (1)","EP/GP"],
+			"prio": ["Kaizen (1)","EP/GP"],
 			"gp": "6",
 			"wowID": "34427"
 		},
 		"Fel Conquerer Raiments": {
-			"prio": ["Jowsus","Sniped (if no sunfire)"],
+			"prio": ["Sniped (if no sunfire)"],
 			"gp": "6",
 			"wowID": "34232"
 		},
@@ -325,7 +325,7 @@
 			"wowID": "34240"
 		},
 		"Glimmering Naaru Sliver": {
-			"prio": ["Jaz","Scrubby","LC"],
+			"prio": ["Scrubby","LC"],
 			"gp": "14",
 			"wowID": "34430"
 		},
@@ -385,7 +385,7 @@
 			"altID": "34398"
 		},
 		"Vicious Hawkstrider Hauberk": {
-			"prio": ["Exits","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34228"
 		},
@@ -398,7 +398,7 @@
 	},
 	"Kil'Jaeden Smith": {
 		"Apolyon, the Soul-Render": {
-			"prio": ["Kaizen (1)", "EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "6",
 			"wowID": "34247"
 		},
@@ -408,7 +408,7 @@
 			"wowID": "34341"
 		},
 		"Cloak of Unforgivable Sin": {
-			"prio": ["Exits (1)","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "6",
 			"wowID": "34241"
 		},
@@ -435,7 +435,7 @@
 			"altID": "34402"
 		},
 		"Cowl of Light's Purity/Helm of Arcane Purity": {
-			"prio": ["Jaz", "Mazzo","OPH","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "5",
 			"wowID": "34339",
 			"altID": "34405"
@@ -457,7 +457,7 @@
 			"wowID": "34242"
 		},
 		"Golden Staff of the Sin'dorei": {
-			"prio": ["Jaz", "No Spire Druid > Priest=Shaman","LC"],
+			"prio": ["No Spire Druid > Priest=Shaman","LC"],
 			"gp": "12",
 			"wowID": "34337"
 		},
@@ -467,7 +467,7 @@
 			"wowID": "34335"
 		},
 		"Hand of the Deceiver": {
-			"prio": ["Steroid (1)","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34331"
 		},
@@ -477,7 +477,7 @@
 			"wowID": "34344"
 		},
 		"Handguards of the Dawn/Gloves of Tyri's Power": {
-			"prio": ["Theprestige","Jaz", "Micro", "Raehn"],
+			"prio": ["Micro", "Raehn"],
 			"gp": "12",
 			"wowID": "34342",
 			"altID": "34406"
