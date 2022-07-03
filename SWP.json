@@ -140,7 +140,7 @@
 			"wowID": "34180"
 		},
 		"Heart of the Pit": {
-			"prio": ["Tator"],
+			"prio": ["LC"],
 			"gp": "5",
 			"wowID": "34179"
 		},
@@ -184,7 +184,7 @@
 			"altID": "34383"
 		},
 		"Grand Magister": {
-			"prio": ["LC"],
+			"prio": ["Casters that need hit","LC"],
 			"gp": "14",
 			"wowID": "34182"
 		},
@@ -238,7 +238,7 @@
 			"wowID": "34210"
 		},
 		"Amulet of Unfettered Magics": {
-			"prio": ["Casters that need hit"],
+			"prio": ["Demondred","Casters that need hit"],
 			"gp": "5",
 			"wowID": "34204"
 		},
@@ -309,7 +309,7 @@
 			"wowID": "34427"
 		},
 		"Fel Conquerer Raiments": {
-			"prio": ["Sniped (if no sunfire)"],
+			"prio": ["LC"],
 			"gp": "6",
 			"wowID": "34232"
 		},
@@ -352,7 +352,7 @@
 			"wowID": "34213"
 		},
 		"Ring of Omnipotence": {
-			"prio": ["Coxy", "Sniped"],
+			"prio": ["Demondred","Coxy", "Sniped"],
 			"gp": "12",
 			"wowID": "34230"
 		},
@@ -369,7 +369,7 @@
 			"altID": "34408"
 		},
 		"Shifting Naaru Sliver": {
-			"prio": ["Raehn", "Theprestige"],
+			"prio": ["Theprestige", "Raehn"],
 			"gp": "12",
 			"wowID": "34429"
 		},
@@ -452,7 +452,7 @@
 			"wowID": "34340"
 		},
 		"Tattered Cape of Antonidas": {
-			"prio": ["Micro", "Tator"],
+			"prio": ["Micro"],
 			"gp": "12",
 			"wowID": "34242"
 		},
@@ -472,7 +472,7 @@
 			"wowID": "34331"
 		},
 		"Handguards of Defiled Worlds": {
-			"prio": ["Sniped", "Demondred"],
+			"prio": ["Coxy","Demondred"],
 			"gp": "12",
 			"wowID": "34344"
 		},
