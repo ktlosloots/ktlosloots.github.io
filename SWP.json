@@ -369,7 +369,7 @@
 			"altID": "34408"
 		},
 		"Shifting Naaru Sliver": {
-			"prio": ["Raehn", "Theprestige"],
+			"prio": ["Theprestige", "Raehn"],
 			"gp": "12",
 			"wowID": "34429"
 		},
