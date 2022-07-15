@@ -97,7 +97,7 @@
 			"altID": "34382"
 		},
 		"Pantaloons of Calming Strife/Pantaloons of Growing Strife": {
-			"prio": ["Jaz", "Theprestige"],
+			"prio": ["Theprestige"],
 			"gp": "5",
 			"wowID": "34170",
 			"altID": "34386"
@@ -140,7 +140,7 @@
 			"wowID": "34180"
 		},
 		"Heart of the Pit": {
-			"prio": ["LC"],
+			"prio": ["Sniped","LC"],
 			"gp": "5",
 			"wowID": "34179"
 		},
@@ -369,7 +369,7 @@
 			"altID": "34408"
 		},
 		"Shifting Naaru Sliver": {
-			"prio": ["Theprestige", "Raehn"],
+			"prio": ["Theprestige", "Raehn", "Demondred"],
 			"gp": "12",
 			"wowID": "34429"
 		},
@@ -489,7 +489,7 @@
 			"altID": "34401"
 		},
 		"Sunflare": {
-			"prio": [],
+			"prio": ["Coxy"],
 			"gp": "12",
 			"wowID": "34336"
 		},
