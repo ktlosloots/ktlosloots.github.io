@@ -43,12 +43,12 @@
 			"wowID": "34347"
 		},
 		"Sunfire Robe": {
-			"prio": ["Sniped"],
+			"prio": [],
 			"gp": "5",
 			"wowID": "35206"
 		},
 		"Carapace of Sun and Shadow": {
-			"prio": ["Abdication (1)","Steroid (1)","EP/GP"],
+			"prio": ["Steroid (1)","EP/GP"],
 			"gp": "5",
 			"wowID": "35218"
 		}
@@ -81,7 +81,7 @@
 			"altID": "34384"
 		},
 		"Dragonscale-Encrusted Longblade": {
-			"prio": ["Snydi (1)","Destain (2)","Tuglight (2)","LC"],
+			"prio": ["Snydi (1)","Not Destain (2)","Tuglight (2)","LC"],
 			"gp": "5",
 			"wowID": "34164"
 		},
@@ -135,7 +135,7 @@
 			"wowID": "34178"
 		},
 		"Felfury Legplates/Felstrength Legplates": {
-			"prio": ["Snydicate (1)","LC"],
+			"prio": ["LC"],
 			"gp": "14",
 			"wowID": "34180"
 		},
@@ -145,7 +145,7 @@
 			"wowID": "34179"
 		},
 		"Leggings of Calamity": {
-			"prio": ["Sniped", "Demondred"],
+			"prio": ["Sniped", "Demondred","Thotpatrol in raid 2"],
 			"gp": "5",
 			"wowID": "34181"
 		},
@@ -172,7 +172,7 @@
 			"wowID": "34858"
 		},
 		"Leggings of the Immortal Night/Leggings of the Immortal Beast": {
-			"prio": ["Wayllo (1)","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34188",
 			"altID": "34385"
@@ -216,13 +216,13 @@
 			"wowID": "34206"
 		},
 		"Shawl of Wonderment/Shoulderpads of Knowledge's Pursuit": {
-			"prio": ["Jaz","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "6",
 			"wowID": "34202",
 			"altID": "34393"
 		},
 		"Shiv of Exsanguination": {
-			"prio": ["Exits (1)","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34197"
 		},
@@ -286,7 +286,7 @@
 			"altID": "34388"
 		},
 		"Spaulders of the Thalassian Savior/Spaulders of the Thalassian Defender": {
-			"prio": ["Pally/Sebela", "LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34193",
 			"altID": "34389"
@@ -325,24 +325,24 @@
 			"wowID": "34240"
 		},
 		"Glimmering Naaru Sliver": {
-			"prio": ["Scrubby","LC"],
+			"prio": ["LC"],
 			"gp": "14",
 			"wowID": "34430"
 		},
 		"Harness of Carnal Instinct/Bladed Chaos Tunic": {
-			"prio": ["Chiron (1)","LC"],
+			"prio": ["LC"],
 			"gp": "5",
 			"wowID": "34211",
 			"altID": "34397"
 		},
 		"Heroic Judicator's Chestguard/Noble Judicator's Chestguard": {
-			"prio": ["Sebela/Jeremy","EP/GP"],
+			"prio": ["EP/GP"],
 			"gp": "5",
 			"wowID": "34216",
 			"altID": "34395"
 		},
 		"Muramasa": {
-			"prio": ["Destain (2)","LC"],
+			"prio": ["Not Destain (2)","LC"],
 			"gp": "12",
 			"wowID": "34214"
 		},
@@ -379,7 +379,7 @@
 			"wowID": "34428"
 		},
 		"Sunglow Vest/Utopian Tunic of Elune": {
-			"prio": ["oph","LC"],
+			"prio": ["LC"],
 			"gp": "12",
 			"wowID": "34212",
 			"altID": "34398"
@@ -472,7 +472,7 @@
 			"wowID": "34331"
 		},
 		"Handguards of Defiled Worlds": {
-			"prio": ["Coxy","Demondred"],
+			"prio": ["Demondred"],
 			"gp": "12",
 			"wowID": "34344"
 		},
@@ -489,7 +489,7 @@
 			"altID": "34401"
 		},
 		"Sunflare": {
-			"prio": ["Tator", "Theprestige"],
+			"prio": [],
 			"gp": "12",
 			"wowID": "34336"
 		},
